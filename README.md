@@ -1,6 +1,6 @@
 # You're the Oldies!
 
-The music didn't get old. You did. A tiny, static music time machine: enter your high school graduation year and see the song from your era that is now as old as another hit was to you.
+You're the Oldies! is a static music comparison site. Enter a high school graduation year to see a song released during the four years before graduation and a song that was approximately the same age at graduation. Results show the class year, release years, and the current age of the high school song. The site uses a vintage radio and record-store visual style.
 
 ## Local development
 
@@ -21,17 +21,23 @@ npm run build
 npm run preview
 ```
 
-The comparison functions live in `src/lib/comparison.ts`. They accept the current year as an argument, so date logic is deterministic in tests. Each request in the browser reads the current calendar year dynamically.
+The comparison functions live in `src/lib/comparison.ts`. They accept the current year as an argument, so date logic is deterministic in tests. The browser calculates song ages from the current calendar year. Visitors can request another comparison, share a result link, and open Spotify or YouTube Music searches for either song. Listening links use each song's title and artist as search terms; they do not point to specific verified recordings.
 
 ## Maintaining the catalog
 
-Edit `src/data/songs.json`. Each entry has a unique stable `id`, `title`, `artist`, original release `year`, `genre`, and `recognition` from 1 (niche) to 5 (widely recognized). `peakYear` records a later year when the song was especially popular; `url` is also optional. For modern songs, use the earliest public recording release (album or single) for `year`; for historical songs predating commercial recordings, use the earliest documented publication or circulation year of the composition. Use `peakYear` for a later chart peak. Avoid duplicate IDs and verify title, artist credits, release year, and any peak year before adding songs. The app chooses a graduation-era song released in the four years leading up to graduation, then finds the highest-recognition song in the exact target year; it falls back one year either side and marks that result as approximate. Matching code does not invent titles or years.
+Edit `src/data/songs.json`. Each entry has a unique stable `id`, `title`, `artist`, release `year`, `genre`, and `recognition` score from 1 (less widely recognized) to 5 (widely recognized). `peakYear` can record a later year when a song was especially popular; `url` is an optional field. For modern songs, use the earliest public recording release (album or single) for `year`; for historical songs predating commercial recordings, use the earliest documented publication or circulation year of the composition. Use `peakYear` for a later chart peak. Verify song titles, artist credits, and dates before adding entries.
 
-The catalog has 1–2 historically documented songs per year from 1860–1934 and 8–10 popular songs per year from 1935–2025. The earliest supported graduation year is 1945. Recognition scores are editorial estimates intended to make familiar songs more likely to appear; they are not chart rankings. For pre-recording-era songs, consult historical sheet music collections and annual music references to verify dates.
+For a selected graduation year, the app chooses a song released in the four years leading up to that year, then calculates the year of a song that would be the same age at graduation based on the current calendar year. It prefers exact release-year matches and falls back to a song released one year before or after the target year. Approximate matches are labeled with the target year and the matched song's release year. Matching code does not invent song titles or dates.
+
+The catalog includes songs from 1860 onward, with denser coverage of popular music from 1935 through 2025. The earliest accepted graduation year is 1945; match availability depends on catalog coverage. Recognition scores are editorial estimates, not chart rankings. For pre-recording-era songs, consult historical sheet music collections and annual music references to verify dates.
 
 ## Sharing
 
-Result URLs use `grad`, `song`, `oldies`, and `year` query parameters. The oldies song and year preserve the displayed pairing for same-year links; when opened in a later calendar year the app recalculates against the new age relationship. The Web Share API is used where available, with a clipboard fallback. General Open Graph metadata is provided; previews are not generated per result.
+Result URLs use `grad`, `song`, `oldies`, and `year` query parameters. These preserve the selected songs and displayed pairing when a link is opened. The Web Share API is used where available, with a clipboard fallback. General Open Graph metadata is provided; previews are not generated per result.
+
+## Site assets
+
+The shared page layout is in `src/layouts/BaseLayout.astro`. The SVG favicon in `public/favicon.svg` uses the site's vinyl record motif.
 
 ## Deploying to GitHub Pages
 
