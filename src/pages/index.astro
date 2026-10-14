@@ -10,24 +10,24 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
   <main class="shell">
     <header class="masthead">
       <a class="wordmark" href="/" aria-label="You're the Oldies home"><span class="mini-record" aria-hidden="true"></span> YTO <span>FM</span></a>
-      <p class="station">THE STATION FOR FORMERLY CURRENT MUSIC</p>
+      <p class="station">THE SOUNDTRACK OF GROWING UP</p>
       <div class="on-air"><span></span> ON AIR · {nowYear}</div>
     </header>
 
     <section class="hero" aria-labelledby="headline">
       <div class="hero-copy">
-        <p class="eyebrow">A PUBLIC SERVICE ANNOUNCEMENT</p>
+        <p class="eyebrow">YTO FM PRESENTS</p>
         <h1 id="headline">YOU’RE<br /><em>THE OLDIES!</em></h1>
-        <p class="tagline">The music didn’t get old. <strong>You did.</strong></p>
-        <p class="intro">Remember the songs that soundtracked senior year? Let’s see what was already an oldie when you graduated.</p>
+        <p class="tagline">Great music never gets old. <strong>The years just add a good story.</strong></p>
+        <p class="intro">Remember the songs that soundtracked senior year? Let’s find the tune that was the same age when you graduated.</p>
 
         <form id="compare-form" class="year-form">
           <label for="grad-year">WHEN DID YOU GRADUATE HIGH SCHOOL?</label>
           <div class="form-row">
             <input id="grad-year" name="grad" type="number" inputmode="numeric" min={minYear} max={nowYear} placeholder="2003" required aria-describedby="year-help" />
-            <button type="submit">MAKE ME FEEL OLD <span aria-hidden="true">↗</span></button>
+          <button type="submit">TUNE IN <span aria-hidden="true">↗</span></button>
           </div>
-          <small id="year-help">Just the year. We’ll handle the emotional damage.</small>
+          <small id="year-help">Just the year. We’ll handle the musical time travel.</small>
         </form>
         <p id="range-note" class="range-note">{songs.length} songs from {firstCatalogYear} to {latestCatalogYear}. Coverage varies by class year.</p>
         <p id="year-status" class="year-status" role="status"></p>
@@ -39,28 +39,31 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
     </section>
 
     <section id="result" class="result" hidden aria-live="polite" aria-atomic="true">
-      <div class="result-top"><span class="eyebrow">YOUR HIGH SCHOOL ANTHEM</span><span class="year-chip" id="grad-badge"></span></div>
+      <div class="result-top"><span class="eyebrow">YOUR MUSICAL TIME CAPSULE</span><span class="year-chip" id="grad-badge"></span></div>
+      <p class="age-lead"><strong id="age-count"></strong> years later...</p>
       <article class="song-card recent">
-        <span class="side-label">SIDE A · YOUR ERA</span>
+        <span class="side-label">SIDE A · YOUR HIGH SCHOOL SOUNDTRACK</span>
         <div><h2 id="school-title"></h2><p id="school-artist"></p></div>
         <strong class="song-year" id="school-year"></strong>
+        <div class="listen-links" id="school-links" aria-label="Listen to this song"></div>
       </article>
-      <div class="equals"><span></span><strong>IS NOW AS OLD AS THIS WAS TO YOU</strong><span></span></div>
+      <p class="age-explainer"><span id="school-song-name"></span> is <strong id="age-sentence"></strong> years old today.<br /><b>That’s how old this song was when you graduated:</b></p>
       <article class="song-card old">
-        <span class="side-label">SIDE B · THE OLDIES BIN</span>
+        <span class="side-label">SIDE B · THE OLDIES OF YOUR DAY</span>
         <div><h2 id="oldies-title"></h2><p id="oldies-artist"></p></div>
         <strong class="song-year" id="oldies-year"></strong>
+        <div class="listen-links" id="oldies-links" aria-label="Listen to this song"></div>
       </article>
       <p id="approx-note" class="approx-note" hidden></p>
-      <p class="punchline">Congratulations. <strong>You’re the oldies now.</strong></p>
+      <p class="punchline">Funny how the years fly. <strong>Great songs stay with us.</strong></p>
       <div class="result-actions">
         <button type="button" id="another" class="primary">TRY ANOTHER <span aria-hidden="true">↻</span></button>
-        <button type="button" id="share" class="secondary">SHARE THIS DISRESPECT <span aria-hidden="true">↗</span></button>
+        <button type="button" id="share" class="secondary">SHARE THE NOSTALGIA <span aria-hidden="true">↗</span></button>
       </div>
       <p id="share-status" class="share-status" role="status"></p>
     </section>
 
-    <footer><span>YTO FM · EST. APPROXIMATELY WHEN YOU WERE COOL</span><a href="https://youretheoldies.com">YOU’RE THE OLDIES DOT COM</a></footer>
+    <footer><span>YTO FM · PLAYING THE SOUNDTRACK OF GROWING UP</span><a href="https://youretheoldies.com">YOU’RE THE OLDIES DOT COM</a></footer>
   </main>
 </body>
 </html>
@@ -94,12 +97,18 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
     document.querySelector('#school-title')!.textContent = `“${comparison.schoolSong.title}”`;
     document.querySelector('#school-artist')!.textContent = comparison.schoolSong.artist;
     document.querySelector('#school-year')!.textContent = String(comparison.schoolSong.year);
+    const age = comparison.currentYear - comparison.schoolSong.year;
+    document.querySelector('#age-count')!.textContent = String(age);
+    document.querySelector('#age-sentence')!.textContent = String(age);
+    document.querySelector('#school-song-name')!.textContent = `“${comparison.schoolSong.title}”`;
     document.querySelector('#oldies-title')!.textContent = `“${comparison.oldiesSong.title}”`;
     document.querySelector('#oldies-artist')!.textContent = comparison.oldiesSong.artist;
     document.querySelector('#oldies-year')!.textContent = String(comparison.oldiesSong.year);
     const note = document.querySelector<HTMLElement>('#approx-note')!;
     note.hidden = !comparison.approximate;
-    note.textContent = comparison.approximate ? `Close enough for the oldies bin: target year ${comparison.targetYear}.` : '';
+    note.textContent = comparison.approximate ? `A close match: the exact age points to ${comparison.targetYear}; this song was released in ${comparison.matchedYear}.` : '';
+    renderListeningLinks('school-links', comparison.schoolSong);
+    renderListeningLinks('oldies-links', comparison.oldiesSong);
     result.hidden = false;
     shareStatus.textContent = '';
     const url = new URL(window.location.href);
@@ -108,6 +117,25 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
     url.searchParams.set('oldies', comparison.oldiesSong.id);
     url.searchParams.set('year', String(comparison.currentYear));
     history.replaceState(null, '', url);
+  }
+
+  function renderListeningLinks(id: string, song: typeof songs[number]) {
+    const container = document.getElementById(id)!;
+    container.replaceChildren();
+    const query = `${song.title} ${song.artist}`;
+    const links = [
+      { label: 'Spotify', href: `https://open.spotify.com/search/${encodeURIComponent(query)}` },
+      { label: 'YouTube Music', href: `https://music.youtube.com/search?q=${encodeURIComponent(query)}` },
+    ];
+    for (const item of links) {
+      const link = document.createElement('a');
+      link.href = item.href;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = `Listen on ${item.label} ↗`;
+      link.setAttribute('aria-label', `Search ${item.label} for ${song.title} by ${song.artist} (opens in a new tab)`);
+      container.append(link);
+    }
   }
 
   function generate(excluded: string[] = []) {
@@ -244,6 +272,7 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
   .result[hidden] { display: none; }
   .result-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 13px; }
   .year-chip { font: 500 10px 'DM Mono', monospace; border: 1px solid #c7bba4; padding: 7px 9px; color: #71665a; }
+  .age-lead { margin: 0 0 10px; text-align: center; color: #a83e24; font: 600 15px 'DM Mono', monospace; letter-spacing: .12em; text-transform: uppercase; }
   .song-card { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: center; padding: 18px 20px; color: #fff7e7; background: #27201c; }
   .song-card.old { background: #a83e24; }
   .side-label { grid-column: 1 / -1; color: #dfc984; font-size: 9px; }
@@ -251,8 +280,13 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
   .song-card h2 { margin: 0; font: 600 clamp(24px, 5vw, 34px)/1 Oswald,sans-serif; }
   .song-card p { margin: 7px 0 0; color: #e0d3bb; font-size: 14px; }
   .song-year { font: 500 17px 'DM Mono', monospace; }
-  .equals { display: flex; gap: 12px; align-items: center; justify-content: center; margin: 19px 0; color: #776a5d; text-align: center; font: 500 9px 'DM Mono',monospace; letter-spacing: .09em; }
-  .equals span { flex: 1; height: 1px; background: #d5c8ae; }
+  .listen-links { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 8px; }
+  .listen-links a { color: #f0d78e; font: 500 10px 'DM Mono', monospace; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  .old .listen-links a { color: #fff0c7; }
+  .listen-links a:hover { color: #fff; }
+  .age-explainer { margin: 16px 0; color: #776a5d; text-align: center; font-size: 13px; line-height: 1.6; }
+  .age-explainer strong { color: #a83e24; }
+  .age-explainer b { color: #302720; font-weight: 600; }
   .approx-note { color: #746657; font-size: 12px; font-style: italic; margin: 10px 0 0; }
   .punchline { text-align: center; font: 500 15px 'DM Sans',sans-serif; margin: 24px 0 18px; }
   .punchline strong { color: #a83e24; font: 700 24px Oswald,sans-serif; display: block; margin-top: 4px; }
@@ -276,7 +310,9 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
     .vinyl { width: min(58vw, 240px); box-shadow: 6px 9px 0 #a83e24, 10px 14px 21px #30201854; }
     .result { margin: 0 auto 44px; padding: 18px 14px; }
     .song-card { padding: 16px 14px; }
-    .equals { font-size: 8px; gap: 8px; }
+    .age-lead { font-size: 12px; }
+    .age-explainer { font-size: 12px; }
+    .listen-links { gap: 12px; }
     footer { font-size: 7px; letter-spacing: .05em; }
   }
   @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; } }
