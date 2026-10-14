@@ -48,3 +48,7 @@ The shared page layout is in `src/layouts/BaseLayout.astro`. The SVG favicon in 
 5. At your DNS provider, point the apex domain to GitHub Pages using its published A/AAAA records, or use an ALIAS/ANAME record if supported. Add `www` as a CNAME to the GitHub Pages host if you want that hostname too. Enable **Enforce HTTPS** after DNS has propagated.
 
 The Astro site URL is set to `https://youretheoldies.com` in `astro.config.mjs`; no server or API keys are required.
+
+## License
+
+The original source code and associated documentation are available under the MIT License in [LICENSE](LICENSE), so they can be used in forks and adaptations. The You're the Oldies! / YTO FM names, logos, visual identity, and domain names are excluded from that license; forks should use distinct branding and must not imply endorsement or affiliation. The song catalog at `src/data/songs.json` is also excluded. Song titles, artist names, and other third-party material remain subject to the rights of their respective owners; this repository grants no rights to them.
