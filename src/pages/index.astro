@@ -1,0 +1,283 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { songs } from '../lib/comparison';
+const nowYear = new Date().getFullYear();
+const minYear = 1950;
+const firstCatalogYear = Math.min(...songs.map((song) => song.year));
+const latestCatalogYear = Math.max(...songs.map((song) => song.year));
+---
+<BaseLayout>
+  <main class="shell">
+    <header class="masthead">
+      <a class="wordmark" href="/" aria-label="You're the Oldies home"><span class="mini-record" aria-hidden="true"></span> YTO <span>FM</span></a>
+      <p class="station">THE STATION FOR FORMERLY CURRENT MUSIC</p>
+      <div class="on-air"><span></span> ON AIR · {nowYear}</div>
+    </header>
+
+    <section class="hero" aria-labelledby="headline">
+      <div class="hero-copy">
+        <p class="eyebrow">A PUBLIC SERVICE ANNOUNCEMENT</p>
+        <h1 id="headline">YOU’RE<br /><em>THE OLDIES!</em></h1>
+        <p class="tagline">The music didn’t get old. <strong>You did.</strong></p>
+        <p class="intro">Remember the songs that soundtracked senior year? Let’s see what was already an oldie when you graduated.</p>
+
+        <form id="compare-form" class="year-form">
+          <label for="grad-year">WHEN DID YOU GRADUATE HIGH SCHOOL?</label>
+          <div class="form-row">
+            <input id="grad-year" name="grad" type="number" inputmode="numeric" min={minYear} max={nowYear} placeholder="2003" required aria-describedby="year-help" />
+            <button type="submit">MAKE ME FEEL OLD <span aria-hidden="true">↗</span></button>
+          </div>
+          <small id="year-help">Just the year. We’ll handle the emotional damage.</small>
+        </form>
+        <p id="range-note" class="range-note">{songs.length} songs from {firstCatalogYear} to {latestCatalogYear}. Coverage varies by class year.</p>
+        <p id="year-status" class="year-status" role="status"></p>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="sunburst"></div>
+        <div class="vinyl"><div class="groove g1"></div><div class="groove g2"></div><div class="groove g3"></div><div class="label"><span>YTO</span><small>OLDIES<br />SIDE A</small><b>33⅓</b></div></div>
+      </div>
+    </section>
+
+    <section id="result" class="result" hidden aria-live="polite" aria-atomic="true">
+      <div class="result-top"><span class="eyebrow">YOUR HIGH SCHOOL ANTHEM</span><span class="year-chip" id="grad-badge"></span></div>
+      <article class="song-card recent">
+        <span class="side-label">SIDE A · YOUR ERA</span>
+        <div><h2 id="school-title"></h2><p id="school-artist"></p></div>
+        <strong class="song-year" id="school-year"></strong>
+      </article>
+      <div class="equals"><span></span><strong>IS NOW AS OLD AS THIS WAS TO YOU</strong><span></span></div>
+      <article class="song-card old">
+        <span class="side-label">SIDE B · THE OLDIES BIN</span>
+        <div><h2 id="oldies-title"></h2><p id="oldies-artist"></p></div>
+        <strong class="song-year" id="oldies-year"></strong>
+      </article>
+      <p id="approx-note" class="approx-note" hidden></p>
+      <p class="punchline">Congratulations. <strong>You’re the oldies now.</strong></p>
+      <div class="result-actions">
+        <button type="button" id="another" class="primary">TRY ANOTHER <span aria-hidden="true">↻</span></button>
+        <button type="button" id="share" class="secondary">SHARE THIS DISRESPECT <span aria-hidden="true">↗</span></button>
+      </div>
+      <p id="share-status" class="share-status" role="status"></p>
+    </section>
+
+    <footer><span>YTO FM · EST. APPROXIMATELY WHEN YOU WERE COOL</span><a href="https://youretheoldies.com">YOU’RE THE OLDIES DOT COM</a></footer>
+  </main>
+</body>
+</html>
+
+<script>
+  import { createComparison, songs } from '../lib/comparison';
+  import type { Comparison } from '../lib/comparison';
+
+  const form = document.querySelector<HTMLFormElement>('#compare-form')!;
+  const input = document.querySelector<HTMLInputElement>('#grad-year')!;
+  const result = document.querySelector<HTMLElement>('#result')!;
+  const shareStatus = document.querySelector<HTMLElement>('#share-status')!;
+  const yearStatus = document.querySelector<HTMLElement>('#year-status')!;
+  const rangeNote = document.querySelector<HTMLElement>('#range-note')!;
+  const seen = new Set<string>();
+  let grad = 0;
+  let selectedSongId: string | undefined;
+  let current: Comparison | undefined;
+  const thisYear = new Date().getFullYear();
+  const supportedYears: number[] = [];
+  for (let year = 1950; year <= thisYear; year++) {
+    const hasMatch = songs.some((song) => song.year >= year - 4 && song.year <= year && createComparison(year, thisYear, song.id));
+    if (hasMatch) supportedYears.push(year);
+  }
+  if (supportedYears.length) rangeNote.textContent = `Matchups currently available for the classes of ${supportedYears[0]}–${supportedYears[supportedYears.length - 1]}.`;
+
+  function render(comparison: Comparison) {
+    current = comparison;
+    seen.add(comparison.oldiesSong.id);
+    document.querySelector('#grad-badge')!.textContent = `CLASS OF ${comparison.graduationYear}`;
+    document.querySelector('#school-title')!.textContent = `“${comparison.schoolSong.title}”`;
+    document.querySelector('#school-artist')!.textContent = comparison.schoolSong.artist;
+    document.querySelector('#school-year')!.textContent = String(comparison.schoolSong.year);
+    document.querySelector('#oldies-title')!.textContent = `“${comparison.oldiesSong.title}”`;
+    document.querySelector('#oldies-artist')!.textContent = comparison.oldiesSong.artist;
+    document.querySelector('#oldies-year')!.textContent = String(comparison.oldiesSong.year);
+    const note = document.querySelector<HTMLElement>('#approx-note')!;
+    note.hidden = !comparison.approximate;
+    note.textContent = comparison.approximate ? `Close enough for the oldies bin: target year ${comparison.targetYear}.` : '';
+    result.hidden = false;
+    shareStatus.textContent = '';
+    const url = new URL(window.location.href);
+    url.searchParams.set('grad', String(grad));
+    url.searchParams.set('song', comparison.schoolSong.id);
+    url.searchParams.set('oldies', comparison.oldiesSong.id);
+    url.searchParams.set('year', String(comparison.currentYear));
+    history.replaceState(null, '', url);
+  }
+
+  function generate(excluded: string[] = []) {
+    const comparison = createComparison(grad, thisYear, selectedSongId, excluded);
+    if (comparison) {
+      yearStatus.textContent = '';
+      render(comparison);
+    } else {
+      const first = supportedYears[0];
+      const last = supportedYears[supportedYears.length - 1];
+      yearStatus.textContent = first === undefined ? 'The music crate came up empty. Try again later.' : `We don’t have a matchup for that class year yet. Our catalog currently covers ${first}–${last}.`;
+    }
+  }
+
+  form.addEventListener('submit', (event) => {
+    event.preventDefault();
+    grad = Number(input.value);
+    if (!Number.isInteger(grad) || grad < 1950 || grad > thisYear) {
+      input.setCustomValidity(`Enter a year between 1950 and ${thisYear}.`);
+      input.reportValidity();
+      return;
+    }
+    input.setCustomValidity('');
+    selectedSongId = undefined;
+    seen.clear();
+    generate();
+    result.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+
+  document.querySelector('#another')!.addEventListener('click', () => {
+    if (!current) return;
+    const schoolEra = songs.filter((song) => song.year >= grad - 4 && song.year <= grad);
+    const next = schoolEra.find((song) => song.id !== current!.schoolSong.id && !seen.has(song.id));
+    if (next) {
+      selectedSongId = next.id;
+      generate([...seen]);
+      return;
+    }
+    selectedSongId = current.schoolSong.id;
+    const alternatives = songs.filter((song) => song.year >= grad - 4 && song.year <= grad && song.id !== current!.schoolSong.id)
+      .sort((a, b) => b.recognition - a.recognition || b.year - a.year);
+    for (const candidate of alternatives) {
+      const retry = createComparison(grad, thisYear, candidate.id, [...seen]);
+      if (retry) {
+        selectedSongId = candidate.id;
+        render(retry);
+        return;
+      }
+    }
+    selectedSongId = undefined;
+    seen.clear();
+    generate();
+  });
+  document.querySelector('#share')!.addEventListener('click', async () => {
+    if (!current) return;
+    const shareData = { title: "You're the Oldies!", text: `Class of ${grad}: ${current.schoolSong.title} is as old as ${current.oldiesSong.title} was to you.`, url: window.location.href };
+    try {
+      if (navigator.share) await navigator.share(shareData);
+      else {
+        await navigator.clipboard.writeText(window.location.href);
+        shareStatus.textContent = 'Link copied. Send it to someone who remembers.';
+      }
+    } catch (error) {
+      if (error instanceof Error && error.name !== 'AbortError') shareStatus.textContent = 'Could not share right now. Copy the address bar link instead.';
+    }
+  });
+
+  const params = new URLSearchParams(window.location.search);
+  const sharedGrad = Number(params.get('grad'));
+  if (Number.isInteger(sharedGrad) && sharedGrad >= 1950 && sharedGrad <= thisYear) {
+    grad = sharedGrad;
+    input.value = String(grad);
+    const sharedSong = params.get('song') || undefined;
+    const fixedOldies = params.get('oldies');
+    selectedSongId = sharedSong;
+    const sharedYear = Number(params.get('year'));
+    if (fixedOldies && Number.isInteger(sharedYear)) {
+      const comparison = createComparison(grad, thisYear, sharedSong);
+      const schoolSong = songs.find((song) => song.id === sharedSong);
+      const oldiesSong = songs.find((song) => song.id === fixedOldies);
+      if (comparison && schoolSong && oldiesSong) {
+        const targetYear = grad - ((Number.isInteger(sharedYear) ? sharedYear : thisYear) - schoolSong.year);
+        render({ ...comparison, schoolSong, oldiesSong, targetYear, matchedYear: oldiesSong.year, approximate: oldiesSong.year !== targetYear });
+        result.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      } else generate();
+    } else generate();
+  }
+</script>
+
+<style>
+  .shell { max-width: 1100px; padding: 0 24px; margin: auto; }
+  .masthead { height: 78px; display: flex; align-items: center; gap: 18px; border-bottom: 1px solid #c7bba4; }
+  .wordmark { font-family: Oswald, sans-serif; font-size: 25px; font-weight: 700; text-decoration: none; letter-spacing: -.04em; }
+  .wordmark span:last-child { color: #a83e24; font-size: 13px; letter-spacing: .05em; vertical-align: top; }
+  .mini-record { display: inline-block; vertical-align: 2px; width: 19px; height: 19px; border-radius: 50%; background: repeating-radial-gradient(circle, #201a17 0 1px, #413831 2px 3px); position: relative; }
+  .mini-record:after { content: ''; width: 5px; height: 5px; background: #d7a834; border-radius: 50%; position: absolute; top: 7px; left: 7px; }
+  .station, .on-air, .eyebrow, .year-form label, .side-label, footer, .range-note { font: 500 10px 'DM Mono', monospace; letter-spacing: .12em; }
+  .station { color: #71665a; margin-right: auto; }
+  .on-air { color: #a83e24; }
+  .on-air span { display: inline-block; width: 7px; height: 7px; margin-right: 5px; background: #bc492e; border-radius: 50%; box-shadow: 0 0 0 3px #e6cfc1; }
+  .hero { min-height: 570px; display: grid; grid-template-columns: 1.12fr .88fr; align-items: center; gap: 24px; padding: 40px 0 48px; }
+  .hero-copy { position: relative; z-index: 1; }
+  .eyebrow { color: #a44128; margin: 0 0 14px; }
+  h1 { font: 700 clamp(62px, 9vw, 106px)/.88 Oswald, sans-serif; letter-spacing: -.045em; margin: 0; }
+  h1 em { font-style: normal; color: #a83e24; }
+  .tagline { font-size: 19px; margin: 22px 0 10px; }
+  .tagline strong { color: #a83e24; }
+  .intro { max-width: 450px; color: #5f554b; font-size: 15px; line-height: 1.6; margin: 0 0 29px; }
+  .year-form { max-width: 510px; }
+  .year-form label { display: block; margin-bottom: 9px; font-weight: 500; }
+  .form-row { display: flex; gap: 9px; }
+  input { min-width: 0; width: 135px; height: 53px; border: 1px solid #b9aa91; border-radius: 2px; background: #fbf7ec; font: 600 22px 'DM Mono', monospace; padding: 0 12px; color: #231c19; }
+  input:focus-visible, button:focus-visible, a:focus-visible { outline: 3px solid #d5a52d; outline-offset: 3px; }
+  button { border: 0; border-radius: 2px; font: 700 12px 'DM Mono', monospace; letter-spacing: .05em; }
+  .form-row button, .primary { background: #a83e24; color: #fff7e7; padding: 0 19px; }
+  .form-row button:hover, .primary:hover { background: #832e1b; }
+  .form-row button span, .primary span { margin-left: 12px; font-size: 17px; }
+  .year-form small { display: block; color: #71665a; font-size: 12px; margin-top: 8px; }
+  .range-note { color: #857969; margin-top: 22px; font-size: 9px; }
+  .year-status { color: #a83e24; font-size: 12px; margin: 8px 0 0; min-height: 16px; }
+  .hero-art { min-height: 420px; position: relative; display: grid; place-items: center; }
+  .sunburst { position: absolute; width: 390px; height: 390px; border-radius: 50%; background: repeating-conic-gradient(from 0deg, #e4c873 0deg 9deg, #f0dfac 9deg 18deg); opacity: .5; }
+  .vinyl { width: min(32vw, 335px); aspect-ratio: 1; position: relative; border-radius: 50%; background: repeating-radial-gradient(circle at center, #1e1917 0px 2px, #332a25 3px 4px, #171412 5px 7px); box-shadow: 9px 15px 0 #a83e24, 12px 20px 28px #30201854; transform: rotate(-11deg); animation: turn 30s linear infinite; }
+  .vinyl:before { content: ''; position: absolute; inset: 8%; border-radius: 50%; border: 1px solid #81786e; opacity: .5; }
+  .groove { border: 1px solid #67605a; border-radius: 50%; position: absolute; inset: 15%; opacity: .38; }
+  .g2 { inset: 23%; }.g3 { inset: 31%; }
+  .label { position: absolute; inset: 32%; border-radius: 50%; background: #d7a834; color: #32231b; display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center; }
+  .label:after { content: ''; position: absolute; width: 9px; height: 9px; border-radius: 50%; background: #251e19; }
+  .label span { font: 700 25px Oswald, sans-serif; }
+  .label small { font: 500 7px/1.3 'DM Mono', monospace; letter-spacing: .12em; margin-top: 3px; }
+  .label b { position: absolute; bottom: 13%; font: 500 7px 'DM Mono', monospace; }
+  @keyframes turn { to { transform: rotate(349deg); } }
+  .result { max-width: 720px; margin: 10px auto 70px; padding: 28px; background: #fbf7ec; border: 1px solid #d5c8ae; box-shadow: 5px 6px 0 #d9c9a9; scroll-margin-top: 20px; }
+  .result[hidden] { display: none; }
+  .result-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 13px; }
+  .year-chip { font: 500 10px 'DM Mono', monospace; border: 1px solid #c7bba4; padding: 7px 9px; color: #71665a; }
+  .song-card { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: center; padding: 18px 20px; color: #fff7e7; background: #27201c; }
+  .song-card.old { background: #a83e24; }
+  .side-label { grid-column: 1 / -1; color: #dfc984; font-size: 9px; }
+  .old .side-label { color: #f2d19a; }
+  .song-card h2 { margin: 0; font: 600 clamp(24px, 5vw, 34px)/1 Oswald,sans-serif; }
+  .song-card p { margin: 7px 0 0; color: #e0d3bb; font-size: 14px; }
+  .song-year { font: 500 17px 'DM Mono', monospace; }
+  .equals { display: flex; gap: 12px; align-items: center; justify-content: center; margin: 19px 0; color: #776a5d; text-align: center; font: 500 9px 'DM Mono',monospace; letter-spacing: .09em; }
+  .equals span { flex: 1; height: 1px; background: #d5c8ae; }
+  .approx-note { color: #746657; font-size: 12px; font-style: italic; margin: 10px 0 0; }
+  .punchline { text-align: center; font: 500 15px 'DM Sans',sans-serif; margin: 24px 0 18px; }
+  .punchline strong { color: #a83e24; font: 700 24px Oswald,sans-serif; display: block; margin-top: 4px; }
+  .result-actions { display: flex; justify-content: center; flex-wrap: wrap; gap: 9px; }
+  .result-actions button { min-height: 46px; padding: 0 16px; }
+  .secondary { border: 1px solid #c7bba4; background: transparent; color: #302720; }
+  .secondary:hover { background: #f0e5ce; }
+  .share-status { min-height: 16px; text-align: center; color: #5d6d3c; font-size: 12px; margin: 9px 0 0; }
+  footer { border-top: 1px solid #c7bba4; min-height: 58px; display: flex; align-items: center; justify-content: space-between; gap: 12px; color: #857969; font-size: 9px; }
+  footer a { text-decoration: none; }
+  @media (max-width: 700px) {
+    .shell { padding: 0 18px; }
+    .masthead { height: 61px; gap: 10px; }
+    .station { font-size: 8px; letter-spacing: .04em; }
+    .on-air { font-size: 8px; white-space: nowrap; }
+    .hero { display: flex; flex-direction: column; align-items: stretch; gap: 0; padding: 43px 0 28px; }
+    h1 { font-size: clamp(62px, 16vw, 89px); }
+    .intro { max-width: 390px; }
+    .hero-art { min-height: 260px; margin-top: 3px; overflow: hidden; }
+    .sunburst { width: 280px; height: 280px; }
+    .vinyl { width: min(58vw, 240px); box-shadow: 6px 9px 0 #a83e24, 10px 14px 21px #30201854; }
+    .result { margin: 0 auto 44px; padding: 18px 14px; }
+    .song-card { padding: 16px 14px; }
+    .equals { font-size: 8px; gap: 8px; }
+    footer { font-size: 7px; letter-spacing: .05em; }
+  }
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; } }
+</style>

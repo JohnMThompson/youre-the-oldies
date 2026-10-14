@@ -1,0 +1,1461 @@
+[
+  {
+    "id": "theme-from-a-summer-place",
+    "title": "Theme from A Summer Place",
+    "artist": "Percy Faith",
+    "year": 1959,
+    "peakYear": 1960,
+    "genre": "Easy listening",
+    "recognition": 4
+  },
+  {
+    "id": "cathy-s-clown",
+    "title": "Cathy's Clown",
+    "artist": "The Everly Brothers",
+    "year": 1960,
+    "genre": "Rock and roll",
+    "recognition": 4
+  },
+  {
+    "id": "runaway-del-shannon",
+    "title": "Runaway",
+    "artist": "Del Shannon",
+    "year": 1961,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "stand-by-me",
+    "title": "Stand by Me",
+    "artist": "Ben E. King",
+    "year": 1961,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "the-twist",
+    "title": "The Twist",
+    "artist": "Chubby Checker",
+    "year": 1960,
+    "genre": "Dance",
+    "recognition": 5
+  },
+  {
+    "id": "big-girls-dont-cry",
+    "title": "Big Girls Don't Cry",
+    "artist": "The Four Seasons",
+    "year": 1962,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "he-s-so-fine",
+    "title": "He's So Fine",
+    "artist": "The Chiffons",
+    "year": 1963,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "be-my-baby",
+    "title": "Be My Baby",
+    "artist": "The Ronettes",
+    "year": 1963,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "i-want-to-hold-your-hand",
+    "title": "I Want to Hold Your Hand",
+    "artist": "The Beatles",
+    "year": 1963,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "oh-pretty-woman",
+    "title": "Oh, Pretty Woman",
+    "artist": "Roy Orbison",
+    "year": 1964,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "my-girl",
+    "title": "My Girl",
+    "artist": "The Temptations",
+    "year": 1964,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "stop-in-the-name-of-love",
+    "title": "Stop! In the Name of Love",
+    "artist": "The Supremes",
+    "year": 1965,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "i-cant-help-myself",
+    "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+    "artist": "Four Tops",
+    "year": 1965,
+    "genre": "Soul",
+    "recognition": 4
+  },
+  {
+    "id": "california-dreamin",
+    "title": "California Dreamin'",
+    "artist": "The Mamas & the Papas",
+    "year": 1965,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "you-cant-hurry-love",
+    "title": "You Can't Hurry Love",
+    "artist": "The Supremes",
+    "year": 1966,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "good-vibrations",
+    "title": "Good Vibrations",
+    "artist": "The Beach Boys",
+    "year": 1966,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "respect",
+    "title": "Respect",
+    "artist": "Aretha Franklin",
+    "year": 1967,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "light-my-fire",
+    "title": "Light My Fire",
+    "artist": "The Doors",
+    "year": 1967,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "hey-jude",
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "year": 1968,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "sittin-on-the-dock-of-the-bay",
+    "title": "(Sittin' On) The Dock of the Bay",
+    "artist": "Otis Redding",
+    "year": 1968,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "sugar-sugar",
+    "title": "Sugar, Sugar",
+    "artist": "The Archies",
+    "year": 1969,
+    "genre": "Bubblegum pop",
+    "recognition": 5
+  },
+  {
+    "id": "aquarius-let-the-sunshine-in",
+    "title": "Aquarius/Let the Sunshine In",
+    "artist": "The 5th Dimension",
+    "year": 1969,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "bridge-over-troubled-water",
+    "title": "Bridge over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "year": 1970,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "abc",
+    "title": "ABC",
+    "artist": "The Jackson 5",
+    "year": 1970,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "joy-to-the-world",
+    "title": "Joy to the World",
+    "artist": "Three Dog Night",
+    "year": 1970,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "me-and-bobby-mcgee",
+    "title": "Me and Bobby McGee",
+    "artist": "Janis Joplin",
+    "year": 1971,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "imagine",
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "year": 1971,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "american-pie",
+    "title": "American Pie",
+    "artist": "Don McLean",
+    "year": 1971,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "the-first-time-ever-i-saw-your-face",
+    "title": "The First Time Ever I Saw Your Face",
+    "artist": "Roberta Flack",
+    "year": 1969,
+    "peakYear": 1972,
+    "genre": "Soul",
+    "recognition": 4
+  },
+  {
+    "id": "lean-on-me",
+    "title": "Lean on Me",
+    "artist": "Bill Withers",
+    "year": 1972,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "superstition",
+    "title": "Superstition",
+    "artist": "Stevie Wonder",
+    "year": 1972,
+    "genre": "Funk",
+    "recognition": 5
+  },
+  {
+    "id": "tie-a-yellow-ribbon",
+    "title": "Tie a Yellow Ribbon Round the Ole Oak Tree",
+    "artist": "Tony Orlando and Dawn",
+    "year": 1973,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "lets-get-it-on",
+    "title": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "year": 1973,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "the-way-we-were",
+    "title": "The Way We Were",
+    "artist": "Barbra Streisand",
+    "year": 1973,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "dancing-machine",
+    "title": "Dancing Machine",
+    "artist": "The Jackson 5",
+    "year": 1974,
+    "genre": "Soul",
+    "recognition": 4
+  },
+  {
+    "id": "you-aint-seen-nothin-yet",
+    "title": "You Ain't Seen Nothing Yet",
+    "artist": "Bachman-Turner Overdrive",
+    "year": 1974,
+    "genre": "Rock",
+    "recognition": 4
+  },
+  {
+    "id": "love-will-keep-us-together",
+    "title": "Love Will Keep Us Together",
+    "artist": "Captain & Tennille",
+    "year": 1975,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "thats-the-way-i-like-it",
+    "title": "That's the Way (I Like It)",
+    "artist": "KC and the Sunshine Band",
+    "year": 1975,
+    "genre": "Disco",
+    "recognition": 4
+  },
+  {
+    "id": "bohemian-rhapsody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "year": 1975,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "silly-love-songs",
+    "title": "Silly Love Songs",
+    "artist": "Wings",
+    "year": 1976,
+    "genre": "Pop rock",
+    "recognition": 4
+  },
+  {
+    "id": "dancing-queen",
+    "title": "Dancing Queen",
+    "artist": "ABBA",
+    "year": 1976,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "hotel-california",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "year": 1976,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "stay-in-alive",
+    "title": "Stayin' Alive",
+    "artist": "Bee Gees",
+    "year": 1977,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "best-of-my-love",
+    "title": "Best of My Love",
+    "artist": "The Emotions",
+    "year": 1977,
+    "genre": "Soul",
+    "recognition": 4
+  },
+  {
+    "id": "night-fever",
+    "title": "Night Fever",
+    "artist": "Bee Gees",
+    "year": 1977,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "shadow-dancing",
+    "title": "Shadow Dancing",
+    "artist": "Andy Gibb",
+    "year": 1978,
+    "genre": "Disco",
+    "recognition": 4
+  },
+  {
+    "id": "le-freak",
+    "title": "Le Freak",
+    "artist": "Chic",
+    "year": 1978,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "i-will-survive",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "year": 1978,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "my-sharona",
+    "title": "My Sharona",
+    "artist": "The Knack",
+    "year": 1979,
+    "genre": "Power pop",
+    "recognition": 5
+  },
+  {
+    "id": "dont-stop-til-you-get-enough",
+    "title": "Don't Stop 'Til You Get Enough",
+    "artist": "Michael Jackson",
+    "year": 1979,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "heart-of-glass",
+    "title": "Heart of Glass",
+    "artist": "Blondie",
+    "year": 1979,
+    "genre": "New wave",
+    "recognition": 5
+  },
+  {
+    "id": "call-me",
+    "title": "Call Me",
+    "artist": "Blondie",
+    "year": 1980,
+    "genre": "New wave",
+    "recognition": 5
+  },
+  {
+    "id": "another-one-bites-the-dust",
+    "title": "Another One Bites the Dust",
+    "artist": "Queen",
+    "year": 1980,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "celebration",
+    "title": "Celebration",
+    "artist": "Kool & the Gang",
+    "year": 1980,
+    "genre": "Funk",
+    "recognition": 5
+  },
+  {
+    "id": "dont-stop-believin",
+    "title": "Don't Stop Believin'",
+    "artist": "Journey",
+    "year": 1981,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "physical",
+    "title": "Physical",
+    "artist": "Olivia Newton-John",
+    "year": 1981,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "billie-jean",
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "peakYear": 1983,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "beat-it",
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "year": 1983,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "total-eclipse-of-the-heart",
+    "title": "Total Eclipse of the Heart",
+    "artist": "Bonnie Tyler",
+    "year": 1983,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "every-breath-you-take",
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "year": 1983,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "girls-just-want-to-have-fun",
+    "title": "Girls Just Want to Have Fun",
+    "artist": "Cyndi Lauper",
+    "year": 1983,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "like-a-virgin",
+    "title": "Like a Virgin",
+    "artist": "Madonna",
+    "year": 1984,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "when-doves-cry",
+    "title": "When Doves Cry",
+    "artist": "Prince",
+    "year": 1984,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "wake-me-up-before-you-go-go",
+    "title": "Wake Me Up Before You Go-Go",
+    "artist": "Wham!",
+    "year": 1984,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "take-on-me",
+    "title": "Take on Me",
+    "artist": "a-ha",
+    "year": 1985,
+    "genre": "Synth-pop",
+    "recognition": 5
+  },
+  {
+    "id": "careless-whisper",
+    "title": "Careless Whisper",
+    "artist": "Wham! feat. George Michael",
+    "year": 1984,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "everybody-wants-to-rule-the-world",
+    "title": "Everybody Wants to Rule the World",
+    "artist": "Tears for Fears",
+    "year": 1985,
+    "genre": "New wave",
+    "recognition": 5
+  },
+  {
+    "id": "walk-like-an-egyptian",
+    "title": "Walk Like an Egyptian",
+    "artist": "The Bangles",
+    "year": 1986,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "livin-on-a-prayer",
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "year": 1986,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "with-or-without-you",
+    "title": "With or Without You",
+    "artist": "U2",
+    "year": 1987,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "never-gonna-give-you-up",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "year": 1987,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "faith",
+    "title": "Faith",
+    "artist": "George Michael",
+    "year": 1987,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "sweet-child-o-mine",
+    "title": "Sweet Child o' Mine",
+    "artist": "Guns N' Roses",
+    "year": 1988,
+    "genre": "Hard rock",
+    "recognition": 5
+  },
+  {
+    "id": "pour-some-sugar-on-me",
+    "title": "Pour Some Sugar on Me",
+    "artist": "Def Leppard",
+    "year": 1987,
+    "genre": "Hard rock",
+    "recognition": 5
+  },
+  {
+    "id": "faithfully",
+    "title": "Faithfully",
+    "artist": "Journey",
+    "year": 1983,
+    "genre": "Rock",
+    "recognition": 4
+  },
+  {
+    "id": "like-a-prayer",
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "year": 1989,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "another-day-in-paradise",
+    "title": "Another Day in Paradise",
+    "artist": "Phil Collins",
+    "year": 1989,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "wind-beneath-my-wings",
+    "title": "Wind Beneath My Wings",
+    "artist": "Bette Midler",
+    "year": 1989,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "vogue",
+    "title": "Vogue",
+    "artist": "Madonna",
+    "year": 1990,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "nothing-compares-2-u",
+    "title": "Nothing Compares 2 U",
+    "artist": "Sinéad O'Connor",
+    "year": 1990,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "u-cant-touch-this",
+    "title": "U Can't Touch This",
+    "artist": "MC Hammer",
+    "year": 1990,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "smells-like-teen-spirit",
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "year": 1991,
+    "genre": "Grunge",
+    "recognition": 5
+  },
+  {
+    "id": "black-or-white",
+    "title": "Black or White",
+    "artist": "Michael Jackson",
+    "year": 1991,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "losing-my-religion",
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "year": 1991,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "end-of-the-road",
+    "title": "End of the Road",
+    "artist": "Boyz II Men",
+    "year": 1992,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "baby-got-back",
+    "title": "Baby Got Back",
+    "artist": "Sir Mix-a-Lot",
+    "year": 1992,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "jump-kris-kross",
+    "title": "Jump",
+    "artist": "Kris Kross",
+    "year": 1992,
+    "genre": "Hip-hop",
+    "recognition": 4
+  },
+  {
+    "id": "i-will-always-love-you",
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "year": 1992,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-sign",
+    "title": "The Sign",
+    "artist": "Ace of Base",
+    "year": 1993,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "dreamlover",
+    "title": "Dreamlover",
+    "artist": "Mariah Carey",
+    "year": 1993,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "whoomp-there-it-is",
+    "title": "Whoomp! (There It Is)",
+    "artist": "Tag Team",
+    "year": 1993,
+    "genre": "Hip-house",
+    "recognition": 4
+  },
+  {
+    "id": "i-swear",
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "year": 1994,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "all-i-wanna-do",
+    "title": "All I Wanna Do",
+    "artist": "Sheryl Crow",
+    "year": 1994,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "ill-make-love-to-you",
+    "title": "I'll Make Love to You",
+    "artist": "Boyz II Men",
+    "year": 1994,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "gangstas-paradise",
+    "title": "Gangsta's Paradise",
+    "artist": "Coolio feat. L.V.",
+    "year": 1995,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "one-sweet-day",
+    "title": "One Sweet Day",
+    "artist": "Mariah Carey & Boyz II Men",
+    "year": 1995,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "kiss-from-a-rose",
+    "title": "Kiss from a Rose",
+    "artist": "Seal",
+    "year": 1994,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "this-is-how-we-do-it",
+    "title": "This Is How We Do It",
+    "artist": "Montell Jordan",
+    "year": 1995,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "macarena",
+    "title": "Macarena (Bayside Boys Mix)",
+    "artist": "Los del Río",
+    "year": 1995,
+    "peakYear": 1996,
+    "genre": "Dance",
+    "recognition": 5
+  },
+  {
+    "id": "always-be-my-baby",
+    "title": "Always Be My Baby",
+    "artist": "Mariah Carey",
+    "year": 1996,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "because-you-loved-me",
+    "title": "Because You Loved Me",
+    "artist": "Celine Dion",
+    "year": 1996,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "no-diggity",
+    "title": "No Diggity",
+    "artist": "Blackstreet feat. Dr. Dre",
+    "year": 1996,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "candle-in-the-wind-1997",
+    "title": "Candle in the Wind 1997",
+    "artist": "Elton John",
+    "year": 1997,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "mmmbop",
+    "title": "MMMBop",
+    "artist": "Hanson",
+    "year": 1997,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "barbie-girl",
+    "title": "Barbie Girl",
+    "artist": "Aqua",
+    "year": 1997,
+    "genre": "Eurodance",
+    "recognition": 5
+  },
+  {
+    "id": "semi-charmed-life",
+    "title": "Semi-Charmed Life",
+    "artist": "Third Eye Blind",
+    "year": 1997,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "too-close",
+    "title": "Too Close",
+    "artist": "Next",
+    "year": 1997,
+    "peakYear": 1998,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "iris",
+    "title": "Iris",
+    "artist": "Goo Goo Dolls",
+    "year": 1998,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "closing-time",
+    "title": "Closing Time",
+    "artist": "Semisonic",
+    "year": 1998,
+    "genre": "Alternative rock",
+    "recognition": 4
+  },
+  {
+    "id": "believe",
+    "title": "Believe",
+    "artist": "Cher",
+    "year": 1998,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "smooth",
+    "title": "Smooth",
+    "artist": "Santana feat. Rob Thomas",
+    "year": 1999,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "no-scrubs",
+    "title": "No Scrubs",
+    "artist": "TLC",
+    "year": 1999,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "all-star",
+    "title": "All Star",
+    "artist": "Smash Mouth",
+    "year": 1999,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "genie-in-a-bottle",
+    "title": "Genie in a Bottle",
+    "artist": "Christina Aguilera",
+    "year": 1999,
+    "genre": "Teen pop",
+    "recognition": 5
+  },
+  {
+    "id": "say-my-name",
+    "title": "Say My Name",
+    "artist": "Destiny's Child",
+    "year": 1999,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "breathe",
+    "title": "Breathe",
+    "artist": "Faith Hill",
+    "year": 1999,
+    "genre": "Country pop",
+    "recognition": 5,
+    "peakYear": 2000
+  },
+  {
+    "id": "independent-women-part-i",
+    "title": "Independent Women Part I",
+    "artist": "Destiny's Child",
+    "year": 2000,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "bye-bye-bye",
+    "title": "Bye Bye Bye",
+    "artist": "*NSYNC",
+    "year": 2000,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "oops-i-did-it-again",
+    "title": "Oops!... I Did It Again",
+    "artist": "Britney Spears",
+    "year": 2000,
+    "genre": "Teen pop",
+    "recognition": 5
+  },
+  {
+    "id": "ms-jackson",
+    "title": "Ms. Jackson",
+    "artist": "OutKast",
+    "year": 2000,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "hanging-by-a-moment",
+    "title": "Hanging by a Moment",
+    "artist": "Lifehouse",
+    "year": 2000,
+    "peakYear": 2001,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "how-you-remind-me",
+    "title": "How You Remind Me",
+    "artist": "Nickelback",
+    "year": 2001,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "fallin",
+    "title": "Fallin'",
+    "artist": "Alicia Keys",
+    "year": 2001,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "whenever-wherever",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "year": 2001,
+    "genre": "Latin pop",
+    "recognition": 5
+  },
+  {
+    "id": "hot-in-herre",
+    "title": "Hot in Herre",
+    "artist": "Nelly",
+    "year": 2002,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "complicated",
+    "title": "Complicated",
+    "artist": "Avril Lavigne",
+    "year": 2002,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "a-thousand-miles",
+    "title": "A Thousand Miles",
+    "artist": "Vanessa Carlton",
+    "year": 2002,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "lose-yourself",
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "year": 2002,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "in-da-club",
+    "title": "In da Club",
+    "artist": "50 Cent",
+    "year": 2003,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "hey-ya",
+    "title": "Hey Ya!",
+    "artist": "OutKast",
+    "year": 2003,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "crazy-in-love",
+    "title": "Crazy in Love",
+    "artist": "Beyoncé feat. Jay-Z",
+    "year": 2003,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "seven-nation-army",
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "year": 2003,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "where-is-the-love",
+    "title": "Where Is the Love?",
+    "artist": "The Black Eyed Peas",
+    "year": 2003,
+    "genre": "Pop rap",
+    "recognition": 5
+  },
+  {
+    "id": "yeah",
+    "title": "Yeah!",
+    "artist": "Usher feat. Lil Jon & Ludacris",
+    "year": 2004,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "this-love",
+    "title": "This Love",
+    "artist": "Maroon 5",
+    "year": 2004,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "since-u-been-gone",
+    "title": "Since U Been Gone",
+    "artist": "Kelly Clarkson",
+    "year": 2004,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "drop-it-like-its-hot",
+    "title": "Drop It Like It's Hot",
+    "artist": "Snoop Dogg feat. Pharrell",
+    "year": 2004,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "we-belong-together",
+    "title": "We Belong Together",
+    "artist": "Mariah Carey",
+    "year": 2005,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "hollaback-girl",
+    "title": "Hollaback Girl",
+    "artist": "Gwen Stefani",
+    "year": 2005,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "gold-digger",
+    "title": "Gold Digger",
+    "artist": "Kanye West feat. Jamie Foxx",
+    "year": 2005,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "bad-day",
+    "title": "Bad Day",
+    "artist": "Daniel Powter",
+    "year": 2005,
+    "peakYear": 2006,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "irreplaceable",
+    "title": "Irreplaceable",
+    "artist": "Beyoncé",
+    "year": 2006,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "crazy-gnarls-barkley",
+    "title": "Crazy",
+    "artist": "Gnarls Barkley",
+    "year": 2006,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "promiscuous",
+    "title": "Promiscuous",
+    "artist": "Nelly Furtado feat. Timbaland",
+    "year": 2006,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "hips-dont-lie",
+    "title": "Hips Don't Lie",
+    "artist": "Shakira feat. Wyclef Jean",
+    "year": 2006,
+    "genre": "Latin pop",
+    "recognition": 5
+  },
+  {
+    "id": "low",
+    "title": "Low",
+    "artist": "Flo Rida feat. T-Pain",
+    "year": 2007,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "umbrella",
+    "title": "Umbrella",
+    "artist": "Rihanna feat. Jay-Z",
+    "year": 2007,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "hey-there-delilah",
+    "title": "Hey There Delilah",
+    "artist": "Plain White T's",
+    "year": 2007,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "big-girls-dont-cry-fergie",
+    "title": "Big Girls Don't Cry",
+    "artist": "Fergie",
+    "year": 2007,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "bleeding-love",
+    "title": "Bleeding Love",
+    "artist": "Leona Lewis",
+    "year": 2007,
+    "peakYear": 2008,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "i-kissed-a-girl",
+    "title": "I Kissed a Girl",
+    "artist": "Katy Perry",
+    "year": 2008,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "viva-la-vida",
+    "title": "Viva la Vida",
+    "artist": "Coldplay",
+    "year": 2008,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "single-ladies",
+    "title": "Single Ladies (Put a Ring on It)",
+    "artist": "Beyoncé",
+    "year": 2008,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "boom-boom-pow",
+    "title": "Boom Boom Pow",
+    "artist": "The Black Eyed Peas",
+    "year": 2009,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "tik-tok",
+    "title": "TiK ToK",
+    "artist": "Ke$ha",
+    "year": 2009,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "i-gotta-feeling",
+    "title": "I Gotta Feeling",
+    "artist": "The Black Eyed Peas",
+    "year": 2009,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "poker-face",
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "year": 2008,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "rolling-in-the-deep",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "year": 2010,
+    "peakYear": 2011,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "california-gurls",
+    "title": "California Gurls",
+    "artist": "Katy Perry feat. Snoop Dogg",
+    "year": 2010,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "love-the-way-you-lie",
+    "title": "Love the Way You Lie",
+    "artist": "Eminem feat. Rihanna",
+    "year": 2010,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "teenage-dream",
+    "title": "Teenage Dream",
+    "artist": "Katy Perry",
+    "year": 2010,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "somebody-that-i-used-to-know",
+    "title": "Somebody That I Used to Know",
+    "artist": "Gotye feat. Kimbra",
+    "year": 2011,
+    "genre": "Indie pop",
+    "recognition": 5
+  },
+  {
+    "id": "party-rock-anthem",
+    "title": "Party Rock Anthem",
+    "artist": "LMFAO feat. Lauren Bennett & GoonRock",
+    "year": 2011,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "moves-like-jagger",
+    "title": "Moves Like Jagger",
+    "artist": "Maroon 5 feat. Christina Aguilera",
+    "year": 2011,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "we-are-young",
+    "title": "We Are Young",
+    "artist": "fun. feat. Janelle Monáe",
+    "year": 2011,
+    "genre": "Indie pop",
+    "recognition": 5
+  },
+  {
+    "id": "call-me-maybe",
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "year": 2012,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "gangnam-style",
+    "title": "Gangnam Style",
+    "artist": "PSY",
+    "year": 2012,
+    "genre": "K-pop",
+    "recognition": 5
+  },
+  {
+    "id": "thrift-shop",
+    "title": "Thrift Shop",
+    "artist": "Macklemore & Ryan Lewis feat. Wanz",
+    "year": 2012,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "blurred-lines",
+    "title": "Blurred Lines",
+    "artist": "Robin Thicke feat. T.I. & Pharrell",
+    "year": 2013,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "get-lucky",
+    "title": "Get Lucky",
+    "artist": "Daft Punk feat. Pharrell Williams",
+    "year": 2013,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "royals",
+    "title": "Royals",
+    "artist": "Lorde",
+    "year": 2013,
+    "genre": "Art pop",
+    "recognition": 5
+  },
+  {
+    "id": "happy",
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "year": 2013,
+    "peakYear": 2014,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "uptown-funk",
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson feat. Bruno Mars",
+    "year": 2014,
+    "genre": "Funk-pop",
+    "recognition": 5
+  },
+  {
+    "id": "shake-it-off",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "all-about-that-bass",
+    "title": "All About That Bass",
+    "artist": "Meghan Trainor",
+    "year": 2014,
+    "genre": "Doo-wop pop",
+    "recognition": 5
+  },
+  {
+    "id": "hello",
+    "title": "Hello",
+    "artist": "Adele",
+    "year": 2015,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "thinking-out-loud",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "year": 2014,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "trap-queen",
+    "title": "Trap Queen",
+    "artist": "Fetty Wap",
+    "year": 2014,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "blank-space",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "sorry",
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "year": 2015,
+    "genre": "Dancehall-pop",
+    "recognition": 5
+  },
+  {
+    "id": "old-town-road",
+    "title": "Old Town Road",
+    "artist": "Lil Nas X feat. Billy Ray Cyrus",
+    "year": 2019,
+    "genre": "Country rap",
+    "recognition": 5
+  }
+]
