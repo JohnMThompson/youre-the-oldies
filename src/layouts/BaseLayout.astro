@@ -18,6 +18,13 @@ const canonical = new URL(Astro.url.pathname, 'https://youretheoldies.com');
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content="You're the Oldies!" />
     <title>{title}</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7DQS7367JF"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-7DQS7367JF');
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
     <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet" />
