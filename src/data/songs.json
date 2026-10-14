@@ -1,5 +1,2653 @@
 [
   {
+    "id": "beautiful-child-of-song-1860",
+    "title": "Beautiful Child of Song",
+    "artist": "Stephen Foster",
+    "year": 1860,
+    "genre": "Parlor song",
+    "recognition": 2
+  },
+  {
+    "id": "old-black-joe-1860",
+    "title": "Old Black Joe",
+    "artist": "Stephen Foster",
+    "year": 1860,
+    "genre": "Parlor song",
+    "recognition": 4
+  },
+  {
+    "id": "go-down-moses-1861",
+    "title": "Go Down, Moses",
+    "artist": "Traditional spiritual",
+    "year": 1861,
+    "genre": "Spiritual",
+    "recognition": 5
+  },
+  {
+    "id": "john-browns-body-1861",
+    "title": "John Brown's Body",
+    "artist": "Traditional / Union soldiers",
+    "year": 1861,
+    "genre": "Marching song",
+    "recognition": 5
+  },
+  {
+    "id": "battle-cry-of-freedom-1862",
+    "title": "Battle Cry of Freedom",
+    "artist": "George F. Root",
+    "year": 1862,
+    "genre": "Civil War song",
+    "recognition": 5
+  },
+  {
+    "id": "the-battle-hymn-of-the-republic-1862",
+    "title": "The Battle Hymn of the Republic",
+    "artist": "Julia Ward Howe / William Steffe",
+    "year": 1862,
+    "genre": "Hymn",
+    "recognition": 5
+  },
+  {
+    "id": "oh-my-darling-clementine-1863",
+    "title": "Oh My Darling, Clementine",
+    "artist": "Percy Montrose",
+    "year": 1863,
+    "genre": "Folk song",
+    "recognition": 5
+  },
+  {
+    "id": "when-johnny-comes-marching-home-1863",
+    "title": "When Johnny Comes Marching Home",
+    "artist": "Patrick S. Gilmore",
+    "year": 1863,
+    "genre": "Marching song",
+    "recognition": 5
+  },
+  {
+    "id": "beautiful-dreamer-1864",
+    "title": "Beautiful Dreamer",
+    "artist": "Stephen Foster",
+    "year": 1864,
+    "genre": "Parlor song",
+    "recognition": 5
+  },
+  {
+    "id": "tramp-tramp-tramp-1864",
+    "title": "Tramp! Tramp! Tramp!",
+    "artist": "George F. Root",
+    "year": 1864,
+    "genre": "Civil War song",
+    "recognition": 4
+  },
+  {
+    "id": "just-before-the-battle-mother-1865",
+    "title": "Just Before the Battle, Mother",
+    "artist": "George F. Root",
+    "year": 1865,
+    "genre": "Civil War song",
+    "recognition": 4
+  },
+  {
+    "id": "marching-through-georgia-1865",
+    "title": "Marching Through Georgia",
+    "artist": "Henry Clay Work",
+    "year": 1865,
+    "genre": "Civil War song",
+    "recognition": 5
+  },
+  {
+    "id": "when-you-and-i-were-young-maggie-1866",
+    "title": "When You and I Were Young, Maggie",
+    "artist": "George Washington Johnson / James A. Butterfield",
+    "year": 1866,
+    "genre": "Ballad",
+    "recognition": 4
+  },
+  {
+    "id": "the-blue-danube-1867",
+    "title": "The Blue Danube",
+    "artist": "Johann Strauss II / Joseph Weyl",
+    "year": 1867,
+    "genre": "Waltz",
+    "recognition": 5
+  },
+  {
+    "id": "the-man-on-the-flying-trapeze-1867",
+    "title": "The Man on the Flying Trapeze",
+    "artist": "Alfred Lee / Gaston Lyle / George Leybourne",
+    "year": 1867,
+    "genre": "Music hall",
+    "recognition": 5
+  },
+  {
+    "id": "the-daring-young-man-on-the-flying-trapeze-1868",
+    "title": "The Daring Young Man on the Flying Trapeze",
+    "artist": "Alfred Lee / Gaston Lyle",
+    "year": 1868,
+    "genre": "Music hall",
+    "recognition": 4
+  },
+  {
+    "id": "shenandoah-1869",
+    "title": "Shenandoah",
+    "artist": "Traditional",
+    "year": 1869,
+    "genre": "Folk song",
+    "recognition": 5
+  },
+  {
+    "id": "waiting-for-pa-1870",
+    "title": "Waiting for Pa",
+    "artist": "Henry Clay Work",
+    "year": 1870,
+    "genre": "Comic song",
+    "recognition": 3
+  },
+  {
+    "id": "onward-christian-soldiers-1871",
+    "title": "Onward, Christian Soldiers",
+    "artist": "Sabine Baring-Gould / Arthur Sullivan",
+    "year": 1871,
+    "genre": "Hymn",
+    "recognition": 5
+  },
+  {
+    "id": "the-little-old-log-cabin-in-the-lane-1871",
+    "title": "The Little Old Log Cabin in the Lane",
+    "artist": "William S. Hays",
+    "year": 1871,
+    "genre": "Folk / minstrel song",
+    "recognition": 4
+  },
+  {
+    "id": "the-gospel-train-1872",
+    "title": "The Gospel Train",
+    "artist": "Fisk Jubilee Singers",
+    "year": 1872,
+    "genre": "Spiritual",
+    "recognition": 4
+  },
+  {
+    "id": "home-on-the-range-1873",
+    "title": "Home on the Range",
+    "artist": "Brewster Higley / Daniel Kelley",
+    "year": 1873,
+    "genre": "Western folk song",
+    "recognition": 5
+  },
+  {
+    "id": "we-met-by-chance-sweet-jenny-1874",
+    "title": "We Met by Chance, Sweet Jenny",
+    "artist": "Samuel N. Mitchell / William A. Huntley",
+    "year": 1874,
+    "genre": "Popular song",
+    "recognition": 2
+  },
+  {
+    "id": "in-the-sweet-by-and-by-1875",
+    "title": "In the Sweet By-and-By",
+    "artist": "Joseph P. Webster / S. Fillmore Bennett",
+    "year": 1875,
+    "genre": "Hymn",
+    "recognition": 5
+  },
+  {
+    "id": "my-grandfathers-clock-1876",
+    "title": "My Grandfather's Clock",
+    "artist": "Henry Clay Work",
+    "year": 1876,
+    "genre": "Popular song",
+    "recognition": 5
+  },
+  {
+    "id": "the-lost-chord-1877",
+    "title": "The Lost Chord",
+    "artist": "Arthur Sullivan / Adelaide Procter",
+    "year": 1877,
+    "genre": "Parlor song",
+    "recognition": 4
+  },
+  {
+    "id": "carry-me-back-to-old-virginny-1878",
+    "title": "Carry Me Back to Old Virginny",
+    "artist": "James A. Bland",
+    "year": 1878,
+    "genre": "Minstrel / parlor song",
+    "recognition": 4
+  },
+  {
+    "id": "oh-dem-golden-slippers-1879",
+    "title": "Oh! Dem Golden Slippers",
+    "artist": "James A. Bland",
+    "year": 1879,
+    "genre": "Minstrel / parlor song",
+    "recognition": 5
+  },
+  {
+    "id": "in-the-evening-by-the-moonlight-1880",
+    "title": "In the Evening by the Moonlight",
+    "artist": "James A. Bland",
+    "year": 1880,
+    "genre": "Parlor song",
+    "recognition": 3
+  },
+  {
+    "id": "the-sword-of-bunker-hill-1881",
+    "title": "The Sword of Bunker Hill",
+    "artist": "Thomas A. Beckett",
+    "year": 1881,
+    "genre": "Patriotic song",
+    "recognition": 3
+  },
+  {
+    "id": "the-battle-of-shiloh-1882",
+    "title": "The Battle of Shiloh",
+    "artist": "Charles R. Johnson",
+    "year": 1882,
+    "genre": "Ballad",
+    "recognition": 2
+  },
+  {
+    "id": "there-is-a-tavern-in-the-town-1883",
+    "title": "There Is a Tavern in the Town",
+    "artist": "Traditional",
+    "year": 1883,
+    "genre": "Folk song",
+    "recognition": 5
+  },
+  {
+    "id": "the-fountain-in-the-park-1884",
+    "title": "The Fountain in the Park",
+    "artist": "Edwin O. Excell",
+    "year": 1884,
+    "genre": "Popular song",
+    "recognition": 4
+  },
+  {
+    "id": "american-patrol-1885",
+    "title": "American Patrol",
+    "artist": "F. W. Meacham",
+    "year": 1885,
+    "genre": "March",
+    "recognition": 5
+  },
+  {
+    "id": "semper-fidelis-1886",
+    "title": "Semper Fidelis",
+    "artist": "John Philip Sousa",
+    "year": 1886,
+    "genre": "March",
+    "recognition": 5
+  },
+  {
+    "id": "comrades-1887",
+    "title": "Comrades",
+    "artist": "James G. Clark",
+    "year": 1887,
+    "genre": "Popular song",
+    "recognition": 3
+  },
+  {
+    "id": "moonlight-and-roses-1888",
+    "title": "Moonlight and Roses",
+    "artist": "Edwin Lemare",
+    "year": 1888,
+    "genre": "Popular song",
+    "recognition": 4
+  },
+  {
+    "id": "oh-promise-me-1889",
+    "title": "Oh Promise Me",
+    "artist": "Clement Scott / Reginald de Koven",
+    "year": 1889,
+    "genre": "Art song",
+    "recognition": 5
+  },
+  {
+    "id": "the-bowery-1890",
+    "title": "The Bowery",
+    "artist": "Percy Gaunt / Charles H. Hoyt",
+    "year": 1890,
+    "genre": "Musical theater",
+    "recognition": 3
+  },
+  {
+    "id": "ta-ra-ra-boom-de-ay-1891",
+    "title": "Ta-ra-ra Boom-de-ay",
+    "artist": "Henry J. Sayers",
+    "year": 1891,
+    "genre": "Music hall",
+    "recognition": 4
+  },
+  {
+    "id": "after-the-ball-1892",
+    "title": "After the Ball",
+    "artist": "Charles K. Harris",
+    "year": 1892,
+    "genre": "Sentimental ballad",
+    "recognition": 5
+  },
+  {
+    "id": "daisy-bell-a-bicycle-built-for-two-1892",
+    "title": "Daisy Bell (A Bicycle Built for Two)",
+    "artist": "Harry Dacre",
+    "year": 1892,
+    "genre": "Music hall",
+    "recognition": 5
+  },
+  {
+    "id": "the-cat-came-back-1893",
+    "title": "The Cat Came Back",
+    "artist": "Harry S. Miller",
+    "year": 1893,
+    "genre": "Comic song",
+    "recognition": 4
+  },
+  {
+    "id": "the-sidewalks-of-new-york-1894",
+    "title": "The Sidewalks of New York",
+    "artist": "Charles B. Lawlor / James W. Blake",
+    "year": 1894,
+    "genre": "Popular song",
+    "recognition": 5
+  },
+  {
+    "id": "a-bird-in-a-gilded-cage-1895",
+    "title": "A Bird in a Gilded Cage",
+    "artist": "Harry Von Tilzer / Arthur J. Lamb",
+    "year": 1895,
+    "genre": "Sentimental ballad",
+    "recognition": 4
+  },
+  {
+    "id": "the-band-played-on-1896",
+    "title": "The Band Played On",
+    "artist": "John F. Palmer / Charles B. Ward",
+    "year": 1896,
+    "genre": "Popular song",
+    "recognition": 4
+  },
+  {
+    "id": "my-wild-irish-rose-1897",
+    "title": "My Wild Irish Rose",
+    "artist": "Chauncey Olcott",
+    "year": 1897,
+    "genre": "Popular song",
+    "recognition": 5
+  },
+  {
+    "id": "hello-ma-baby-1898",
+    "title": "Hello! Ma Baby",
+    "artist": "Joseph E. Howard / Ida Emerson",
+    "year": 1898,
+    "genre": "Ragtime",
+    "recognition": 5
+  },
+  {
+    "id": "hello-central-give-me-heaven-1899",
+    "title": "Hello, Central, Give Me Heaven",
+    "artist": "Charles K. Harris",
+    "year": 1899,
+    "genre": "Sentimental ballad",
+    "recognition": 4
+  },
+  {
+    "id": "in-the-good-old-summer-time-1900",
+    "title": "In the Good Old Summer Time",
+    "artist": "George Evans / Ren Shields",
+    "year": 1900,
+    "genre": "Popular song",
+    "recognition": 5
+  },
+  {
+    "id": "bill-bailey-wont-you-please-come-home-1901",
+    "title": "Bill Bailey, Won’t You Please Come Home",
+    "artist": "Hughie Cannon",
+    "year": 1901,
+    "genre": "Ragtime",
+    "recognition": 5
+  },
+  {
+    "id": "the-entertainer-1902",
+    "title": "The Entertainer",
+    "artist": "Scott Joplin",
+    "year": 1902,
+    "genre": "Ragtime",
+    "recognition": 5
+  },
+  {
+    "id": "in-my-merry-oldsmobile-1903",
+    "title": "In My Merry Oldsmobile",
+    "artist": "Gus Edwards / Vincent P. Bryan",
+    "year": 1903,
+    "genre": "Popular song",
+    "recognition": 4
+  },
+  {
+    "id": "give-my-regards-to-broadway-1904",
+    "title": "Give My Regards to Broadway",
+    "artist": "George M. Cohan",
+    "year": 1904,
+    "genre": "Musical theater",
+    "recognition": 5
+  },
+  {
+    "id": "the-yankee-doodle-boy-1905",
+    "title": "The Yankee Doodle Boy",
+    "artist": "George M. Cohan",
+    "year": 1905,
+    "genre": "Musical theater",
+    "recognition": 5
+  },
+  {
+    "id": "youre-a-grand-old-flag-1906",
+    "title": "You’re a Grand Old Flag",
+    "artist": "George M. Cohan",
+    "year": 1906,
+    "genre": "Patriotic song",
+    "recognition": 5
+  },
+  {
+    "id": "school-days-1907",
+    "title": "School Days",
+    "artist": "Gus Edwards / Will D. Cobb",
+    "year": 1907,
+    "genre": "Popular song",
+    "recognition": 4
+  },
+  {
+    "id": "take-me-out-to-the-ball-game-1908",
+    "title": "Take Me Out to the Ball Game",
+    "artist": "Jack Norworth / Albert Von Tilzer",
+    "year": 1908,
+    "genre": "Popular song",
+    "recognition": 5
+  },
+  {
+    "id": "shine-on-harvest-moon-1909",
+    "title": "Shine On, Harvest Moon",
+    "artist": "Nora Bayes / Jack Norworth",
+    "year": 1909,
+    "genre": "Vaudeville",
+    "recognition": 5
+  },
+  {
+    "id": "let-me-call-you-sweetheart-1910",
+    "title": "Let Me Call You Sweetheart",
+    "artist": "Beth Slater Whitson / Leo Friedman",
+    "year": 1910,
+    "genre": "Popular song",
+    "recognition": 5
+  },
+  {
+    "id": "alexanders-ragtime-band-1911",
+    "title": "Alexander’s Ragtime Band",
+    "artist": "Irving Berlin",
+    "year": 1911,
+    "genre": "Ragtime",
+    "recognition": 5
+  },
+  {
+    "id": "when-irish-eyes-are-smiling-1912",
+    "title": "When Irish Eyes Are Smiling",
+    "artist": "Chauncey Olcott / George Graff / Ernest Ball",
+    "year": 1912,
+    "genre": "Popular song",
+    "recognition": 5
+  },
+  {
+    "id": "the-trail-of-the-lonesome-pine-1913",
+    "title": "The Trail of the Lonesome Pine",
+    "artist": "Harry Carroll / Ballard MacDonald",
+    "year": 1913,
+    "genre": "Popular song",
+    "recognition": 4
+  },
+  {
+    "id": "st-louis-blues-1914",
+    "title": "St. Louis Blues",
+    "artist": "W. C. Handy",
+    "year": 1914,
+    "genre": "Blues",
+    "recognition": 5
+  },
+  {
+    "id": "aloha-oe-1915",
+    "title": "Aloha ’Oe",
+    "artist": "Queen Liliʻuokalani",
+    "year": 1915,
+    "genre": "Hawaiian song",
+    "recognition": 5
+  },
+  {
+    "id": "ive-been-working-on-the-railroad-1916",
+    "title": "I’ve Been Working on the Railroad",
+    "artist": "Traditional",
+    "year": 1916,
+    "genre": "Folk song",
+    "recognition": 5
+  },
+  {
+    "id": "over-there-1917",
+    "title": "Over There",
+    "artist": "George M. Cohan",
+    "year": 1917,
+    "genre": "Patriotic song",
+    "recognition": 5
+  },
+  {
+    "id": "when-you-come-back-and-you-will-come-back-1918",
+    "title": "When You Come Back and You Will Come Back",
+    "artist": "Chester / Ernest R. Ball",
+    "year": 1918,
+    "genre": "Popular song",
+    "recognition": 4
+  },
+  {
+    "id": "a-pretty-girl-is-like-a-melody-1919",
+    "title": "A Pretty Girl Is Like a Melody",
+    "artist": "Irving Berlin",
+    "year": 1919,
+    "genre": "Musical theater",
+    "recognition": 5
+  },
+  {
+    "id": "whispering-1920",
+    "title": "Whispering",
+    "artist": "John Schonberger / Richard Coburn / Vincent Rose",
+    "year": 1920,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "three-oclock-in-the-morning-1921",
+    "title": "Three O’Clock in the Morning",
+    "artist": "Julian Robledo / Dorothy Terriss",
+    "year": 1921,
+    "genre": "Waltz",
+    "recognition": 5
+  },
+  {
+    "id": "april-showers-1922",
+    "title": "April Showers",
+    "artist": "Louis Silvers / B. G. De Sylva",
+    "year": 1922,
+    "genre": "Popular song",
+    "recognition": 5
+  },
+  {
+    "id": "yes-we-have-no-bananas-1923",
+    "title": "Yes! We Have No Bananas",
+    "artist": "Frank Silver / Irving Cohn",
+    "year": 1923,
+    "genre": "Novelty",
+    "recognition": 5
+  },
+  {
+    "id": "fascinating-rhythm-1924",
+    "title": "Fascinating Rhythm",
+    "artist": "George and Ira Gershwin",
+    "year": 1924,
+    "genre": "Musical theater",
+    "recognition": 5
+  },
+  {
+    "id": "tea-for-two-1925",
+    "title": "Tea for Two",
+    "artist": "Vincent Youmans / Irving Caesar",
+    "year": 1925,
+    "genre": "Musical theater",
+    "recognition": 5
+  },
+  {
+    "id": "bye-bye-blackbird-1926",
+    "title": "Bye Bye Blackbird",
+    "artist": "Ray Henderson / Mort Dixon",
+    "year": 1926,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "stardust-1927",
+    "title": "Stardust",
+    "artist": "Hoagy Carmichael / Mitchell Parish",
+    "year": 1927,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "the-ballad-of-mack-the-knife-1928",
+    "title": "The Ballad of Mack the Knife",
+    "artist": "Kurt Weill / Bertolt Brecht",
+    "year": 1928,
+    "genre": "Theatre song",
+    "recognition": 4
+  },
+  {
+    "id": "aint-misbehavin-1929",
+    "title": "Ain’t Misbehavin’",
+    "artist": "Fats Waller / Harry Brooks / Andy Razaf",
+    "year": 1929,
+    "genre": "Jazz",
+    "recognition": 5
+  },
+  {
+    "id": "georgia-on-my-mind-1930",
+    "title": "Georgia on My Mind",
+    "artist": "Hoagy Carmichael / Stuart Gorrell",
+    "year": 1930,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "dream-a-little-dream-of-me-1931",
+    "title": "Dream a Little Dream of Me",
+    "artist": "Fabian Andre / Wilbur Schwandt / Gus Kahn",
+    "year": 1931,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "night-and-day-1932",
+    "title": "Night and Day",
+    "artist": "Cole Porter",
+    "year": 1932,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "stormy-weather-1933",
+    "title": "Stormy Weather",
+    "artist": "Harold Arlen / Ted Koehler",
+    "year": 1933,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "blue-moon-1934",
+    "title": "Blue Moon",
+    "artist": "Richard Rodgers / Lorenz Hart",
+    "year": 1934,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "chasing-shadows-the-dorsey-brothers",
+    "title": "Chasing Shadows",
+    "artist": "The Dorsey Brothers",
+    "year": 1935,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "cheek-to-cheek-fred-astaire",
+    "title": "Cheek to Cheek",
+    "artist": "Fred Astaire",
+    "year": 1935,
+    "genre": "Jazz vocal",
+    "recognition": 5
+  },
+  {
+    "id": "i-wont-dance-eddy-duchin-and-his-orchestra",
+    "title": "I Won't Dance",
+    "artist": "Eddy Duchin and His Orchestra",
+    "year": 1935,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "im-in-the-mood-for-love-little-jack-little",
+    "title": "I'm in the Mood for Love",
+    "artist": "Little Jack Little",
+    "year": 1935,
+    "genre": "Jazz vocal",
+    "recognition": 5
+  },
+  {
+    "id": "in-a-little-gypsy-tea-room-bob-crosby-and-his-orchestra",
+    "title": "In a Little Gypsy Tea Room",
+    "artist": "Bob Crosby and His Orchestra",
+    "year": 1935,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "lovely-to-look-at-eddy-duchin-and-his-orchestra",
+    "title": "Lovely to Look At",
+    "artist": "Eddy Duchin and His Orchestra",
+    "year": 1935,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "red-sails-in-the-sunset-guy-lombardo-and-his-royal-canadians",
+    "title": "Red Sails in the Sunset",
+    "artist": "Guy Lombardo and His Royal Canadians",
+    "year": 1935,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "shes-a-latin-from-manhattan-victor-young-and-his-orchestra",
+    "title": "She's a Latin from Manhattan",
+    "artist": "Victor Young and His Orchestra",
+    "year": 1935,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "truckin-fats-waller",
+    "title": "Truckin’",
+    "artist": "Fats Waller",
+    "year": 1935,
+    "genre": "Jazz",
+    "recognition": 3
+  },
+  {
+    "id": "when-i-grow-too-old-to-dream-glen-gray-and-his-orchestra",
+    "title": "When I Grow Too Old to Dream",
+    "artist": "Glen Gray and His Orchestra",
+    "year": 1935,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "a-fine-romance-fred-astaire",
+    "title": "A Fine Romance",
+    "artist": "Fred Astaire",
+    "year": 1936,
+    "genre": "Jazz vocal",
+    "recognition": 4
+  },
+  {
+    "id": "did-i-remember-shep-fields-and-his-rippling-rhythm",
+    "title": "Did I Remember",
+    "artist": "Shep Fields and His Rippling Rhythm",
+    "year": 1936,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "goody-goody-benny-goodman-and-his-orchestra",
+    "title": "Goody Goody",
+    "artist": "Benny Goodman and His Orchestra",
+    "year": 1936,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "im-building-up-to-an-awful-letdown-ray-noble-and-his-orchestra",
+    "title": "I’m Building Up to an Awful Letdown",
+    "artist": "Ray Noble and His Orchestra",
+    "year": 1936,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "pennies-from-heaven-bing-crosby",
+    "title": "Pennies from Heaven",
+    "artist": "Bing Crosby",
+    "year": 1936,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-glory-of-love-benny-goodman-and-his-orchestra-feat-helen-ward",
+    "title": "The Glory of Love",
+    "artist": "Benny Goodman and His Orchestra feat. Helen Ward",
+    "year": 1936,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "the-music-goes-round-and-round-tommy-dorsey-and-his-clambake-seven",
+    "title": "The Music Goes Round and Round",
+    "artist": "Tommy Dorsey and His Clambake Seven",
+    "year": 1936,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "the-way-you-look-tonight-fred-astaire",
+    "title": "The Way You Look Tonight",
+    "artist": "Fred Astaire",
+    "year": 1936,
+    "genre": "Jazz vocal",
+    "recognition": 5
+  },
+  {
+    "id": "these-foolish-things-benny-goodman-and-his-orchestra",
+    "title": "These Foolish Things",
+    "artist": "Benny Goodman and His Orchestra",
+    "year": 1936,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "youre-an-old-smoothie-jack-hylton-and-his-orchestra",
+    "title": "You’re an Old Smoothie",
+    "artist": "Jack Hylton and His Orchestra",
+    "year": 1936,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "a-sailboat-in-the-moonlight-guy-lombardo-and-his-royal-canadians",
+    "title": "A Sailboat in the Moonlight",
+    "artist": "Guy Lombardo and His Royal Canadians",
+    "year": 1937,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "boo-hoo-guy-lombardo-and-his-royal-canadians",
+    "title": "Boo Hoo",
+    "artist": "Guy Lombardo and His Royal Canadians",
+    "year": 1937,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "it-looks-like-rain-in-cherry-blossom-lane-guy-lombardo-and-his-royal-canadians",
+    "title": "It Looks Like Rain in Cherry Blossom Lane",
+    "artist": "Guy Lombardo and His Royal Canadians",
+    "year": 1937,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "once-in-a-while-tommy-dorsey-and-his-orchestra",
+    "title": "Once in a While",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "year": 1937,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "september-in-the-rain-guy-lombardo-and-his-royal-canadians",
+    "title": "September in the Rain",
+    "artist": "Guy Lombardo and His Royal Canadians",
+    "year": 1937,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "sweet-leilani-bing-crosby",
+    "title": "Sweet Leilani",
+    "artist": "Bing Crosby",
+    "year": 1937,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "that-old-feeling-shep-fields-and-his-rippling-rhythm-orchestra",
+    "title": "That Old Feeling",
+    "artist": "Shep Fields and His Rippling Rhythm Orchestra",
+    "year": 1937,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "the-dipsy-doodle-tommy-dorsey-and-his-orchestra",
+    "title": "The Dipsy Doodle",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "year": 1937,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "the-moon-got-in-my-eyes-bing-crosby",
+    "title": "The Moon Got in My Eyes",
+    "artist": "Bing Crosby",
+    "year": 1937,
+    "genre": "Traditional pop",
+    "recognition": 3
+  },
+  {
+    "id": "whispers-in-the-dark-bob-crosby-and-his-orchestra",
+    "title": "Whispers in the Dark",
+    "artist": "Bob Crosby and His Orchestra",
+    "year": 1937,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "a-tisket-a-tasket-chick-webb-orchestra-feat-ella-fitzgerald",
+    "title": "A-Tisket, A-Tasket",
+    "artist": "Chick Webb Orchestra feat. Ella Fitzgerald",
+    "year": 1938,
+    "genre": "Jazz",
+    "recognition": 5
+  },
+  {
+    "id": "begin-the-beguine-artie-shaw-and-his-orchestra",
+    "title": "Begin the Beguine",
+    "artist": "Artie Shaw and His Orchestra",
+    "year": 1938,
+    "genre": "Jazz",
+    "recognition": 5
+  },
+  {
+    "id": "bei-mir-bist-du-sch-n-the-andrews-sisters",
+    "title": "Bei Mir Bist Du Schön",
+    "artist": "The Andrews Sisters",
+    "year": 1938,
+    "genre": "Vocal jazz",
+    "recognition": 5
+  },
+  {
+    "id": "cry-baby-cry-larry-clinton-and-his-orchestra",
+    "title": "Cry, Baby, Cry",
+    "artist": "Larry Clinton and His Orchestra",
+    "year": 1938,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "dont-be-that-way-benny-goodman-and-his-orchestra",
+    "title": "Don’t Be That Way",
+    "artist": "Benny Goodman and His Orchestra",
+    "year": 1938,
+    "genre": "Swing",
+    "recognition": 4
+  },
+  {
+    "id": "ive-got-a-pocketful-of-dreams-bing-crosby",
+    "title": "I’ve Got a Pocketful of Dreams",
+    "artist": "Bing Crosby",
+    "year": 1938,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "music-maestro-please-tommy-dorsey-and-his-orchestra",
+    "title": "Music, Maestro, Please",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "year": 1938,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "my-reverie-larry-clinton-and-his-orchestra-feat-bea-wain",
+    "title": "My Reverie",
+    "artist": "Larry Clinton and His Orchestra feat. Bea Wain",
+    "year": 1938,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "thanks-for-the-memory-shep-fields-and-his-rippling-rhythm-orchestra",
+    "title": "Thanks for the Memory",
+    "artist": "Shep Fields and His Rippling Rhythm Orchestra",
+    "year": 1938,
+    "genre": "Big band",
+    "recognition": 5
+  },
+  {
+    "id": "ti-pi-tin-horace-heidt-and-his-brigadiers",
+    "title": "Ti-Pi-Tin",
+    "artist": "Horace Heidt and His Brigadiers",
+    "year": 1938,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "and-the-angels-sing-benny-goodman-and-his-orchestra-feat-martha-tilton",
+    "title": "And the Angels Sing",
+    "artist": "Benny Goodman and His Orchestra feat. Martha Tilton",
+    "year": 1939,
+    "genre": "Swing",
+    "recognition": 4
+  },
+  {
+    "id": "beer-barrel-polka-will-glahe-and-his-orchestra",
+    "title": "Beer Barrel Polka",
+    "artist": "Will Glahe and His Orchestra",
+    "year": 1939,
+    "genre": "Polka",
+    "recognition": 5
+  },
+  {
+    "id": "deep-purple-larry-clinton-and-his-orchestra",
+    "title": "Deep Purple",
+    "artist": "Larry Clinton and His Orchestra",
+    "year": 1939,
+    "genre": "Big band",
+    "recognition": 5
+  },
+  {
+    "id": "god-bless-america-kate-smith",
+    "title": "God Bless America",
+    "artist": "Kate Smith",
+    "year": 1939,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "in-the-mood-glenn-miller-and-his-orchestra",
+    "title": "In the Mood",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1939,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "moonlight-serenade-glenn-miller-and-his-orchestra",
+    "title": "Moonlight Serenade",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1939,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "my-heart-belongs-to-daddy-mary-martin-with-eddy-duchin-and-his-orchestra",
+    "title": "My Heart Belongs to Daddy",
+    "artist": "Mary Martin with Eddy Duchin and His Orchestra",
+    "year": 1939,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "oh-johnny-oh-johnny-oh-orrin-tucker-and-his-orchestra-feat-bonnie-baker",
+    "title": "Oh Johnny, Oh Johnny, Oh!",
+    "artist": "Orrin Tucker and His Orchestra feat. Bonnie Baker",
+    "year": 1939,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "over-the-rainbow-judy-garland",
+    "title": "Over the Rainbow",
+    "artist": "Judy Garland",
+    "year": 1939,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "scatter-brain-frankie-masters-and-his-orchestra",
+    "title": "Scatter-Brain",
+    "artist": "Frankie Masters and His Orchestra",
+    "year": 1939,
+    "genre": "Big band",
+    "recognition": 2
+  },
+  {
+    "id": "all-the-things-you-are-tommy-dorsey-and-his-orchestra",
+    "title": "All the Things You Are",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "year": 1940,
+    "genre": "Jazz standard",
+    "recognition": 5
+  },
+  {
+    "id": "careless-glenn-miller-and-his-orchestra",
+    "title": "Careless",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1940,
+    "genre": "Swing",
+    "recognition": 3
+  },
+  {
+    "id": "fools-rush-in-glenn-miller-and-his-orchestra-feat-ray-eberle",
+    "title": "Fools Rush In",
+    "artist": "Glenn Miller and His Orchestra feat. Ray Eberle",
+    "year": 1940,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "frenesi-artie-shaw-and-his-orchestra",
+    "title": "Frenesi",
+    "artist": "Artie Shaw and His Orchestra",
+    "year": 1940,
+    "genre": "Swing",
+    "recognition": 4
+  },
+  {
+    "id": "ill-never-smile-again-tommy-dorsey-and-his-orchestra-feat-frank-sinatra",
+    "title": "I’ll Never Smile Again",
+    "artist": "Tommy Dorsey and His Orchestra feat. Frank Sinatra",
+    "year": 1940,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "indian-summer-tommy-dorsey-and-his-orchestra",
+    "title": "Indian Summer",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "year": 1940,
+    "genre": "Jazz standard",
+    "recognition": 4
+  },
+  {
+    "id": "only-forever-bing-crosby",
+    "title": "Only Forever",
+    "artist": "Bing Crosby",
+    "year": 1940,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "the-woodpecker-song-glenn-miller-and-his-orchestra",
+    "title": "The Woodpecker Song",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1940,
+    "genre": "Swing",
+    "recognition": 3
+  },
+  {
+    "id": "tuxedo-junction-glenn-miller-and-his-orchestra",
+    "title": "Tuxedo Junction",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1940,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "when-you-wish-upon-a-star-cliff-edwards",
+    "title": "When You Wish Upon a Star",
+    "artist": "Cliff Edwards",
+    "year": 1940,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "amapola-jimmy-dorsey-and-his-orchestra",
+    "title": "Amapola",
+    "artist": "Jimmy Dorsey and His Orchestra",
+    "year": 1941,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "blue-champagne-jimmy-dorsey-and-his-orchestra",
+    "title": "Blue Champagne",
+    "artist": "Jimmy Dorsey and His Orchestra",
+    "year": 1941,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "boogie-woogie-bugle-boy-the-andrews-sisters",
+    "title": "Boogie Woogie Bugle Boy",
+    "artist": "The Andrews Sisters",
+    "year": 1941,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "chattanooga-choo-choo-glenn-miller-and-his-orchestra",
+    "title": "Chattanooga Choo Choo",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1941,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "daddy-sammy-kaye-and-his-orchestra",
+    "title": "Daddy",
+    "artist": "Sammy Kaye and His Orchestra",
+    "year": 1941,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "green-eyes-jimmy-dorsey-and-his-orchestra",
+    "title": "Green Eyes",
+    "artist": "Jimmy Dorsey and His Orchestra",
+    "year": 1941,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "i-dont-want-to-set-the-world-on-fire-the-ink-spots",
+    "title": "I Don’t Want to Set the World on Fire",
+    "artist": "The Ink Spots",
+    "year": 1941,
+    "genre": "Vocal group",
+    "recognition": 5
+  },
+  {
+    "id": "the-last-time-i-saw-paris-anne-shelton",
+    "title": "The Last Time I Saw Paris",
+    "artist": "Anne Shelton",
+    "year": 1941,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "this-love-of-mine-tommy-dorsey-and-his-orchestra",
+    "title": "This Love of Mine",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "year": 1941,
+    "genre": "Swing",
+    "recognition": 4
+  },
+  {
+    "id": "you-and-i-glenn-miller-and-his-orchestra",
+    "title": "You and I",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1941,
+    "genre": "Swing",
+    "recognition": 3
+  },
+  {
+    "id": "a-string-of-pearls-glenn-miller-and-his-orchestra",
+    "title": "A String of Pearls",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1942,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "deep-in-the-heart-of-texas-alvino-rey-and-his-orchestra",
+    "title": "Deep in the Heart of Texas",
+    "artist": "Alvino Rey and His Orchestra",
+    "year": 1942,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "ive-got-a-gal-in-kalamazoo-glenn-miller-and-his-orchestra",
+    "title": "I’ve Got a Gal in Kalamazoo",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1942,
+    "genre": "Swing",
+    "recognition": 4
+  },
+  {
+    "id": "jingle-jangle-jingle-kay-kyser-and-his-orchestra",
+    "title": "Jingle Jangle Jingle",
+    "artist": "Kay Kyser and His Orchestra",
+    "year": 1942,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "moonlight-cocktail-glenn-miller-and-his-orchestra",
+    "title": "Moonlight Cocktail",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1942,
+    "genre": "Swing",
+    "recognition": 4
+  },
+  {
+    "id": "sleepy-lagoon-harry-james-and-his-orchestra",
+    "title": "Sleepy Lagoon",
+    "artist": "Harry James and His Orchestra",
+    "year": 1942,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "someone-to-watch-over-me-frank-sinatra",
+    "title": "Someone to Watch Over Me",
+    "artist": "Frank Sinatra",
+    "year": 1942,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "tangerine-jimmy-dorsey-and-his-orchestra",
+    "title": "Tangerine",
+    "artist": "Jimmy Dorsey and His Orchestra",
+    "year": 1942,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "there-are-such-things-tommy-dorsey-and-his-orchestra",
+    "title": "There Are Such Things",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "year": 1942,
+    "genre": "Swing",
+    "recognition": 3
+  },
+  {
+    "id": "white-christmas-bing-crosby",
+    "title": "White Christmas",
+    "artist": "Bing Crosby",
+    "year": 1942,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "all-or-nothing-at-all-frank-sinatra",
+    "title": "All or Nothing at All",
+    "artist": "Frank Sinatra",
+    "year": 1943,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "dont-get-around-much-anymore-duke-ellington",
+    "title": "Don’t Get Around Much Anymore",
+    "artist": "Duke Ellington",
+    "year": 1943,
+    "genre": "Jazz",
+    "recognition": 5
+  },
+  {
+    "id": "i-had-the-craziest-dream-harry-james-and-his-orchestra-feat-helen-forrest",
+    "title": "I Had the Craziest Dream",
+    "artist": "Harry James and His Orchestra feat. Helen Forrest",
+    "year": 1943,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "ill-be-home-for-christmas-bing-crosby",
+    "title": "I’ll Be Home for Christmas",
+    "artist": "Bing Crosby",
+    "year": 1943,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "paper-doll-the-mills-brothers",
+    "title": "Paper Doll",
+    "artist": "The Mills Brothers",
+    "year": 1943,
+    "genre": "Vocal group",
+    "recognition": 5
+  },
+  {
+    "id": "pistol-packin-mama-al-dexter",
+    "title": "Pistol Packin’ Mama",
+    "artist": "Al Dexter",
+    "year": 1943,
+    "genre": "Country",
+    "recognition": 4
+  },
+  {
+    "id": "sunday-monday-or-always-bing-crosby",
+    "title": "Sunday, Monday, or Always",
+    "artist": "Bing Crosby",
+    "year": 1943,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "that-old-black-magic-glenn-miller-and-his-orchestra",
+    "title": "That Old Black Magic",
+    "artist": "Glenn Miller and His Orchestra",
+    "year": 1943,
+    "genre": "Swing",
+    "recognition": 5
+  },
+  {
+    "id": "the-song-is-you-tommy-dorsey-and-his-orchestra",
+    "title": "The Song Is You",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "year": 1943,
+    "genre": "Swing",
+    "recognition": 3
+  },
+  {
+    "id": "youll-never-know-dick-haymes",
+    "title": "You’ll Never Know",
+    "artist": "Dick Haymes",
+    "year": 1943,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "dont-fence-me-in-bing-crosby-and-the-andrews-sisters",
+    "title": "Don’t Fence Me In",
+    "artist": "Bing Crosby and The Andrews Sisters",
+    "year": 1944,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "gi-jive-johnny-mercer",
+    "title": "G.I. Jive",
+    "artist": "Johnny Mercer",
+    "year": 1944,
+    "genre": "Swing",
+    "recognition": 3
+  },
+  {
+    "id": "i-love-you-bing-crosby",
+    "title": "I Love You",
+    "artist": "Bing Crosby",
+    "year": 1944,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "ill-get-by-harry-james-and-his-orchestra",
+    "title": "I’ll Get By",
+    "artist": "Harry James and His Orchestra",
+    "year": 1944,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "im-making-believe-the-ink-spots-and-ella-fitzgerald",
+    "title": "I’m Making Believe",
+    "artist": "The Ink Spots and Ella Fitzgerald",
+    "year": 1944,
+    "genre": "Vocal jazz",
+    "recognition": 4
+  },
+  {
+    "id": "its-love-love-love-guy-lombardo-and-his-royal-canadians",
+    "title": "It’s Love-Love-Love",
+    "artist": "Guy Lombardo and His Royal Canadians",
+    "year": 1944,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "long-ago-and-far-away-jo-stafford",
+    "title": "Long Ago (and Far Away)",
+    "artist": "Jo Stafford",
+    "year": 1944,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "my-heart-tells-me-glen-gray-and-his-orchestra",
+    "title": "My Heart Tells Me",
+    "artist": "Glen Gray and His Orchestra",
+    "year": 1944,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "sentimental-journey-les-brown-and-his-band-of-renown-feat-doris-day",
+    "title": "Sentimental Journey",
+    "artist": "Les Brown and His Band of Renown feat. Doris Day",
+    "year": 1944,
+    "genre": "Big band",
+    "recognition": 5
+  },
+  {
+    "id": "you-always-hurt-the-one-you-love-the-mills-brothers",
+    "title": "You Always Hurt the One You Love",
+    "artist": "The Mills Brothers",
+    "year": 1944,
+    "genre": "Vocal group",
+    "recognition": 5
+  },
+  {
+    "id": "arent-you-glad-youre-you-bing-crosby",
+    "title": "Aren’t You Glad You’re You",
+    "artist": "Bing Crosby",
+    "year": 1945,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "chickery-chick-sammy-kaye-and-his-orchestra",
+    "title": "Chickery Chick",
+    "artist": "Sammy Kaye and His Orchestra",
+    "year": 1945,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "im-beginning-to-see-the-light-duke-ellington-and-his-orchestra",
+    "title": "I’m Beginning to See the Light",
+    "artist": "Duke Ellington and His Orchestra",
+    "year": 1945,
+    "genre": "Jazz",
+    "recognition": 5
+  },
+  {
+    "id": "it-might-as-well-be-spring-dick-haymes",
+    "title": "It Might as Well Be Spring",
+    "artist": "Dick Haymes",
+    "year": 1945,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "my-dreams-are-getting-better-all-the-time-les-brown-and-his-band-of-renown",
+    "title": "My Dreams Are Getting Better All the Time",
+    "artist": "Les Brown and His Band of Renown",
+    "year": 1945,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "on-the-atchison-topeka-and-the-santa-fe-johnny-mercer",
+    "title": "On the Atchison, Topeka and the Santa Fe",
+    "artist": "Johnny Mercer",
+    "year": 1945,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "rum-and-coca-cola-the-andrews-sisters",
+    "title": "Rum and Coca-Cola",
+    "artist": "The Andrews Sisters",
+    "year": 1945,
+    "genre": "Vocal group",
+    "recognition": 5
+  },
+  {
+    "id": "sentimental-journey-doris-day",
+    "title": "Sentimental Journey",
+    "artist": "Doris Day",
+    "year": 1945,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-more-i-see-you-dick-haymes",
+    "title": "The More I See You",
+    "artist": "Dick Haymes",
+    "year": 1945,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "till-the-end-of-time-perry-como",
+    "title": "Till the End of Time",
+    "artist": "Perry Como",
+    "year": 1945,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "five-minutes-more-frank-sinatra",
+    "title": "Five Minutes More",
+    "artist": "Frank Sinatra",
+    "year": 1946,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "let-it-snow-let-it-snow-let-it-snow-vaughn-monroe",
+    "title": "Let It Snow! Let It Snow! Let It Snow!",
+    "artist": "Vaughn Monroe",
+    "year": 1946,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "ole-buttermilk-sky-hoagy-carmichael",
+    "title": "Ole Buttermilk Sky",
+    "artist": "Hoagy Carmichael",
+    "year": 1946,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "personality-johnny-mercer",
+    "title": "Personality",
+    "artist": "Johnny Mercer",
+    "year": 1946,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "prisoner-of-love-perry-como",
+    "title": "Prisoner of Love",
+    "artist": "Perry Como",
+    "year": 1946,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "rumors-are-flying-frankie-carle-and-his-orchestra",
+    "title": "Rumors Are Flying",
+    "artist": "Frankie Carle and His Orchestra",
+    "year": 1946,
+    "genre": "Big band",
+    "recognition": 3
+  },
+  {
+    "id": "south-america-take-it-away-xavier-cugat-and-his-orchestra",
+    "title": "South America, Take It Away",
+    "artist": "Xavier Cugat and His Orchestra",
+    "year": 1946,
+    "genre": "Latin",
+    "recognition": 3
+  },
+  {
+    "id": "the-gypsy-the-ink-spots",
+    "title": "The Gypsy",
+    "artist": "The Ink Spots",
+    "year": 1946,
+    "genre": "Vocal group",
+    "recognition": 5
+  },
+  {
+    "id": "they-say-its-wonderful-perry-como",
+    "title": "They Say It’s Wonderful",
+    "artist": "Perry Como",
+    "year": 1946,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "to-each-his-own-eddy-howard",
+    "title": "To Each His Own",
+    "artist": "Eddy Howard",
+    "year": 1946,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "chi-baba-chi-baba-perry-como",
+    "title": "Chi-Baba, Chi-Baba",
+    "artist": "Perry Como",
+    "year": 1947,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "feudin-and-fightin-dorothy-shay",
+    "title": "Feudin’ and Fightin’",
+    "artist": "Dorothy Shay",
+    "year": 1947,
+    "genre": "Country",
+    "recognition": 3
+  },
+  {
+    "id": "how-are-things-in-glocca-morra-buddy-clark",
+    "title": "How Are Things in Glocca Morra?",
+    "artist": "Buddy Clark",
+    "year": 1947,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "i-wish-i-didnt-love-you-so-vaughn-monroe",
+    "title": "I Wish I Didn’t Love You So",
+    "artist": "Vaughn Monroe",
+    "year": 1947,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "i-wonder-i-wonder-i-wonder-eddy-howard",
+    "title": "I Wonder, I Wonder, I Wonder",
+    "artist": "Eddy Howard",
+    "year": 1947,
+    "genre": "Traditional pop",
+    "recognition": 3
+  },
+  {
+    "id": "im-looking-over-a-four-leaf-clover-the-art-mooney-orchestra",
+    "title": "I’m Looking Over a Four Leaf Clover",
+    "artist": "The Art Mooney Orchestra",
+    "year": 1947,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "mamselle-art-lund",
+    "title": "Mam’selle",
+    "artist": "Art Lund",
+    "year": 1947,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "near-you-francis-craig-and-his-orchestra",
+    "title": "Near You",
+    "artist": "Francis Craig and His Orchestra",
+    "year": 1947,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "peg-o-my-heart-the-harmonicats",
+    "title": "Peg o’ My Heart",
+    "artist": "The Harmonicats",
+    "year": 1947,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "you-do-dinah-shore",
+    "title": "You Do",
+    "artist": "Dinah Shore",
+    "year": 1947,
+    "genre": "Traditional pop",
+    "recognition": 3
+  },
+  {
+    "id": "a-tree-in-the-meadow-margaret-whiting",
+    "title": "A Tree in the Meadow",
+    "artist": "Margaret Whiting",
+    "year": 1948,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "again-vic-damone",
+    "title": "Again",
+    "artist": "Vic Damone",
+    "year": 1948,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "buttons-and-bows-dinah-shore",
+    "title": "Buttons and Bows",
+    "artist": "Dinah Shore",
+    "year": 1948,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "love-somebody-doris-day-and-buddy-clark",
+    "title": "Love Somebody",
+    "artist": "Doris Day and Buddy Clark",
+    "year": 1948,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "manana-peggy-lee",
+    "title": "Manana",
+    "artist": "Peggy Lee",
+    "year": 1948,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "nature-boy-nat-king-cole",
+    "title": "Nature Boy",
+    "artist": "Nat King Cole",
+    "year": 1948,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "now-is-the-hour-bing-crosby",
+    "title": "Now Is the Hour",
+    "artist": "Bing Crosby",
+    "year": 1948,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "on-a-slow-boat-to-china-kay-kyser-and-his-orchestra",
+    "title": "On a Slow Boat to China",
+    "artist": "Kay Kyser and His Orchestra",
+    "year": 1948,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "twelfth-street-rag-pee-wee-hunt",
+    "title": "Twelfth Street Rag",
+    "artist": "Pee Wee Hunt",
+    "year": 1948,
+    "genre": "Jazz",
+    "recognition": 4
+  },
+  {
+    "id": "you-call-everybody-darling-al-trace-and-his-orchestra",
+    "title": "You Call Everybody Darling",
+    "artist": "Al Trace and His Orchestra",
+    "year": 1948,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "a-little-bird-told-me-evelyn-knight",
+    "title": "A Little Bird Told Me",
+    "artist": "Evelyn Knight",
+    "year": 1949,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "amapola-the-ames-brothers",
+    "title": "Amapola",
+    "artist": "The Ames Brothers",
+    "year": 1949,
+    "genre": "Vocal group",
+    "recognition": 4
+  },
+  {
+    "id": "careless-hands-mel-torm",
+    "title": "Careless Hands",
+    "artist": "Mel Tormé",
+    "year": 1949,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "cruising-down-the-river-russ-morgan-and-his-orchestra",
+    "title": "Cruising Down the River",
+    "artist": "Russ Morgan and His Orchestra",
+    "year": 1949,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "ghost-riders-in-the-sky-burl-ives",
+    "title": "Ghost Riders in the Sky",
+    "artist": "Burl Ives",
+    "year": 1949,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "mule-train-frankie-laine",
+    "title": "Mule Train",
+    "artist": "Frankie Laine",
+    "year": 1949,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "rag-mop-the-ames-brothers",
+    "title": "Rag Mop",
+    "artist": "The Ames Brothers",
+    "year": 1949,
+    "genre": "Vocal group",
+    "recognition": 4
+  },
+  {
+    "id": "riders-in-the-sky-vaughn-monroe",
+    "title": "Riders in the Sky",
+    "artist": "Vaughn Monroe",
+    "year": 1949,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "some-enchanted-evening-perry-como",
+    "title": "Some Enchanted Evening",
+    "artist": "Perry Como",
+    "year": 1949,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "third-man-theme-anton-karas",
+    "title": "Third Man Theme",
+    "artist": "Anton Karas",
+    "year": 1949,
+    "genre": "Instrumental",
+    "recognition": 5
+  },
+  {
+    "id": "chattanoogie-shoe-shine-boy-red-foley",
+    "title": "Chattanoogie Shoe Shine Boy",
+    "artist": "Red Foley",
+    "year": 1950,
+    "genre": "Country",
+    "recognition": 4
+  },
+  {
+    "id": "goodnight-irene-the-weavers",
+    "title": "Goodnight, Irene",
+    "artist": "The Weavers",
+    "year": 1950,
+    "genre": "Folk",
+    "recognition": 5
+  },
+  {
+    "id": "harbor-lights-sammy-kaye",
+    "title": "Harbor Lights",
+    "artist": "Sammy Kaye",
+    "year": 1950,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "if-i-knew-you-were-comin-idve-baked-a-cake-eileen-barton",
+    "title": "If I Knew You Were Comin’ I’d’ve Baked a Cake",
+    "artist": "Eileen Barton",
+    "year": 1950,
+    "genre": "Novelty",
+    "recognition": 4
+  },
+  {
+    "id": "mona-lisa-nat-king-cole",
+    "title": "Mona Lisa",
+    "artist": "Nat King Cole",
+    "year": 1950,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "my-foolish-heart-gordon-jenkins-and-his-orchestra",
+    "title": "My Foolish Heart",
+    "artist": "Gordon Jenkins and His Orchestra",
+    "year": 1950,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "play-a-simple-melody-bing-crosby-and-gary-crosby",
+    "title": "Play a Simple Melody",
+    "artist": "Bing Crosby and Gary Crosby",
+    "year": 1950,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "the-tennessee-waltz-patti-page",
+    "title": "The Tennessee Waltz",
+    "artist": "Patti Page",
+    "year": 1950,
+    "genre": "Country pop",
+    "recognition": 5
+  },
+  {
+    "id": "third-man-theme-guy-lombardo-and-his-royal-canadians",
+    "title": "Third Man Theme",
+    "artist": "Guy Lombardo and His Royal Canadians",
+    "year": 1950,
+    "genre": "Instrumental",
+    "recognition": 4
+  },
+  {
+    "id": "because-of-you-tony-bennett",
+    "title": "Because of You",
+    "artist": "Tony Bennett",
+    "year": 1951,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "come-on-a-my-house-rosemary-clooney",
+    "title": "Come on-a My House",
+    "artist": "Rosemary Clooney",
+    "year": 1951,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "cry-johnnie-ray",
+    "title": "Cry",
+    "artist": "Johnnie Ray",
+    "year": 1951,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "how-high-the-moon-les-paul-and-mary-ford",
+    "title": "How High the Moon",
+    "artist": "Les Paul and Mary Ford",
+    "year": 1951,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "mockin-bird-hill-patti-page",
+    "title": "Mockin’ Bird Hill",
+    "artist": "Patti Page",
+    "year": 1951,
+    "genre": "Country pop",
+    "recognition": 4
+  },
+  {
+    "id": "on-top-of-old-smoky-the-weavers",
+    "title": "On Top of Old Smoky",
+    "artist": "The Weavers",
+    "year": 1951,
+    "genre": "Folk",
+    "recognition": 5
+  },
+  {
+    "id": "sin-its-no-sin-the-four-aces",
+    "title": "Sin (It’s No Sin)",
+    "artist": "The Four Aces",
+    "year": 1951,
+    "genre": "Vocal group",
+    "recognition": 4
+  },
+  {
+    "id": "sweet-violets-dinah-shore",
+    "title": "Sweet Violets",
+    "artist": "Dinah Shore",
+    "year": 1951,
+    "genre": "Novelty",
+    "recognition": 3
+  },
+  {
+    "id": "too-young-nat-king-cole",
+    "title": "Too Young",
+    "artist": "Nat King Cole",
+    "year": 1951,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "undecided-the-ames-brothers",
+    "title": "Undecided",
+    "artist": "The Ames Brothers",
+    "year": 1951,
+    "genre": "Vocal group",
+    "recognition": 3
+  },
+  {
+    "id": "auf-wiedersehn-sweetheart-vera-lynn",
+    "title": "Auf Wiederseh’n, Sweetheart",
+    "artist": "Vera Lynn",
+    "year": 1952,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "botch-a-me-rosemary-clooney",
+    "title": "Botch-a-Me",
+    "artist": "Rosemary Clooney",
+    "year": 1952,
+    "genre": "Novelty",
+    "recognition": 3
+  },
+  {
+    "id": "delicado-percy-faith",
+    "title": "Delicado",
+    "artist": "Percy Faith",
+    "year": 1952,
+    "genre": "Easy listening",
+    "recognition": 4
+  },
+  {
+    "id": "half-as-much-rosemary-clooney",
+    "title": "Half as Much",
+    "artist": "Rosemary Clooney",
+    "year": 1952,
+    "genre": "Country pop",
+    "recognition": 4
+  },
+  {
+    "id": "im-yours-eddie-fisher",
+    "title": "I’m Yours",
+    "artist": "Eddie Fisher",
+    "year": 1952,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "jambalaya-on-the-bayou-hank-williams",
+    "title": "Jambalaya (On the Bayou)",
+    "artist": "Hank Williams",
+    "year": 1952,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "kiss-of-fire-georgia-gibbs",
+    "title": "Kiss of Fire",
+    "artist": "Georgia Gibbs",
+    "year": 1952,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "the-glow-worm-the-mills-brothers",
+    "title": "The Glow-Worm",
+    "artist": "The Mills Brothers",
+    "year": 1952,
+    "genre": "Vocal group",
+    "recognition": 4
+  },
+  {
+    "id": "wheel-of-fortune-kay-starr",
+    "title": "Wheel of Fortune",
+    "artist": "Kay Starr",
+    "year": 1952,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "you-belong-to-me-jo-stafford",
+    "title": "You Belong to Me",
+    "artist": "Jo Stafford",
+    "year": 1952,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "ebb-tide-frank-chacksfield",
+    "title": "Ebb Tide",
+    "artist": "Frank Chacksfield",
+    "year": 1953,
+    "genre": "Easy listening",
+    "recognition": 4
+  },
+  {
+    "id": "hey-joe-frankie-laine",
+    "title": "Hey, Joe!",
+    "artist": "Frankie Laine",
+    "year": 1953,
+    "genre": "Traditional pop",
+    "recognition": 3
+  },
+  {
+    "id": "im-walking-behind-you-eddie-fisher",
+    "title": "I’m Walking Behind You",
+    "artist": "Eddie Fisher",
+    "year": 1953,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "pretend-nat-king-cole",
+    "title": "Pretend",
+    "artist": "Nat King Cole",
+    "year": 1953,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "rags-to-riches-tony-bennett",
+    "title": "Rags to Riches",
+    "artist": "Tony Bennett",
+    "year": 1953,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "st-george-and-the-dragonet-stan-freberg",
+    "title": "St. George and the Dragonet",
+    "artist": "Stan Freberg",
+    "year": 1953,
+    "genre": "Comedy",
+    "recognition": 4
+  },
+  {
+    "id": "the-song-from-moulin-rouge-percy-faith",
+    "title": "The Song from Moulin Rouge",
+    "artist": "Percy Faith",
+    "year": 1953,
+    "genre": "Easy listening",
+    "recognition": 4
+  },
+  {
+    "id": "till-i-waltz-again-with-you-teresa-brewer",
+    "title": "Till I Waltz Again with You",
+    "artist": "Teresa Brewer",
+    "year": 1953,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "vaya-con-dios-les-paul-and-mary-ford",
+    "title": "Vaya con Dios",
+    "artist": "Les Paul and Mary Ford",
+    "year": 1953,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "you-you-you-the-ames-brothers",
+    "title": "You, You, You",
+    "artist": "The Ames Brothers",
+    "year": 1953,
+    "genre": "Vocal group",
+    "recognition": 4
+  },
+  {
+    "id": "hey-there-rosemary-clooney",
+    "title": "Hey There",
+    "artist": "Rosemary Clooney",
+    "year": 1954,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "i-get-so-lonely-the-four-knights",
+    "title": "I Get So Lonely",
+    "artist": "The Four Knights",
+    "year": 1954,
+    "genre": "Vocal group",
+    "recognition": 3
+  },
+  {
+    "id": "i-need-you-now-eddie-fisher",
+    "title": "I Need You Now",
+    "artist": "Eddie Fisher",
+    "year": 1954,
+    "genre": "Traditional pop",
+    "recognition": 3
+  },
+  {
+    "id": "little-things-mean-a-lot-kitty-kallen",
+    "title": "Little Things Mean a Lot",
+    "artist": "Kitty Kallen",
+    "year": 1954,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "make-love-to-me-jo-stafford",
+    "title": "Make Love to Me",
+    "artist": "Jo Stafford",
+    "year": 1954,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "mister-sandman-the-chordettes",
+    "title": "Mister Sandman",
+    "artist": "The Chordettes",
+    "year": 1954,
+    "genre": "Vocal group",
+    "recognition": 5
+  },
+  {
+    "id": "sh-boom-the-chords",
+    "title": "Sh-Boom",
+    "artist": "The Chords",
+    "year": 1954,
+    "genre": "Doo-wop",
+    "recognition": 5
+  },
+  {
+    "id": "the-happy-wanderer-frank-weir-and-his-orchestra",
+    "title": "The Happy Wanderer",
+    "artist": "Frank Weir and His Orchestra",
+    "year": 1954,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "this-ole-house-stuart-hamblen",
+    "title": "This Ole House",
+    "artist": "Stuart Hamblen",
+    "year": 1954,
+    "genre": "Country gospel",
+    "recognition": 4
+  },
+  {
+    "id": "three-coins-in-the-fountain-the-four-aces",
+    "title": "Three Coins in the Fountain",
+    "artist": "The Four Aces",
+    "year": 1954,
+    "genre": "Vocal group",
+    "recognition": 5
+  },
+  {
+    "id": "aint-that-a-shame-pat-boone",
+    "title": "Ain’t That a Shame",
+    "artist": "Pat Boone",
+    "year": 1955,
+    "genre": "Rock and roll",
+    "recognition": 4
+  },
+  {
+    "id": "cherry-pink-and-apple-blossom-white-perez-prado",
+    "title": "Cherry Pink and Apple Blossom White",
+    "artist": "Perez Prado",
+    "year": 1955,
+    "genre": "Mambo",
+    "recognition": 5
+  },
+  {
+    "id": "love-is-a-many-splendored-thing-the-four-aces",
+    "title": "Love Is a Many-Splendored Thing",
+    "artist": "The Four Aces",
+    "year": 1955,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "only-you-and-you-alone-the-platters",
+    "title": "Only You (And You Alone)",
+    "artist": "The Platters",
+    "year": 1955,
+    "genre": "Doo-wop",
+    "recognition": 5
+  },
+  {
+    "id": "rock-around-the-clock-bill-haley-and-his-comets",
+    "title": "Rock Around the Clock",
+    "artist": "Bill Haley & His Comets",
+    "year": 1955,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "sincerely-the-mcguire-sisters",
+    "title": "Sincerely",
+    "artist": "The McGuire Sisters",
+    "year": 1955,
+    "genre": "Vocal group",
+    "recognition": 4
+  },
+  {
+    "id": "the-ballad-of-davy-crockett-tennessee-ernie-ford",
+    "title": "The Ballad of Davy Crockett",
+    "artist": "Tennessee Ernie Ford",
+    "year": 1955,
+    "genre": "Country",
+    "recognition": 4
+  },
+  {
+    "id": "the-crazy-otto-medley-johnny-maddox",
+    "title": "The Crazy Otto Medley",
+    "artist": "Johnny Maddox",
+    "year": 1955,
+    "genre": "Piano novelty",
+    "recognition": 3
+  },
+  {
+    "id": "the-yellow-rose-of-texas-mitch-miller",
+    "title": "The Yellow Rose of Texas",
+    "artist": "Mitch Miller",
+    "year": 1955,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "unchained-melody-les-baxter",
+    "title": "Unchained Melody",
+    "artist": "Les Baxter",
+    "year": 1955,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "blue-suede-shoes-carl-perkins",
+    "title": "Blue Suede Shoes",
+    "artist": "Carl Perkins",
+    "year": 1956,
+    "genre": "Rockabilly",
+    "recognition": 5
+  },
+  {
+    "id": "dont-be-cruel-elvis-presley",
+    "title": "Don’t Be Cruel",
+    "artist": "Elvis Presley",
+    "year": 1956,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "heartbreak-hotel-elvis-presley",
+    "title": "Heartbreak Hotel",
+    "artist": "Elvis Presley",
+    "year": 1956,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "hound-dog-elvis-presley",
+    "title": "Hound Dog",
+    "artist": "Elvis Presley",
+    "year": 1956,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "lisbon-antigua-nelson-riddle",
+    "title": "Lisbon Antigua",
+    "artist": "Nelson Riddle",
+    "year": 1956,
+    "genre": "Easy listening",
+    "recognition": 4
+  },
+  {
+    "id": "memories-are-made-of-this-dean-martin",
+    "title": "Memories Are Made of This",
+    "artist": "Dean Martin",
+    "year": 1956,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "my-prayer-the-platters",
+    "title": "My Prayer",
+    "artist": "The Platters",
+    "year": 1956,
+    "genre": "Doo-wop",
+    "recognition": 5
+  },
+  {
+    "id": "que-sera-sera-doris-day",
+    "title": "Que Sera, Sera",
+    "artist": "Doris Day",
+    "year": 1956,
+    "genre": "Traditional pop",
+    "recognition": 5
+  },
+  {
+    "id": "sixteen-tons-tennessee-ernie-ford",
+    "title": "Sixteen Tons",
+    "artist": "Tennessee Ernie Ford",
+    "year": 1956,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "the-great-pretender-the-platters",
+    "title": "The Great Pretender",
+    "artist": "The Platters",
+    "year": 1956,
+    "genre": "Doo-wop",
+    "recognition": 5
+  },
+  {
+    "id": "all-shook-up-elvis-presley",
+    "title": "All Shook Up",
+    "artist": "Elvis Presley",
+    "year": 1957,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "bye-bye-love-the-everly-brothers",
+    "title": "Bye Bye Love",
+    "artist": "The Everly Brothers",
+    "year": 1957,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "diana-paul-anka",
+    "title": "Diana",
+    "artist": "Paul Anka",
+    "year": 1957,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "jailhouse-rock-elvis-presley",
+    "title": "Jailhouse Rock",
+    "artist": "Elvis Presley",
+    "year": 1957,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "little-darlin-the-diamonds",
+    "title": "Little Darlin’",
+    "artist": "The Diamonds",
+    "year": 1957,
+    "genre": "Doo-wop",
+    "recognition": 5
+  },
+  {
+    "id": "so-rare-jimmy-dorsey",
+    "title": "So Rare",
+    "artist": "Jimmy Dorsey",
+    "year": 1957,
+    "genre": "Big band",
+    "recognition": 4
+  },
+  {
+    "id": "tammy-debbie-reynolds",
+    "title": "Tammy",
+    "artist": "Debbie Reynolds",
+    "year": 1957,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "thatll-be-the-day-buddy-holly-and-the-crickets",
+    "title": "That’ll Be the Day",
+    "artist": "Buddy Holly and the Crickets",
+    "year": 1957,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "you-send-me-sam-cooke",
+    "title": "You Send Me",
+    "artist": "Sam Cooke",
+    "year": 1957,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "young-love-sonny-james",
+    "title": "Young Love",
+    "artist": "Sonny James",
+    "year": 1957,
+    "genre": "Country",
+    "recognition": 4
+  },
+  {
+    "id": "all-i-have-to-do-is-dream-the-everly-brothers",
+    "title": "All I Have to Do Is Dream",
+    "artist": "The Everly Brothers",
+    "year": 1958,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "at-the-hop-danny-and-the-juniors",
+    "title": "At the Hop",
+    "artist": "Danny & the Juniors",
+    "year": 1958,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "dont-elvis-presley",
+    "title": "Don’t",
+    "artist": "Elvis Presley",
+    "year": 1958,
+    "genre": "Rock and roll",
+    "recognition": 4
+  },
+  {
+    "id": "its-all-in-the-game-tommy-edwards",
+    "title": "It’s All in the Game",
+    "artist": "Tommy Edwards",
+    "year": 1958,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "nel-blu-dipinto-di-blu-volare-dean-martin",
+    "title": "Nel Blu Dipinto di Blu (Volare)",
+    "artist": "Dean Martin",
+    "year": 1958,
+    "genre": "Traditional pop",
+    "recognition": 4
+  },
+  {
+    "id": "patricia-perez-prado",
+    "title": "Patricia",
+    "artist": "Perez Prado",
+    "year": 1958,
+    "genre": "Mambo",
+    "recognition": 4
+  },
+  {
+    "id": "sugartime-the-mcguire-sisters",
+    "title": "Sugartime",
+    "artist": "The McGuire Sisters",
+    "year": 1958,
+    "genre": "Vocal group",
+    "recognition": 4
+  },
+  {
+    "id": "tequila-the-champs",
+    "title": "Tequila",
+    "artist": "The Champs",
+    "year": 1958,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "the-chipmunk-song-the-chipmunks",
+    "title": "The Chipmunk Song",
+    "artist": "The Chipmunks",
+    "year": 1958,
+    "genre": "Novelty",
+    "recognition": 5
+  },
+  {
+    "id": "volare-domenico-modugno",
+    "title": "Volare",
+    "artist": "Domenico Modugno",
+    "year": 1958,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "a-big-hunk-o-love-elvis-presley",
+    "title": "A Big Hunk o’ Love",
+    "artist": "Elvis Presley",
+    "year": 1959,
+    "genre": "Rock and roll",
+    "recognition": 4
+  },
+  {
+    "id": "dream-lover-bobby-darin",
+    "title": "Dream Lover",
+    "artist": "Bobby Darin",
+    "year": 1959,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "el-paso-marty-robbins",
+    "title": "El Paso",
+    "artist": "Marty Robbins",
+    "year": 1959,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "kansas-city-wilbert-harrison",
+    "title": "Kansas City",
+    "artist": "Wilbert Harrison",
+    "year": 1959,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "lonely-boy-paul-anka",
+    "title": "Lonely Boy",
+    "artist": "Paul Anka",
+    "year": 1959,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "mack-the-knife-bobby-darin",
+    "title": "Mack the Knife",
+    "artist": "Bobby Darin",
+    "year": 1959,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "stagger-lee-lloyd-price",
+    "title": "Stagger Lee",
+    "artist": "Lloyd Price",
+    "year": 1959,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "the-battle-of-new-orleans-johnny-horton",
+    "title": "The Battle of New Orleans",
+    "artist": "Johnny Horton",
+    "year": 1959,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
     "id": "theme-from-a-summer-place",
     "title": "Theme from A Summer Place",
     "artist": "Percy Faith",
@@ -9,12 +2657,116 @@
     "recognition": 4
   },
   {
+    "id": "venus-frankie-avalon",
+    "title": "Venus",
+    "artist": "Frankie Avalon",
+    "year": 1959,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "are-you-lonesome-tonight-elvis-presley",
+    "title": "Are You Lonesome Tonight?",
+    "artist": "Elvis Presley",
+    "year": 1960,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
     "id": "cathy-s-clown",
     "title": "Cathy's Clown",
     "artist": "The Everly Brothers",
     "year": 1960,
     "genre": "Rock and roll",
     "recognition": 4
+  },
+  {
+    "id": "cathys-clown-the-everly-brothers",
+    "title": "Cathy’s Clown",
+    "artist": "The Everly Brothers",
+    "year": 1960,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "georgia-on-my-mind-ray-charles",
+    "title": "Georgia on My Mind",
+    "artist": "Ray Charles",
+    "year": 1960,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "hell-have-to-go-jim-reeves",
+    "title": "He’ll Have to Go",
+    "artist": "Jim Reeves",
+    "year": 1960,
+    "genre": "Country",
+    "recognition": 4
+  },
+  {
+    "id": "its-now-or-never-elvis-presley",
+    "title": "It’s Now or Never",
+    "artist": "Elvis Presley",
+    "year": 1960,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "save-the-last-dance-for-me-the-drifters",
+    "title": "Save the Last Dance for Me",
+    "artist": "The Drifters",
+    "year": 1960,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "the-twist",
+    "title": "The Twist",
+    "artist": "Chubby Checker",
+    "year": 1960,
+    "genre": "Dance",
+    "recognition": 5
+  },
+  {
+    "id": "theme-from-a-summer-place-percy-faith",
+    "title": "Theme from A Summer Place",
+    "artist": "Percy Faith",
+    "year": 1960,
+    "genre": "Easy listening",
+    "recognition": 4
+  },
+  {
+    "id": "crying-roy-orbison",
+    "title": "Crying",
+    "artist": "Roy Orbison",
+    "year": 1961,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "i-fall-to-pieces-patsy-cline",
+    "title": "I Fall to Pieces",
+    "artist": "Patsy Cline",
+    "year": 1961,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "michael-the-highwaymen",
+    "title": "Michael",
+    "artist": "The Highwaymen",
+    "year": 1961,
+    "genre": "Folk",
+    "recognition": 4
+  },
+  {
+    "id": "runaround-sue-dion",
+    "title": "Runaround Sue",
+    "artist": "Dion",
+    "year": 1961,
+    "genre": "Rock and roll",
+    "recognition": 5
   },
   {
     "id": "runaway-del-shannon",
@@ -33,11 +2785,19 @@
     "recognition": 5
   },
   {
-    "id": "the-twist",
-    "title": "The Twist",
-    "artist": "Chubby Checker",
-    "year": 1960,
-    "genre": "Dance",
+    "id": "take-good-care-of-my-baby-bobby-vee",
+    "title": "Take Good Care of My Baby",
+    "artist": "Bobby Vee",
+    "year": 1961,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "the-lion-sleeps-tonight-the-tokens",
+    "title": "The Lion Sleeps Tonight",
+    "artist": "The Tokens",
+    "year": 1961,
+    "genre": "Pop",
     "recognition": 5
   },
   {
@@ -49,12 +2809,68 @@
     "recognition": 4
   },
   {
-    "id": "he-s-so-fine",
-    "title": "He's So Fine",
-    "artist": "The Chiffons",
-    "year": 1963,
+    "id": "big-girls-dont-cry-the-four-seasons",
+    "title": "Big Girls Don’t Cry",
+    "artist": "The Four Seasons",
+    "year": 1962,
     "genre": "Pop",
     "recognition": 4
+  },
+  {
+    "id": "breaking-up-is-hard-to-do-neil-sedaka",
+    "title": "Breaking Up Is Hard to Do",
+    "artist": "Neil Sedaka",
+    "year": 1962,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "duke-of-earl-gene-chandler",
+    "title": "Duke of Earl",
+    "artist": "Gene Chandler",
+    "year": 1962,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "i-cant-stop-loving-you-ray-charles",
+    "title": "I Can’t Stop Loving You",
+    "artist": "Ray Charles",
+    "year": 1962,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "roses-are-red-my-love-bobby-vinton",
+    "title": "Roses Are Red (My Love)",
+    "artist": "Bobby Vinton",
+    "year": 1962,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "sheila-tommy-roe",
+    "title": "Sheila",
+    "artist": "Tommy Roe",
+    "year": 1962,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "sherry-the-four-seasons",
+    "title": "Sherry",
+    "artist": "The Four Seasons",
+    "year": 1962,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-loco-motion-little-eva",
+    "title": "The Loco-Motion",
+    "artist": "Little Eva",
+    "year": 1962,
+    "genre": "Dance",
+    "recognition": 5
   },
   {
     "id": "be-my-baby",
@@ -65,6 +2881,38 @@
     "recognition": 5
   },
   {
+    "id": "blue-velvet-bobby-vinton",
+    "title": "Blue Velvet",
+    "artist": "Bobby Vinton",
+    "year": 1963,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "fingertips-little-stevie-wonder",
+    "title": "Fingertips",
+    "artist": "Little Stevie Wonder",
+    "year": 1963,
+    "genre": "Soul",
+    "recognition": 4
+  },
+  {
+    "id": "he-s-so-fine",
+    "title": "He's So Fine",
+    "artist": "The Chiffons",
+    "year": 1963,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "hes-so-fine-the-chiffons",
+    "title": "He’s So Fine",
+    "artist": "The Chiffons",
+    "year": 1963,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
     "id": "i-want-to-hold-your-hand",
     "title": "I Want to Hold Your Hand",
     "artist": "The Beatles",
@@ -73,11 +2921,51 @@
     "recognition": 5
   },
   {
-    "id": "oh-pretty-woman",
-    "title": "Oh, Pretty Woman",
-    "artist": "Roy Orbison",
+    "id": "louie-louie-the-kingsmen",
+    "title": "Louie Louie",
+    "artist": "The Kingsmen",
+    "year": 1963,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "surfin-usa-the-beach-boys",
+    "title": "Surfin’ U.S.A.",
+    "artist": "The Beach Boys",
+    "year": 1963,
+    "genre": "Surf rock",
+    "recognition": 5
+  },
+  {
+    "id": "a-hard-days-night-the-beatles",
+    "title": "A Hard Day’s Night",
+    "artist": "The Beatles",
     "year": 1964,
-    "genre": "Rock and roll",
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "dancing-in-the-street-martha-and-the-vandellas",
+    "title": "Dancing in the Street",
+    "artist": "Martha and the Vandellas",
+    "year": 1964,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "house-of-the-rising-sun-the-animals",
+    "title": "House of the Rising Sun",
+    "artist": "The Animals",
+    "year": 1964,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "i-feel-fine-1964",
+    "title": "I Feel Fine",
+    "artist": "The Beatles",
+    "year": 1964,
+    "genre": "Rock",
     "recognition": 5
   },
   {
@@ -89,11 +2977,51 @@
     "recognition": 5
   },
   {
-    "id": "stop-in-the-name-of-love",
-    "title": "Stop! In the Name of Love",
+    "id": "oh-pretty-woman",
+    "title": "Oh, Pretty Woman",
+    "artist": "Roy Orbison",
+    "year": 1964,
+    "genre": "Rock and roll",
+    "recognition": 5
+  },
+  {
+    "id": "she-loves-you-the-beatles",
+    "title": "She Loves You",
+    "artist": "The Beatles",
+    "year": 1964,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "where-did-our-love-go-the-supremes",
+    "title": "Where Did Our Love Go",
     "artist": "The Supremes",
-    "year": 1965,
+    "year": 1964,
     "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "california-dreamin",
+    "title": "California Dreamin'",
+    "artist": "The Mamas & the Papas",
+    "year": 1965,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "downtown-petula-clark",
+    "title": "Downtown",
+    "artist": "Petula Clark",
+    "year": 1965,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "help-the-beatles",
+    "title": "Help!",
+    "artist": "The Beatles",
+    "year": 1965,
+    "genre": "Rock",
     "recognition": 5
   },
   {
@@ -105,19 +3033,51 @@
     "recognition": 4
   },
   {
-    "id": "california-dreamin",
-    "title": "California Dreamin'",
-    "artist": "The Mamas & the Papas",
+    "id": "i-cant-help-myself-sugar-pie-honey-bunch-four-tops",
+    "title": "I Can’t Help Myself (Sugar Pie, Honey Bunch)",
+    "artist": "Four Tops",
     "year": 1965,
-    "genre": "Folk rock",
+    "genre": "Soul",
+    "recognition": 4
+  },
+  {
+    "id": "i-got-you-babe-sonny-and-cher",
+    "title": "I Got You Babe",
+    "artist": "Sonny & Cher",
+    "year": 1965,
+    "genre": "Pop",
     "recognition": 5
   },
   {
-    "id": "you-cant-hurry-love",
-    "title": "You Can't Hurry Love",
+    "id": "satisfaction-the-rolling-stones",
+    "title": "Satisfaction",
+    "artist": "The Rolling Stones",
+    "year": 1965,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "stop-in-the-name-of-love",
+    "title": "Stop! In the Name of Love",
     "artist": "The Supremes",
-    "year": 1966,
+    "year": 1965,
     "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "wooly-bully-sam-the-sham-and-the-pharaohs",
+    "title": "Wooly Bully",
+    "artist": "Sam the Sham and the Pharaohs",
+    "year": 1965,
+    "genre": "Rock",
+    "recognition": 4
+  },
+  {
+    "id": "california-dreamin-the-mamas-and-the-papas",
+    "title": "California Dreamin’",
+    "artist": "The Mamas & the Papas",
+    "year": 1966,
+    "genre": "Folk rock",
     "recognition": 5
   },
   {
@@ -129,11 +3089,91 @@
     "recognition": 5
   },
   {
-    "id": "respect",
-    "title": "Respect",
-    "artist": "Aretha Franklin",
-    "year": 1967,
+    "id": "paint-it-black-the-rolling-stones",
+    "title": "Paint It, Black",
+    "artist": "The Rolling Stones",
+    "year": 1966,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "reach-out-ill-be-there-four-tops",
+    "title": "Reach Out I’ll Be There",
+    "artist": "Four Tops",
+    "year": 1966,
     "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "these-boots-are-made-for-walkin-nancy-sinatra",
+    "title": "These Boots Are Made for Walkin’",
+    "artist": "Nancy Sinatra",
+    "year": 1966,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "when-a-man-loves-a-woman-percy-sledge",
+    "title": "When a Man Loves a Woman",
+    "artist": "Percy Sledge",
+    "year": 1966,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "wild-thing-the-troggs",
+    "title": "Wild Thing",
+    "artist": "The Troggs",
+    "year": 1966,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "you-cant-hurry-love",
+    "title": "You Can't Hurry Love",
+    "artist": "The Supremes",
+    "year": 1966,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "you-cant-hurry-love-the-supremes",
+    "title": "You Can’t Hurry Love",
+    "artist": "The Supremes",
+    "year": 1966,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "all-you-need-is-love-the-beatles",
+    "title": "All You Need Is Love",
+    "artist": "The Beatles",
+    "year": 1967,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "for-what-its-worth-buffalo-springfield",
+    "title": "For What It’s Worth",
+    "artist": "Buffalo Springfield",
+    "year": 1967,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "happy-together-the-turtles",
+    "title": "Happy Together",
+    "artist": "The Turtles",
+    "year": 1967,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "im-a-believer-the-monkees",
+    "title": "I’m a Believer",
+    "artist": "The Monkees",
+    "year": 1967,
+    "genre": "Pop rock",
     "recognition": 5
   },
   {
@@ -145,6 +3185,46 @@
     "recognition": 5
   },
   {
+    "id": "ode-to-billie-joe-bobbie-gentry",
+    "title": "Ode to Billie Joe",
+    "artist": "Bobbie Gentry",
+    "year": 1967,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "respect",
+    "title": "Respect",
+    "artist": "Aretha Franklin",
+    "year": 1967,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "ruby-tuesday-the-rolling-stones",
+    "title": "Ruby Tuesday",
+    "artist": "The Rolling Stones",
+    "year": 1967,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "born-to-be-wild-steppenwolf",
+    "title": "Born to Be Wild",
+    "artist": "Steppenwolf",
+    "year": 1968,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "harper-valley-pta-jeannie-c-riley",
+    "title": "Harper Valley PTA",
+    "artist": "Jeannie C. Riley",
+    "year": 1968,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
     "id": "hey-jude",
     "title": "Hey Jude",
     "artist": "The Beatles",
@@ -153,11 +3233,91 @@
     "recognition": 5
   },
   {
+    "id": "love-is-blue-paul-mauriat",
+    "title": "Love Is Blue",
+    "artist": "Paul Mauriat",
+    "year": 1968,
+    "genre": "Easy listening",
+    "recognition": 4
+  },
+  {
+    "id": "mrs-robinson-simon-and-garfunkel",
+    "title": "Mrs. Robinson",
+    "artist": "Simon & Garfunkel",
+    "year": 1968,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "people-got-to-be-free-the-rascals",
+    "title": "People Got to Be Free",
+    "artist": "The Rascals",
+    "year": 1968,
+    "genre": "Rock",
+    "recognition": 4
+  },
+  {
     "id": "sittin-on-the-dock-of-the-bay",
     "title": "(Sittin' On) The Dock of the Bay",
     "artist": "Otis Redding",
     "year": 1968,
     "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "sittin-on-the-dock-of-the-bay-otis-redding",
+    "title": "(Sittin’ On) The Dock of the Bay",
+    "artist": "Otis Redding",
+    "year": 1968,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "tighten-up-archie-bell-and-the-drells",
+    "title": "Tighten Up",
+    "artist": "Archie Bell & the Drells",
+    "year": 1968,
+    "genre": "Soul",
+    "recognition": 4
+  },
+  {
+    "id": "aquarius-let-the-sunshine-in",
+    "title": "Aquarius/Let the Sunshine In",
+    "artist": "The 5th Dimension",
+    "year": 1969,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "everyday-people-sly-and-the-family-stone",
+    "title": "Everyday People",
+    "artist": "Sly and the Family Stone",
+    "year": 1969,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "honky-tonk-women-the-rolling-stones",
+    "title": "Honky Tonk Women",
+    "artist": "The Rolling Stones",
+    "year": 1969,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "i-cant-get-next-to-you-the-temptations",
+    "title": "I Can’t Get Next to You",
+    "artist": "The Temptations",
+    "year": 1969,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "proud-mary-creedence-clearwater-revival",
+    "title": "Proud Mary",
+    "artist": "Creedence Clearwater Revival",
+    "year": 1969,
+    "genre": "Rock",
     "recognition": 5
   },
   {
@@ -169,59 +3329,11 @@
     "recognition": 5
   },
   {
-    "id": "aquarius-let-the-sunshine-in",
-    "title": "Aquarius/Let the Sunshine In",
-    "artist": "The 5th Dimension",
+    "id": "suspicious-minds-elvis-presley",
+    "title": "Suspicious Minds",
+    "artist": "Elvis Presley",
     "year": 1969,
-    "genre": "Pop",
-    "recognition": 4
-  },
-  {
-    "id": "bridge-over-troubled-water",
-    "title": "Bridge over Troubled Water",
-    "artist": "Simon & Garfunkel",
-    "year": 1970,
-    "genre": "Folk rock",
-    "recognition": 5
-  },
-  {
-    "id": "abc",
-    "title": "ABC",
-    "artist": "The Jackson 5",
-    "year": 1970,
-    "genre": "Soul",
-    "recognition": 5
-  },
-  {
-    "id": "joy-to-the-world",
-    "title": "Joy to the World",
-    "artist": "Three Dog Night",
-    "year": 1970,
     "genre": "Rock",
-    "recognition": 5
-  },
-  {
-    "id": "me-and-bobby-mcgee",
-    "title": "Me and Bobby McGee",
-    "artist": "Janis Joplin",
-    "year": 1971,
-    "genre": "Rock",
-    "recognition": 5
-  },
-  {
-    "id": "imagine",
-    "title": "Imagine",
-    "artist": "John Lennon",
-    "year": 1971,
-    "genre": "Rock",
-    "recognition": 5
-  },
-  {
-    "id": "american-pie",
-    "title": "American Pie",
-    "artist": "Don McLean",
-    "year": 1971,
-    "genre": "Folk rock",
     "recognition": 5
   },
   {
@@ -234,9 +3346,177 @@
     "recognition": 4
   },
   {
+    "id": "abc",
+    "title": "ABC",
+    "artist": "The Jackson 5",
+    "year": 1970,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "american-woman-the-guess-who",
+    "title": "American Woman",
+    "artist": "The Guess Who",
+    "year": 1970,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "bridge-over-troubled-water",
+    "title": "Bridge over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "year": 1970,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "close-to-you-the-carpenters",
+    "title": "Close to You",
+    "artist": "The Carpenters",
+    "year": 1970,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "joy-to-the-world",
+    "title": "Joy to the World",
+    "artist": "Three Dog Night",
+    "year": 1970,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "let-it-be-the-beatles",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "year": 1970,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "raindrops-keep-fallin-on-my-head-bj-thomas",
+    "title": "Raindrops Keep Fallin’ on My Head",
+    "artist": "B.J. Thomas",
+    "year": 1970,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "war-edwin-starr",
+    "title": "War",
+    "artist": "Edwin Starr",
+    "year": 1970,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "american-pie",
+    "title": "American Pie",
+    "artist": "Don McLean",
+    "year": 1971,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "go-away-little-girl-donny-osmond",
+    "title": "Go Away Little Girl",
+    "artist": "Donny Osmond",
+    "year": 1971,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "how-can-you-mend-a-broken-heart-bee-gees",
+    "title": "How Can You Mend a Broken Heart",
+    "artist": "Bee Gees",
+    "year": 1971,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "imagine",
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "year": 1971,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "its-too-late-carole-king",
+    "title": "It’s Too Late",
+    "artist": "Carole King",
+    "year": 1971,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "joy-to-the-world-three-dog-night",
+    "title": "Joy to the World",
+    "artist": "Three Dog Night",
+    "year": 1971,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "maggie-may-rod-stewart",
+    "title": "Maggie May",
+    "artist": "Rod Stewart",
+    "year": 1971,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "me-and-bobby-mcgee",
+    "title": "Me and Bobby McGee",
+    "artist": "Janis Joplin",
+    "year": 1971,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "one-bad-apple-the-osmonds",
+    "title": "One Bad Apple",
+    "artist": "The Osmonds",
+    "year": 1971,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "alone-again-naturally-gilbert-osullivan",
+    "title": "Alone Again (Naturally)",
+    "artist": "Gilbert O’Sullivan",
+    "year": 1972,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "american-pie-don-mclean",
+    "title": "American Pie",
+    "artist": "Don McLean",
+    "year": 1972,
+    "genre": "Folk rock",
+    "recognition": 5
+  },
+  {
+    "id": "i-can-see-clearly-now-johnny-nash",
+    "title": "I Can See Clearly Now",
+    "artist": "Johnny Nash",
+    "year": 1972,
+    "genre": "Reggae",
+    "recognition": 5
+  },
+  {
     "id": "lean-on-me",
     "title": "Lean on Me",
     "artist": "Bill Withers",
+    "year": 1972,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "lets-stay-together-al-green",
+    "title": "Let’s Stay Together",
+    "artist": "Al Green",
     "year": 1972,
     "genre": "Soul",
     "recognition": 5
@@ -250,16 +3530,64 @@
     "recognition": 5
   },
   {
-    "id": "tie-a-yellow-ribbon",
-    "title": "Tie a Yellow Ribbon Round the Ole Oak Tree",
-    "artist": "Tony Orlando and Dawn",
-    "year": 1973,
+    "id": "the-candy-man-sammy-davis-jr",
+    "title": "The Candy Man",
+    "artist": "Sammy Davis Jr.",
+    "year": 1972,
     "genre": "Pop",
     "recognition": 4
   },
   {
+    "id": "the-first-time-ever-i-saw-your-face-roberta-flack",
+    "title": "The First Time Ever I Saw Your Face",
+    "artist": "Roberta Flack",
+    "year": 1972,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "without-you-nilsson",
+    "title": "Without You",
+    "artist": "Nilsson",
+    "year": 1972,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "bad-bad-leroy-brown-jim-croce",
+    "title": "Bad, Bad Leroy Brown",
+    "artist": "Jim Croce",
+    "year": 1973,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "crocodile-rock-elton-john",
+    "title": "Crocodile Rock",
+    "artist": "Elton John",
+    "year": 1973,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "killing-me-softly-with-his-song-roberta-flack",
+    "title": "Killing Me Softly with His Song",
+    "artist": "Roberta Flack",
+    "year": 1973,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
     "id": "lets-get-it-on",
     "title": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "year": 1973,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "lets-get-it-on-marvin-gaye",
+    "title": "Let’s Get It On",
     "artist": "Marvin Gaye",
     "year": 1973,
     "genre": "Soul",
@@ -274,6 +3602,46 @@
     "recognition": 4
   },
   {
+    "id": "tie-a-yellow-ribbon",
+    "title": "Tie a Yellow Ribbon Round the Ole Oak Tree",
+    "artist": "Tony Orlando and Dawn",
+    "year": 1973,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "youre-so-vain-carly-simon",
+    "title": "You’re So Vain",
+    "artist": "Carly Simon",
+    "year": 1973,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "annies-song-john-denver",
+    "title": "Annie’s Song",
+    "artist": "John Denver",
+    "year": 1974,
+    "genre": "Folk",
+    "recognition": 5
+  },
+  {
+    "id": "band-on-the-run-wings",
+    "title": "Band on the Run",
+    "artist": "Wings",
+    "year": 1974,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "bennie-and-the-jets-elton-john",
+    "title": "Bennie and the Jets",
+    "artist": "Elton John",
+    "year": 1974,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
     "id": "dancing-machine",
     "title": "Dancing Machine",
     "artist": "The Jackson 5",
@@ -282,11 +3650,59 @@
     "recognition": 4
   },
   {
+    "id": "feel-like-makin-love-roberta-flack",
+    "title": "Feel Like Makin’ Love",
+    "artist": "Roberta Flack",
+    "year": 1974,
+    "genre": "Soul",
+    "recognition": 4
+  },
+  {
+    "id": "seasons-in-the-sun-terry-jacks",
+    "title": "Seasons in the Sun",
+    "artist": "Terry Jacks",
+    "year": 1974,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
     "id": "you-aint-seen-nothin-yet",
     "title": "You Ain't Seen Nothing Yet",
     "artist": "Bachman-Turner Overdrive",
     "year": 1974,
     "genre": "Rock",
+    "recognition": 4
+  },
+  {
+    "id": "you-aint-seen-nothing-yet-bachman-turner-overdrive",
+    "title": "You Ain’t Seen Nothing Yet",
+    "artist": "Bachman-Turner Overdrive",
+    "year": 1974,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "bohemian-rhapsody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "year": 1975,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "fame-david-bowie",
+    "title": "Fame",
+    "artist": "David Bowie",
+    "year": 1975,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "love-machine-the-miracles",
+    "title": "Love Machine",
+    "artist": "The Miracles",
+    "year": 1975,
+    "genre": "Soul",
     "recognition": 4
   },
   {
@@ -298,6 +3714,22 @@
     "recognition": 5
   },
   {
+    "id": "philadelphia-freedom-elton-john",
+    "title": "Philadelphia Freedom",
+    "artist": "Elton John",
+    "year": 1975,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "rhinestone-cowboy-glen-campbell",
+    "title": "Rhinestone Cowboy",
+    "artist": "Glen Campbell",
+    "year": 1975,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
     "id": "thats-the-way-i-like-it",
     "title": "That's the Way (I Like It)",
     "artist": "KC and the Sunshine Band",
@@ -306,20 +3738,12 @@
     "recognition": 4
   },
   {
-    "id": "bohemian-rhapsody",
-    "title": "Bohemian Rhapsody",
-    "artist": "Queen",
+    "id": "thats-the-way-i-like-it-kc-and-the-sunshine-band",
+    "title": "That’s the Way (I Like It)",
+    "artist": "KC and the Sunshine Band",
     "year": 1975,
-    "genre": "Rock",
+    "genre": "Disco",
     "recognition": 5
-  },
-  {
-    "id": "silly-love-songs",
-    "title": "Silly Love Songs",
-    "artist": "Wings",
-    "year": 1976,
-    "genre": "Pop rock",
-    "recognition": 4
   },
   {
     "id": "dancing-queen",
@@ -327,6 +3751,22 @@
     "artist": "ABBA",
     "year": 1976,
     "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "december-1963-oh-what-a-night-the-four-seasons",
+    "title": "December, 1963 (Oh, What a Night)",
+    "artist": "The Four Seasons",
+    "year": 1976,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "dont-go-breaking-my-heart-elton-john-and-kiki-dee",
+    "title": "Don’t Go Breaking My Heart",
+    "artist": "Elton John and Kiki Dee",
+    "year": 1976,
+    "genre": "Pop",
     "recognition": 5
   },
   {
@@ -338,10 +3778,34 @@
     "recognition": 5
   },
   {
-    "id": "stay-in-alive",
-    "title": "Stayin' Alive",
+    "id": "if-you-leave-me-now-chicago",
+    "title": "If You Leave Me Now",
+    "artist": "Chicago",
+    "year": 1976,
+    "genre": "Soft rock",
+    "recognition": 5
+  },
+  {
+    "id": "play-that-funky-music-wild-cherry",
+    "title": "Play That Funky Music",
+    "artist": "Wild Cherry",
+    "year": 1976,
+    "genre": "Funk",
+    "recognition": 5
+  },
+  {
+    "id": "silly-love-songs",
+    "title": "Silly Love Songs",
+    "artist": "Wings",
+    "year": 1976,
+    "genre": "Pop rock",
+    "recognition": 4
+  },
+  {
+    "id": "you-should-be-dancing-1976",
+    "title": "You Should Be Dancing",
     "artist": "Bee Gees",
-    "year": 1977,
+    "year": 1976,
     "genre": "Disco",
     "recognition": 5
   },
@@ -354,10 +3818,106 @@
     "recognition": 4
   },
   {
+    "id": "evergreen-barbra-streisand",
+    "title": "Evergreen",
+    "artist": "Barbra Streisand",
+    "year": 1977,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "i-just-want-to-be-your-everything-andy-gibb",
+    "title": "I Just Want to Be Your Everything",
+    "artist": "Andy Gibb",
+    "year": 1977,
+    "genre": "Disco",
+    "recognition": 4
+  },
+  {
     "id": "night-fever",
     "title": "Night Fever",
     "artist": "Bee Gees",
     "year": 1977,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "sir-duke-stevie-wonder",
+    "title": "Sir Duke",
+    "artist": "Stevie Wonder",
+    "year": 1977,
+    "genre": "Funk",
+    "recognition": 5
+  },
+  {
+    "id": "stay-in-alive",
+    "title": "Stayin' Alive",
+    "artist": "Bee Gees",
+    "year": 1977,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "stayin-alive-bee-gees",
+    "title": "Stayin’ Alive",
+    "artist": "Bee Gees",
+    "year": 1977,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "tonights-the-night-gonna-be-alright-rod-stewart",
+    "title": "Tonight’s the Night (Gonna Be Alright)",
+    "artist": "Rod Stewart",
+    "year": 1977,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "you-light-up-my-life-debby-boone",
+    "title": "You Light Up My Life",
+    "artist": "Debby Boone",
+    "year": 1977,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "hot-blooded-1978",
+    "title": "Hot Blooded",
+    "artist": "Foreigner",
+    "year": 1978,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "i-will-survive",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "year": 1978,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "kiss-you-all-over-exile",
+    "title": "Kiss You All Over",
+    "artist": "Exile",
+    "year": 1978,
+    "genre": "Pop rock",
+    "recognition": 4
+  },
+  {
+    "id": "le-freak",
+    "title": "Le Freak",
+    "artist": "Chic",
+    "year": 1978,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "night-fever-bee-gees",
+    "title": "Night Fever",
+    "artist": "Bee Gees",
+    "year": 1978,
     "genre": "Disco",
     "recognition": 5
   },
@@ -370,32 +3930,48 @@
     "recognition": 4
   },
   {
-    "id": "le-freak",
-    "title": "Le Freak",
-    "artist": "Chic",
+    "id": "three-times-a-lady-commodores",
+    "title": "Three Times a Lady",
+    "artist": "Commodores",
     "year": 1978,
-    "genre": "Disco",
+    "genre": "Soul",
     "recognition": 5
   },
   {
-    "id": "i-will-survive",
-    "title": "I Will Survive",
-    "artist": "Gloria Gaynor",
+    "id": "youre-the-one-that-i-want-john-travolta-and-olivia-newton-john",
+    "title": "You’re the One That I Want",
+    "artist": "John Travolta and Olivia Newton-John",
     "year": 1978,
-    "genre": "Disco",
+    "genre": "Pop",
     "recognition": 5
   },
   {
-    "id": "my-sharona",
-    "title": "My Sharona",
-    "artist": "The Knack",
+    "id": "bad-girls-donna-summer",
+    "title": "Bad Girls",
+    "artist": "Donna Summer",
     "year": 1979,
-    "genre": "Power pop",
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "do-ya-think-im-sexy-rod-stewart",
+    "title": "Do Ya Think I’m Sexy?",
+    "artist": "Rod Stewart",
+    "year": 1979,
+    "genre": "Disco",
     "recognition": 5
   },
   {
     "id": "dont-stop-til-you-get-enough",
     "title": "Don't Stop 'Til You Get Enough",
+    "artist": "Michael Jackson",
+    "year": 1979,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "dont-stop-til-you-get-enough-michael-jackson",
+    "title": "Don’t Stop ’Til You Get Enough",
     "artist": "Michael Jackson",
     "year": 1979,
     "genre": "Disco",
@@ -410,11 +3986,27 @@
     "recognition": 5
   },
   {
-    "id": "call-me",
-    "title": "Call Me",
-    "artist": "Blondie",
-    "year": 1980,
-    "genre": "New wave",
+    "id": "my-sharona",
+    "title": "My Sharona",
+    "artist": "The Knack",
+    "year": 1979,
+    "genre": "Power pop",
+    "recognition": 5
+  },
+  {
+    "id": "ring-my-bell-1979",
+    "title": "Ring My Bell",
+    "artist": "Anita Ward",
+    "year": 1979,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "the-logical-song-1979",
+    "title": "The Logical Song",
+    "artist": "Supertramp",
+    "year": 1979,
+    "genre": "Progressive rock",
     "recognition": 5
   },
   {
@@ -426,6 +4018,14 @@
     "recognition": 5
   },
   {
+    "id": "call-me",
+    "title": "Call Me",
+    "artist": "Blondie",
+    "year": 1980,
+    "genre": "New wave",
+    "recognition": 5
+  },
+  {
     "id": "celebration",
     "title": "Celebration",
     "artist": "Kool & the Gang",
@@ -434,11 +4034,99 @@
     "recognition": 5
   },
   {
+    "id": "do-that-to-me-one-more-time-captain-and-tennille",
+    "title": "Do That to Me One More Time",
+    "artist": "Captain & Tennille",
+    "year": 1980,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "lady-kenny-rogers",
+    "title": "Lady",
+    "artist": "Kenny Rogers",
+    "year": 1980,
+    "genre": "Country pop",
+    "recognition": 5
+  },
+  {
+    "id": "magic-olivia-newton-john",
+    "title": "Magic",
+    "artist": "Olivia Newton-John",
+    "year": 1980,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "rock-with-you-michael-jackson",
+    "title": "Rock with You",
+    "artist": "Michael Jackson",
+    "year": 1980,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "upside-down-1980",
+    "title": "Upside Down",
+    "artist": "Diana Ross",
+    "year": 1980,
+    "genre": "Disco",
+    "recognition": 5
+  },
+  {
+    "id": "bette-davis-eyes-kim-carnes",
+    "title": "Bette Davis Eyes",
+    "artist": "Kim Carnes",
+    "year": 1981,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
     "id": "dont-stop-believin",
     "title": "Don't Stop Believin'",
     "artist": "Journey",
     "year": 1981,
     "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "dont-stop-believin-journey",
+    "title": "Don’t Stop Believin’",
+    "artist": "Journey",
+    "year": 1981,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "endless-love-diana-ross-and-lionel-richie",
+    "title": "Endless Love",
+    "artist": "Diana Ross and Lionel Richie",
+    "year": 1981,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "every-little-thing-she-does-is-magic-the-police",
+    "title": "Every Little Thing She Does Is Magic",
+    "artist": "The Police",
+    "year": 1981,
+    "genre": "New wave",
+    "recognition": 5
+  },
+  {
+    "id": "jessies-girl-rick-springfield",
+    "title": "Jessie’s Girl",
+    "artist": "Rick Springfield",
+    "year": 1981,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "kiss-on-my-list-hall-and-oates",
+    "title": "Kiss on My List",
+    "artist": "Hall & Oates",
+    "year": 1981,
+    "genre": "Pop rock",
     "recognition": 5
   },
   {
@@ -459,6 +4147,62 @@
     "recognition": 5
   },
   {
+    "id": "centerfold-the-j-geils-band",
+    "title": "Centerfold",
+    "artist": "The J. Geils Band",
+    "year": 1982,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "ebony-and-ivory-paul-mccartney-and-stevie-wonder",
+    "title": "Ebony and Ivory",
+    "artist": "Paul McCartney and Stevie Wonder",
+    "year": 1982,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "eye-of-the-tiger-survivor",
+    "title": "Eye of the Tiger",
+    "artist": "Survivor",
+    "year": 1982,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "i-love-rock-n-roll-joan-jett-and-the-blackhearts",
+    "title": "I Love Rock ’n Roll",
+    "artist": "Joan Jett & the Blackhearts",
+    "year": 1982,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "jack-and-diane-john-cougar",
+    "title": "Jack & Diane",
+    "artist": "John Cougar",
+    "year": 1982,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "mickey-toni-basil",
+    "title": "Mickey",
+    "artist": "Toni Basil",
+    "year": 1982,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "you-should-hear-how-she-talks-about-you-melissa-manchester",
+    "title": "You Should Hear How She Talks About You",
+    "artist": "Melissa Manchester",
+    "year": 1982,
+    "genre": "Pop",
+    "recognition": 3
+  },
+  {
     "id": "beat-it",
     "title": "Beat It",
     "artist": "Michael Jackson",
@@ -467,11 +4211,11 @@
     "recognition": 5
   },
   {
-    "id": "total-eclipse-of-the-heart",
-    "title": "Total Eclipse of the Heart",
-    "artist": "Bonnie Tyler",
+    "id": "down-under-men-at-work",
+    "title": "Down Under",
+    "artist": "Men at Work",
     "year": 1983,
-    "genre": "Pop rock",
+    "genre": "New wave",
     "recognition": 5
   },
   {
@@ -483,11 +4227,75 @@
     "recognition": 5
   },
   {
+    "id": "faithfully",
+    "title": "Faithfully",
+    "artist": "Journey",
+    "year": 1983,
+    "genre": "Rock",
+    "recognition": 4
+  },
+  {
+    "id": "flashdance-what-a-feeling-irene-cara",
+    "title": "Flashdance... What a Feeling",
+    "artist": "Irene Cara",
+    "year": 1983,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
     "id": "girls-just-want-to-have-fun",
     "title": "Girls Just Want to Have Fun",
     "artist": "Cyndi Lauper",
     "year": 1983,
     "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "maniac-michael-sembello",
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "year": 1983,
+    "genre": "Dance-pop",
+    "recognition": 4
+  },
+  {
+    "id": "total-eclipse-of-the-heart",
+    "title": "Total Eclipse of the Heart",
+    "artist": "Bonnie Tyler",
+    "year": 1983,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "against-all-odds-take-a-look-at-me-now-phil-collins",
+    "title": "Against All Odds (Take a Look at Me Now)",
+    "artist": "Phil Collins",
+    "year": 1984,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "careless-whisper",
+    "title": "Careless Whisper",
+    "artist": "Wham! feat. George Michael",
+    "year": 1984,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "footloose-kenny-loggins",
+    "title": "Footloose",
+    "artist": "Kenny Loggins",
+    "year": 1984,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "jump-van-halen",
+    "title": "Jump",
+    "artist": "Van Halen",
+    "year": 1984,
+    "genre": "Rock",
     "recognition": 5
   },
   {
@@ -499,9 +4307,9 @@
     "recognition": 5
   },
   {
-    "id": "when-doves-cry",
-    "title": "When Doves Cry",
-    "artist": "Prince",
+    "id": "say-say-say-paul-mccartney-and-michael-jackson",
+    "title": "Say Say Say",
+    "artist": "Paul McCartney and Michael Jackson",
     "year": 1984,
     "genre": "Pop",
     "recognition": 5
@@ -515,18 +4323,26 @@
     "recognition": 5
   },
   {
-    "id": "take-on-me",
-    "title": "Take on Me",
-    "artist": "a-ha",
-    "year": 1985,
-    "genre": "Synth-pop",
+    "id": "whats-love-got-to-do-with-it-tina-turner",
+    "title": "What’s Love Got to Do with It",
+    "artist": "Tina Turner",
+    "year": 1984,
+    "genre": "Pop",
     "recognition": 5
   },
   {
-    "id": "careless-whisper",
+    "id": "when-doves-cry",
+    "title": "When Doves Cry",
+    "artist": "Prince",
+    "year": 1984,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "careless-whisper-wham-feat-george-michael",
     "title": "Careless Whisper",
     "artist": "Wham! feat. George Michael",
-    "year": 1984,
+    "year": 1985,
     "genre": "Pop",
     "recognition": 5
   },
@@ -539,6 +4355,118 @@
     "recognition": 5
   },
   {
+    "id": "i-want-to-know-what-love-is-foreigner",
+    "title": "I Want to Know What Love Is",
+    "artist": "Foreigner",
+    "year": 1985,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "like-a-virgin-madonna",
+    "title": "Like a Virgin",
+    "artist": "Madonna",
+    "year": 1985,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "money-for-nothing-dire-straits",
+    "title": "Money for Nothing",
+    "artist": "Dire Straits",
+    "year": 1985,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "shout-tears-for-fears",
+    "title": "Shout",
+    "artist": "Tears for Fears",
+    "year": 1985,
+    "genre": "New wave",
+    "recognition": 5
+  },
+  {
+    "id": "take-on-me",
+    "title": "Take on Me",
+    "artist": "a-ha",
+    "year": 1985,
+    "genre": "Synth-pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-power-of-love-huey-lewis-and-the-news",
+    "title": "The Power of Love",
+    "artist": "Huey Lewis and the News",
+    "year": 1985,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "wake-me-up-before-you-go-go-wham",
+    "title": "Wake Me Up Before You Go-Go",
+    "artist": "Wham!",
+    "year": 1985,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "how-will-i-know-whitney-houston",
+    "title": "How Will I Know",
+    "artist": "Whitney Houston",
+    "year": 1986,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "i-miss-you-klymaxx",
+    "title": "I Miss You",
+    "artist": "Klymaxx",
+    "year": 1986,
+    "genre": "R&B",
+    "recognition": 4
+  },
+  {
+    "id": "kyrie-mr-mister",
+    "title": "Kyrie",
+    "artist": "Mr. Mister",
+    "year": 1986,
+    "genre": "Pop rock",
+    "recognition": 4
+  },
+  {
+    "id": "livin-on-a-prayer",
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "year": 1986,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "on-my-own-patti-labelle-and-michael-mcdonald",
+    "title": "On My Own",
+    "artist": "Patti LaBelle and Michael McDonald",
+    "year": 1986,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "say-you-say-me-lionel-richie",
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "year": 1986,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "thats-what-friends-are-for-dionne-warwick-and-friends",
+    "title": "That’s What Friends Are For",
+    "artist": "Dionne Warwick and Friends",
+    "year": 1986,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
     "id": "walk-like-an-egyptian",
     "title": "Walk Like an Egyptian",
     "artist": "The Bangles",
@@ -547,10 +4475,66 @@
     "recognition": 5
   },
   {
-    "id": "livin-on-a-prayer",
-    "title": "Livin' on a Prayer",
-    "artist": "Bon Jovi",
+    "id": "west-end-girls-pet-shop-boys",
+    "title": "West End Girls",
+    "artist": "Pet Shop Boys",
     "year": 1986,
+    "genre": "Synth-pop",
+    "recognition": 5
+  },
+  {
+    "id": "alone-heart",
+    "title": "Alone",
+    "artist": "Heart",
+    "year": 1987,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "faith",
+    "title": "Faith",
+    "artist": "George Michael",
+    "year": 1987,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "never-gonna-give-you-up",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "year": 1987,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "nothings-gonna-stop-us-now-starship",
+    "title": "Nothing’s Gonna Stop Us Now",
+    "artist": "Starship",
+    "year": 1987,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "pour-some-sugar-on-me",
+    "title": "Pour Some Sugar on Me",
+    "artist": "Def Leppard",
+    "year": 1987,
+    "genre": "Hard rock",
+    "recognition": 5
+  },
+  {
+    "id": "shakedown-bob-seger",
+    "title": "Shakedown",
+    "artist": "Bob Seger",
+    "year": 1987,
+    "genre": "Rock",
+    "recognition": 4
+  },
+  {
+    "id": "the-way-it-is-bruce-hornsby-and-the-range",
+    "title": "The Way It Is",
+    "artist": "Bruce Hornsby and the Range",
+    "year": 1987,
     "genre": "Rock",
     "recognition": 5
   },
@@ -563,18 +4547,58 @@
     "recognition": 5
   },
   {
-    "id": "never-gonna-give-you-up",
-    "title": "Never Gonna Give You Up",
-    "artist": "Rick Astley",
-    "year": 1987,
+    "id": "couldve-been-tiffany",
+    "title": "Could’ve Been",
+    "artist": "Tiffany",
+    "year": 1988,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "faith-george-michael",
+    "title": "Faith",
+    "artist": "George Michael",
+    "year": 1988,
     "genre": "Pop",
     "recognition": 5
   },
   {
-    "id": "faith",
-    "title": "Faith",
+    "id": "got-my-mind-set-on-you-george-harrison",
+    "title": "Got My Mind Set on You",
+    "artist": "George Harrison",
+    "year": 1988,
+    "genre": "Pop rock",
+    "recognition": 4
+  },
+  {
+    "id": "heaven-is-a-place-on-earth-belinda-carlisle",
+    "title": "Heaven Is a Place on Earth",
+    "artist": "Belinda Carlisle",
+    "year": 1988,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "need-you-tonight-inxs",
+    "title": "Need You Tonight",
+    "artist": "INXS",
+    "year": 1988,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "one-more-try-george-michael",
+    "title": "One More Try",
     "artist": "George Michael",
-    "year": 1987,
+    "year": 1988,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "so-emotional-whitney-houston",
+    "title": "So Emotional",
+    "artist": "Whitney Houston",
+    "year": 1988,
     "genre": "Pop",
     "recognition": 5
   },
@@ -587,26 +4611,18 @@
     "recognition": 5
   },
   {
-    "id": "pour-some-sugar-on-me",
-    "title": "Pour Some Sugar on Me",
-    "artist": "Def Leppard",
-    "year": 1987,
-    "genre": "Hard rock",
+    "id": "sweet-child-o-mine-guns-n-roses",
+    "title": "Sweet Child o’ Mine",
+    "artist": "Guns N’ Roses",
+    "year": 1988,
+    "genre": "Rock",
     "recognition": 5
   },
   {
-    "id": "faithfully",
-    "title": "Faithfully",
-    "artist": "Journey",
-    "year": 1983,
-    "genre": "Rock",
-    "recognition": 4
-  },
-  {
-    "id": "like-a-prayer",
-    "title": "Like a Prayer",
-    "artist": "Madonna",
-    "year": 1989,
+    "id": "the-way-you-make-me-feel-michael-jackson",
+    "title": "The Way You Make Me Feel",
+    "artist": "Michael Jackson",
+    "year": 1988,
     "genre": "Pop",
     "recognition": 5
   },
@@ -619,6 +4635,62 @@
     "recognition": 4
   },
   {
+    "id": "cold-hearted-paula-abdul",
+    "title": "Cold Hearted",
+    "artist": "Paula Abdul",
+    "year": 1989,
+    "genre": "Dance-pop",
+    "recognition": 4
+  },
+  {
+    "id": "every-rose-has-its-thorn-poison",
+    "title": "Every Rose Has Its Thorn",
+    "artist": "Poison",
+    "year": 1989,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "like-a-prayer",
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "year": 1989,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "look-away-chicago",
+    "title": "Look Away",
+    "artist": "Chicago",
+    "year": 1989,
+    "genre": "Rock",
+    "recognition": 4
+  },
+  {
+    "id": "miss-you-much-janet-jackson",
+    "title": "Miss You Much",
+    "artist": "Janet Jackson",
+    "year": 1989,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "my-prerogative-bobby-brown",
+    "title": "My Prerogative",
+    "artist": "Bobby Brown",
+    "year": 1989,
+    "genre": "New jack swing",
+    "recognition": 5
+  },
+  {
+    "id": "straight-up-paula-abdul",
+    "title": "Straight Up",
+    "artist": "Paula Abdul",
+    "year": 1989,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
     "id": "wind-beneath-my-wings",
     "title": "Wind Beneath My Wings",
     "artist": "Bette Midler",
@@ -627,11 +4699,27 @@
     "recognition": 4
   },
   {
-    "id": "vogue",
-    "title": "Vogue",
-    "artist": "Madonna",
+    "id": "another-day-in-paradise-phil-collins",
+    "title": "Another Day in Paradise",
+    "artist": "Phil Collins",
     "year": 1990,
-    "genre": "Dance-pop",
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "hold-on-wilson-phillips",
+    "title": "Hold On",
+    "artist": "Wilson Phillips",
+    "year": 1990,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "it-must-have-been-love-roxette",
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "year": 1990,
+    "genre": "Pop rock",
     "recognition": 5
   },
   {
@@ -643,6 +4731,14 @@
     "recognition": 5
   },
   {
+    "id": "poison-bell-biv-devoe",
+    "title": "Poison",
+    "artist": "Bell Biv DeVoe",
+    "year": 1990,
+    "genre": "New jack swing",
+    "recognition": 5
+  },
+  {
     "id": "u-cant-touch-this",
     "title": "U Can't Touch This",
     "artist": "MC Hammer",
@@ -651,11 +4747,19 @@
     "recognition": 5
   },
   {
-    "id": "smells-like-teen-spirit",
-    "title": "Smells Like Teen Spirit",
-    "artist": "Nirvana",
-    "year": 1991,
-    "genre": "Grunge",
+    "id": "vision-of-love-mariah-carey",
+    "title": "Vision of Love",
+    "artist": "Mariah Carey",
+    "year": 1990,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "vogue",
+    "title": "Vogue",
+    "artist": "Madonna",
+    "year": 1990,
+    "genre": "Dance-pop",
     "recognition": 5
   },
   {
@@ -667,6 +4771,30 @@
     "recognition": 5
   },
   {
+    "id": "everything-i-do-i-do-it-for-you-bryan-adams",
+    "title": "(Everything I Do) I Do It for You",
+    "artist": "Bryan Adams",
+    "year": 1991,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "gonna-make-you-sweat-everybody-dance-now-c-c-music-factory",
+    "title": "Gonna Make You Sweat (Everybody Dance Now)",
+    "artist": "C+C Music Factory",
+    "year": 1991,
+    "genre": "Dance",
+    "recognition": 5
+  },
+  {
+    "id": "i-wanna-sex-you-up-color-me-badd",
+    "title": "I Wanna Sex You Up",
+    "artist": "Color Me Badd",
+    "year": 1991,
+    "genre": "R&B",
+    "recognition": 4
+  },
+  {
     "id": "losing-my-religion",
     "title": "Losing My Religion",
     "artist": "R.E.M.",
@@ -675,11 +4803,27 @@
     "recognition": 5
   },
   {
-    "id": "end-of-the-road",
-    "title": "End of the Road",
-    "artist": "Boyz II Men",
-    "year": 1992,
-    "genre": "R&B",
+    "id": "rush-rush-paula-abdul",
+    "title": "Rush Rush",
+    "artist": "Paula Abdul",
+    "year": 1991,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "smells-like-teen-spirit",
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "year": 1991,
+    "genre": "Grunge",
+    "recognition": 5
+  },
+  {
+    "id": "unbelievable-1991",
+    "title": "Unbelievable",
+    "artist": "EMF",
+    "year": 1991,
+    "genre": "Alternative dance",
     "recognition": 5
   },
   {
@@ -691,12 +4835,12 @@
     "recognition": 5
   },
   {
-    "id": "jump-kris-kross",
-    "title": "Jump",
-    "artist": "Kris Kross",
+    "id": "end-of-the-road",
+    "title": "End of the Road",
+    "artist": "Boyz II Men",
     "year": 1992,
-    "genre": "Hip-hop",
-    "recognition": 4
+    "genre": "R&B",
+    "recognition": 5
   },
   {
     "id": "i-will-always-love-you",
@@ -707,11 +4851,51 @@
     "recognition": 5
   },
   {
-    "id": "the-sign",
-    "title": "The Sign",
-    "artist": "Ace of Base",
-    "year": 1993,
+    "id": "jump-kris-kross",
+    "title": "Jump",
+    "artist": "Kris Kross",
+    "year": 1992,
+    "genre": "Hip-hop",
+    "recognition": 4
+  },
+  {
+    "id": "november-rain-1992",
+    "title": "November Rain",
+    "artist": "Guns N’ Roses",
+    "year": 1992,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "save-the-best-for-last-vanessa-williams",
+    "title": "Save the Best for Last",
+    "artist": "Vanessa Williams",
+    "year": 1992,
     "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-one-elton-john",
+    "title": "The One",
+    "artist": "Elton John",
+    "year": 1992,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "under-the-bridge-1992",
+    "title": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "year": 1992,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "cant-help-falling-in-love-ub40",
+    "title": "Can’t Help Falling in Love",
+    "artist": "UB40",
+    "year": 1993,
+    "genre": "Reggae",
     "recognition": 5
   },
   {
@@ -723,6 +4907,46 @@
     "recognition": 4
   },
   {
+    "id": "freak-me-silk",
+    "title": "Freak Me",
+    "artist": "Silk",
+    "year": 1993,
+    "genre": "R&B",
+    "recognition": 4
+  },
+  {
+    "id": "informer-1993",
+    "title": "Informer",
+    "artist": "Snow",
+    "year": 1993,
+    "genre": "Reggae fusion",
+    "recognition": 4
+  },
+  {
+    "id": "thats-the-way-love-goes-janet-jackson",
+    "title": "That’s the Way Love Goes",
+    "artist": "Janet Jackson",
+    "year": 1993,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "the-sign",
+    "title": "The Sign",
+    "artist": "Ace of Base",
+    "year": 1993,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "whats-up-1993",
+    "title": "What’s Up?",
+    "artist": "4 Non Blondes",
+    "year": 1993,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
     "id": "whoomp-there-it-is",
     "title": "Whoomp! (There It Is)",
     "artist": "Tag Team",
@@ -731,19 +4955,19 @@
     "recognition": 4
   },
   {
-    "id": "i-swear",
-    "title": "I Swear",
-    "artist": "All-4-One",
-    "year": 1994,
-    "genre": "R&B",
-    "recognition": 5
-  },
-  {
     "id": "all-i-wanna-do",
     "title": "All I Wanna Do",
     "artist": "Sheryl Crow",
     "year": 1994,
     "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "i-swear",
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "year": 1994,
+    "genre": "R&B",
     "recognition": 5
   },
   {
@@ -755,18 +4979,10 @@
     "recognition": 5
   },
   {
-    "id": "gangstas-paradise",
-    "title": "Gangsta's Paradise",
-    "artist": "Coolio feat. L.V.",
-    "year": 1995,
-    "genre": "Hip-hop",
-    "recognition": 5
-  },
-  {
-    "id": "one-sweet-day",
-    "title": "One Sweet Day",
-    "artist": "Mariah Carey & Boyz II Men",
-    "year": 1995,
+    "id": "ill-make-love-to-you-boyz-ii-men",
+    "title": "I’ll Make Love to You",
+    "artist": "Boyz II Men",
+    "year": 1994,
     "genre": "R&B",
     "recognition": 5
   },
@@ -779,11 +4995,51 @@
     "recognition": 5
   },
   {
-    "id": "this-is-how-we-do-it",
-    "title": "This Is How We Do It",
-    "artist": "Montell Jordan",
+    "id": "stay-1994",
+    "title": "Stay",
+    "artist": "Lisa Loeb",
+    "year": 1994,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "stay-i-missed-you-lisa-loeb",
+    "title": "Stay (I Missed You)",
+    "artist": "Lisa Loeb",
+    "year": 1994,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "the-power-of-love-celine-dion",
+    "title": "The Power of Love",
+    "artist": "Celine Dion",
+    "year": 1994,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "gangstas-paradise",
+    "title": "Gangsta's Paradise",
+    "artist": "Coolio feat. L.V.",
     "year": 1995,
-    "genre": "R&B",
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "gangstas-paradise-coolio-feat-lv",
+    "title": "Gangsta’s Paradise",
+    "artist": "Coolio feat. L.V.",
+    "year": 1995,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "kiss-from-a-rose-seal",
+    "title": "Kiss from a Rose",
+    "artist": "Seal",
+    "year": 1995,
+    "genre": "Pop",
     "recognition": 5
   },
   {
@@ -793,6 +5049,38 @@
     "year": 1995,
     "peakYear": 1996,
     "genre": "Dance",
+    "recognition": 5
+  },
+  {
+    "id": "one-sweet-day",
+    "title": "One Sweet Day",
+    "artist": "Mariah Carey & Boyz II Men",
+    "year": 1995,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "this-is-how-we-do-it",
+    "title": "This Is How We Do It",
+    "artist": "Montell Jordan",
+    "year": 1995,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "waterfalls-tlc",
+    "title": "Waterfalls",
+    "artist": "TLC",
+    "year": 1995,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "you-are-not-alone-michael-jackson",
+    "title": "You Are Not Alone",
+    "artist": "Michael Jackson",
+    "year": 1995,
+    "genre": "Pop",
     "recognition": 5
   },
   {
@@ -812,11 +5100,59 @@
     "recognition": 5
   },
   {
+    "id": "killing-me-softly-1996",
+    "title": "Killing Me Softly",
+    "artist": "Fugees",
+    "year": 1996,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "macarena-bayside-boys-mix-los-del-r-o",
+    "title": "Macarena (Bayside Boys Mix)",
+    "artist": "Los del Río",
+    "year": 1996,
+    "genre": "Dance",
+    "recognition": 5
+  },
+  {
     "id": "no-diggity",
     "title": "No Diggity",
     "artist": "Blackstreet feat. Dr. Dre",
     "year": 1996,
     "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "nobody-knows-the-tony-rich-project",
+    "title": "Nobody Knows",
+    "artist": "The Tony Rich Project",
+    "year": 1996,
+    "genre": "R&B",
+    "recognition": 4
+  },
+  {
+    "id": "twisted-1996",
+    "title": "Twisted",
+    "artist": "Keith Sweat",
+    "year": 1996,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "youre-makin-me-high-toni-braxton",
+    "title": "You’re Makin’ Me High",
+    "artist": "Toni Braxton",
+    "year": 1996,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "barbie-girl",
+    "title": "Barbie Girl",
+    "artist": "Aqua",
+    "year": 1997,
+    "genre": "Eurodance",
     "recognition": 5
   },
   {
@@ -828,6 +5164,22 @@
     "recognition": 5
   },
   {
+    "id": "foolish-games-jewel",
+    "title": "Foolish Games",
+    "artist": "Jewel",
+    "year": 1997,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "ill-be-missing-you-1997",
+    "title": "I’ll Be Missing You",
+    "artist": "Puff Daddy feat. Faith Evans and 112",
+    "year": 1997,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
     "id": "mmmbop",
     "title": "MMMBop",
     "artist": "Hanson",
@@ -836,11 +5188,11 @@
     "recognition": 5
   },
   {
-    "id": "barbie-girl",
-    "title": "Barbie Girl",
-    "artist": "Aqua",
+    "id": "quit-playing-games-with-my-heart-backstreet-boys",
+    "title": "Quit Playing Games (With My Heart)",
+    "artist": "Backstreet Boys",
     "year": 1997,
-    "genre": "Eurodance",
+    "genre": "Pop",
     "recognition": 5
   },
   {
@@ -861,11 +5213,11 @@
     "recognition": 5
   },
   {
-    "id": "iris",
-    "title": "Iris",
-    "artist": "Goo Goo Dolls",
+    "id": "believe",
+    "title": "Believe",
+    "artist": "Cher",
     "year": 1998,
-    "genre": "Alternative rock",
+    "genre": "Dance-pop",
     "recognition": 5
   },
   {
@@ -877,27 +5229,51 @@
     "recognition": 4
   },
   {
-    "id": "believe",
-    "title": "Believe",
-    "artist": "Cher",
+    "id": "iris",
+    "title": "Iris",
+    "artist": "Goo Goo Dolls",
     "year": 1998,
-    "genre": "Dance-pop",
+    "genre": "Alternative rock",
     "recognition": 5
   },
   {
-    "id": "smooth",
-    "title": "Smooth",
-    "artist": "Santana feat. Rob Thomas",
-    "year": 1999,
-    "genre": "Rock",
-    "recognition": 5
-  },
-  {
-    "id": "no-scrubs",
-    "title": "No Scrubs",
-    "artist": "TLC",
-    "year": 1999,
+    "id": "the-boy-is-mine-brandy-and-monica",
+    "title": "The Boy Is Mine",
+    "artist": "Brandy and Monica",
+    "year": 1998,
     "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "together-again-janet-jackson",
+    "title": "Together Again",
+    "artist": "Janet Jackson",
+    "year": 1998,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "too-close-next",
+    "title": "Too Close",
+    "artist": "Next",
+    "year": 1998,
+    "genre": "R&B",
+    "recognition": 4
+  },
+  {
+    "id": "truly-madly-deeply-savage-garden",
+    "title": "Truly Madly Deeply",
+    "artist": "Savage Garden",
+    "year": 1998,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "youre-still-the-one-shania-twain",
+    "title": "You’re Still the One",
+    "artist": "Shania Twain",
+    "year": 1998,
+    "genre": "Country pop",
     "recognition": 5
   },
   {
@@ -909,19 +5285,27 @@
     "recognition": 5
   },
   {
-    "id": "genie-in-a-bottle",
-    "title": "Genie in a Bottle",
-    "artist": "Christina Aguilera",
+    "id": "angel-of-mine-monica",
+    "title": "Angel of Mine",
+    "artist": "Monica",
     "year": 1999,
-    "genre": "Teen pop",
+    "genre": "R&B",
+    "recognition": 4
+  },
+  {
+    "id": "bailamos-enrique-iglesias",
+    "title": "Bailamos",
+    "artist": "Enrique Iglesias",
+    "year": 1999,
+    "genre": "Latin pop",
     "recognition": 5
   },
   {
-    "id": "say-my-name",
-    "title": "Say My Name",
-    "artist": "Destiny's Child",
+    "id": "believe-cher",
+    "title": "Believe",
+    "artist": "Cher",
     "year": 1999,
-    "genre": "R&B",
+    "genre": "Dance-pop",
     "recognition": 5
   },
   {
@@ -934,12 +5318,60 @@
     "peakYear": 2000
   },
   {
-    "id": "independent-women-part-i",
-    "title": "Independent Women Part I",
-    "artist": "Destiny's Child",
-    "year": 2000,
+    "id": "genie-in-a-bottle",
+    "title": "Genie in a Bottle",
+    "artist": "Christina Aguilera",
+    "year": 1999,
+    "genre": "Teen pop",
+    "recognition": 5
+  },
+  {
+    "id": "no-scrubs",
+    "title": "No Scrubs",
+    "artist": "TLC",
+    "year": 1999,
     "genre": "R&B",
     "recognition": 5
+  },
+  {
+    "id": "say-my-name",
+    "title": "Say My Name",
+    "artist": "Destiny's Child",
+    "year": 1999,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "smooth",
+    "title": "Smooth",
+    "artist": "Santana feat. Rob Thomas",
+    "year": 1999,
+    "genre": "Rock",
+    "recognition": 5
+  },
+  {
+    "id": "unpretty-tlc",
+    "title": "Unpretty",
+    "artist": "TLC",
+    "year": 1999,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "amazed-lonestar",
+    "title": "Amazed",
+    "artist": "Lonestar",
+    "year": 2000,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "bent-matchbox-twenty",
+    "title": "Bent",
+    "artist": " matchbox twenty",
+    "year": 2000,
+    "genre": "Pop rock",
+    "recognition": 4
   },
   {
     "id": "bye-bye-bye",
@@ -947,22 +5379,6 @@
     "artist": "*NSYNC",
     "year": 2000,
     "genre": "Pop",
-    "recognition": 5
-  },
-  {
-    "id": "oops-i-did-it-again",
-    "title": "Oops!... I Did It Again",
-    "artist": "Britney Spears",
-    "year": 2000,
-    "genre": "Teen pop",
-    "recognition": 5
-  },
-  {
-    "id": "ms-jackson",
-    "title": "Ms. Jackson",
-    "artist": "OutKast",
-    "year": 2000,
-    "genre": "Hip-hop",
     "recognition": 5
   },
   {
@@ -975,6 +5391,86 @@
     "recognition": 5
   },
   {
+    "id": "i-knew-i-loved-you-savage-garden",
+    "title": "I Knew I Loved You",
+    "artist": "Savage Garden",
+    "year": 2000,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "independent-women-part-i",
+    "title": "Independent Women Part I",
+    "artist": "Destiny's Child",
+    "year": 2000,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "maria-maria-santana-feat-the-product-gandb",
+    "title": "Maria Maria",
+    "artist": "Santana feat. The Product G&B",
+    "year": 2000,
+    "genre": "Latin rock",
+    "recognition": 5
+  },
+  {
+    "id": "ms-jackson",
+    "title": "Ms. Jackson",
+    "artist": "OutKast",
+    "year": 2000,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "oops-i-did-it-again",
+    "title": "Oops!... I Did It Again",
+    "artist": "Britney Spears",
+    "year": 2000,
+    "genre": "Teen pop",
+    "recognition": 5
+  },
+  {
+    "id": "all-for-you-janet-jackson",
+    "title": "All for You",
+    "artist": "Janet Jackson",
+    "year": 2001,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "drops-of-jupiter-train",
+    "title": "Drops of Jupiter",
+    "artist": "Train",
+    "year": 2001,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "fallin",
+    "title": "Fallin'",
+    "artist": "Alicia Keys",
+    "year": 2001,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "fallin-alicia-keys",
+    "title": "Fallin’",
+    "artist": "Alicia Keys",
+    "year": 2001,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "hanging-by-a-moment-lifehouse",
+    "title": "Hanging by a Moment",
+    "artist": "Lifehouse",
+    "year": 2001,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
     "id": "how-you-remind-me",
     "title": "How You Remind Me",
     "artist": "Nickelback",
@@ -983,9 +5479,17 @@
     "recognition": 5
   },
   {
-    "id": "fallin",
-    "title": "Fallin'",
-    "artist": "Alicia Keys",
+    "id": "im-real-murder-remix-jennifer-lopez-feat-ja-rule",
+    "title": "I’m Real (Murder Remix)",
+    "artist": "Jennifer Lopez feat. Ja Rule",
+    "year": 2001,
+    "genre": "R&B",
+    "recognition": 4
+  },
+  {
+    "id": "u-remind-me-usher",
+    "title": "U Remind Me",
+    "artist": "Usher",
     "year": 2001,
     "genre": "R&B",
     "recognition": 5
@@ -999,11 +5503,11 @@
     "recognition": 5
   },
   {
-    "id": "hot-in-herre",
-    "title": "Hot in Herre",
-    "artist": "Nelly",
+    "id": "a-thousand-miles",
+    "title": "A Thousand Miles",
+    "artist": "Vanessa Carlton",
     "year": 2002,
-    "genre": "Hip-hop",
+    "genre": "Pop",
     "recognition": 5
   },
   {
@@ -1015,11 +5519,27 @@
     "recognition": 5
   },
   {
-    "id": "a-thousand-miles",
-    "title": "A Thousand Miles",
-    "artist": "Vanessa Carlton",
+    "id": "dilemma-nelly-feat-kelly-rowland",
+    "title": "Dilemma",
+    "artist": "Nelly feat. Kelly Rowland",
     "year": 2002,
-    "genre": "Pop",
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "foolish-ashanti",
+    "title": "Foolish",
+    "artist": "Ashanti",
+    "year": 2002,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "hot-in-herre",
+    "title": "Hot in Herre",
+    "artist": "Nelly",
+    "year": 2002,
+    "genre": "Hip-hop",
     "recognition": 5
   },
   {
@@ -1031,11 +5551,35 @@
     "recognition": 5
   },
   {
-    "id": "in-da-club",
-    "title": "In da Club",
-    "artist": "50 Cent",
-    "year": 2003,
+    "id": "where-is-the-love-the-black-eyed-peas",
+    "title": "Where Is the Love?",
+    "artist": "The Black Eyed Peas",
+    "year": 2002,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "without-me-2002",
+    "title": "Without Me",
+    "artist": "Eminem",
+    "year": 2002,
     "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "crazy-in-love",
+    "title": "Crazy in Love",
+    "artist": "Beyoncé feat. Jay-Z",
+    "year": 2003,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "get-busy-sean-paul",
+    "title": "Get Busy",
+    "artist": "Sean Paul",
+    "year": 2003,
+    "genre": "Dancehall",
     "recognition": 5
   },
   {
@@ -1047,12 +5591,28 @@
     "recognition": 5
   },
   {
-    "id": "crazy-in-love",
-    "title": "Crazy in Love",
-    "artist": "Beyoncé feat. Jay-Z",
+    "id": "ignition-remix-r-kelly",
+    "title": "Ignition (Remix)",
+    "artist": "R. Kelly",
     "year": 2003,
     "genre": "R&B",
     "recognition": 5
+  },
+  {
+    "id": "in-da-club",
+    "title": "In da Club",
+    "artist": "50 Cent",
+    "year": 2003,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "right-thurr-chingy",
+    "title": "Right Thurr",
+    "artist": "Chingy",
+    "year": 2003,
+    "genre": "Hip-hop",
+    "recognition": 4
   },
   {
     "id": "seven-nation-army",
@@ -1071,27 +5631,11 @@
     "recognition": 5
   },
   {
-    "id": "yeah",
-    "title": "Yeah!",
-    "artist": "Usher feat. Lil Jon & Ludacris",
+    "id": "burn-usher",
+    "title": "Burn",
+    "artist": "Usher",
     "year": 2004,
     "genre": "R&B",
-    "recognition": 5
-  },
-  {
-    "id": "this-love",
-    "title": "This Love",
-    "artist": "Maroon 5",
-    "year": 2004,
-    "genre": "Pop rock",
-    "recognition": 5
-  },
-  {
-    "id": "since-u-been-gone",
-    "title": "Since U Been Gone",
-    "artist": "Kelly Clarkson",
-    "year": 2004,
-    "genre": "Pop rock",
     "recognition": 5
   },
   {
@@ -1103,27 +5647,51 @@
     "recognition": 5
   },
   {
-    "id": "we-belong-together",
-    "title": "We Belong Together",
-    "artist": "Mariah Carey",
-    "year": 2005,
+    "id": "if-i-aint-got-you-alicia-keys",
+    "title": "If I Ain’t Got You",
+    "artist": "Alicia Keys",
+    "year": 2004,
     "genre": "R&B",
     "recognition": 5
   },
   {
-    "id": "hollaback-girl",
-    "title": "Hollaback Girl",
-    "artist": "Gwen Stefani",
-    "year": 2005,
-    "genre": "Pop",
+    "id": "since-u-been-gone",
+    "title": "Since U Been Gone",
+    "artist": "Kelly Clarkson",
+    "year": 2004,
+    "genre": "Pop rock",
     "recognition": 5
   },
   {
-    "id": "gold-digger",
-    "title": "Gold Digger",
-    "artist": "Kanye West feat. Jamie Foxx",
-    "year": 2005,
+    "id": "the-reason-hoobastank",
+    "title": "The Reason",
+    "artist": "Hoobastank",
+    "year": 2004,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "the-way-you-move-outkast",
+    "title": "The Way You Move",
+    "artist": "OutKast",
+    "year": 2004,
     "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "this-love",
+    "title": "This Love",
+    "artist": "Maroon 5",
+    "year": 2004,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "yeah",
+    "title": "Yeah!",
+    "artist": "Usher feat. Lil Jon & Ludacris",
+    "year": 2004,
+    "genre": "R&B",
     "recognition": 5
   },
   {
@@ -1136,11 +5704,67 @@
     "recognition": 5
   },
   {
-    "id": "irreplaceable",
-    "title": "Irreplaceable",
-    "artist": "Beyoncé",
-    "year": 2006,
+    "id": "boulevard-of-broken-dreams-green-day",
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "year": 2005,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "gold-digger",
+    "title": "Gold Digger",
+    "artist": "Kanye West feat. Jamie Foxx",
+    "year": 2005,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "hollaback-girl",
+    "title": "Hollaback Girl",
+    "artist": "Gwen Stefani",
+    "year": 2005,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "let-me-love-you-mario",
+    "title": "Let Me Love You",
+    "artist": "Mario",
+    "year": 2005,
     "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "pon-de-replay-2005",
+    "title": "Pon de Replay",
+    "artist": "Rihanna",
+    "year": 2005,
+    "genre": "Dancehall",
+    "recognition": 5
+  },
+  {
+    "id": "since-u-been-gone-kelly-clarkson",
+    "title": "Since U Been Gone",
+    "artist": "Kelly Clarkson",
+    "year": 2005,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "we-belong-together",
+    "title": "We Belong Together",
+    "artist": "Mariah Carey",
+    "year": 2005,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "bad-day-daniel-powter",
+    "title": "Bad Day",
+    "artist": "Daniel Powter",
+    "year": 2006,
+    "genre": "Pop rock",
     "recognition": 5
   },
   {
@@ -1152,14 +5776,6 @@
     "recognition": 5
   },
   {
-    "id": "promiscuous",
-    "title": "Promiscuous",
-    "artist": "Nelly Furtado feat. Timbaland",
-    "year": 2006,
-    "genre": "Pop",
-    "recognition": 5
-  },
-  {
     "id": "hips-dont-lie",
     "title": "Hips Don't Lie",
     "artist": "Shakira feat. Wyclef Jean",
@@ -1168,27 +5784,51 @@
     "recognition": 5
   },
   {
-    "id": "low",
-    "title": "Low",
-    "artist": "Flo Rida feat. T-Pain",
-    "year": 2007,
-    "genre": "Hip-hop",
+    "id": "hips-dont-lie-shakira-feat-wyclef-jean",
+    "title": "Hips Don’t Lie",
+    "artist": "Shakira feat. Wyclef Jean",
+    "year": 2006,
+    "genre": "Latin pop",
     "recognition": 5
   },
   {
-    "id": "umbrella",
-    "title": "Umbrella",
-    "artist": "Rihanna feat. Jay-Z",
-    "year": 2007,
+    "id": "irreplaceable",
+    "title": "Irreplaceable",
+    "artist": "Beyoncé",
+    "year": 2006,
     "genre": "R&B",
     "recognition": 5
   },
   {
-    "id": "hey-there-delilah",
-    "title": "Hey There Delilah",
-    "artist": "Plain White T's",
-    "year": 2007,
+    "id": "promiscuous",
+    "title": "Promiscuous",
+    "artist": "Nelly Furtado feat. Timbaland",
+    "year": 2006,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "temperature-sean-paul",
+    "title": "Temperature",
+    "artist": "Sean Paul",
+    "year": 2006,
+    "genre": "Dancehall",
+    "recognition": 5
+  },
+  {
+    "id": "youre-beautiful-james-blunt",
+    "title": "You’re Beautiful",
+    "artist": "James Blunt",
+    "year": 2006,
     "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "beautiful-girls-2007",
+    "title": "Beautiful Girls",
+    "artist": "Sean Kingston",
+    "year": 2007,
+    "genre": "Reggae fusion",
     "recognition": 5
   },
   {
@@ -1209,6 +5849,54 @@
     "recognition": 5
   },
   {
+    "id": "buy-u-a-drank-shawty-snappin-t-pain-feat-yung-joc",
+    "title": "Buy U a Drank (Shawty Snappin’)",
+    "artist": "T-Pain feat. Yung Joc",
+    "year": 2007,
+    "genre": "Hip-hop",
+    "recognition": 4
+  },
+  {
+    "id": "hey-there-delilah",
+    "title": "Hey There Delilah",
+    "artist": "Plain White T's",
+    "year": 2007,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "low",
+    "title": "Low",
+    "artist": "Flo Rida feat. T-Pain",
+    "year": 2007,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "the-sweet-escape-gwen-stefani-feat-akon",
+    "title": "The Sweet Escape",
+    "artist": "Gwen Stefani feat. Akon",
+    "year": 2007,
+    "genre": "Pop",
+    "recognition": 4
+  },
+  {
+    "id": "umbrella",
+    "title": "Umbrella",
+    "artist": "Rihanna feat. Jay-Z",
+    "year": 2007,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "bleeding-love-leona-lewis",
+    "title": "Bleeding Love",
+    "artist": "Leona Lewis",
+    "year": 2008,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
     "id": "i-kissed-a-girl",
     "title": "I Kissed a Girl",
     "artist": "Katy Perry",
@@ -1217,11 +5905,35 @@
     "recognition": 5
   },
   {
-    "id": "viva-la-vida",
-    "title": "Viva la Vida",
-    "artist": "Coldplay",
+    "id": "love-song-sara-bareilles",
+    "title": "Love Song",
+    "artist": "Sara Bareilles",
     "year": 2008,
-    "genre": "Alternative rock",
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "low-flo-rida-feat-t-pain",
+    "title": "Low",
+    "artist": "Flo Rida feat. T-Pain",
+    "year": 2008,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "no-one-alicia-keys",
+    "title": "No One",
+    "artist": "Alicia Keys",
+    "year": 2008,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "poker-face",
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "year": 2008,
+    "genre": "Dance-pop",
     "recognition": 5
   },
   {
@@ -1233,9 +5945,57 @@
     "recognition": 5
   },
   {
+    "id": "viva-la-vida",
+    "title": "Viva la Vida",
+    "artist": "Coldplay",
+    "year": 2008,
+    "genre": "Alternative rock",
+    "recognition": 5
+  },
+  {
+    "id": "bad-romance-lady-gaga",
+    "title": "Bad Romance",
+    "artist": "Lady Gaga",
+    "year": 2009,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
     "id": "boom-boom-pow",
     "title": "Boom Boom Pow",
     "artist": "The Black Eyed Peas",
+    "year": 2009,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "i-gotta-feeling",
+    "title": "I Gotta Feeling",
+    "artist": "The Black Eyed Peas",
+    "year": 2009,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "just-dance-lady-gaga-feat-colby-odonis",
+    "title": "Just Dance",
+    "artist": "Lady Gaga feat. Colby O’Donis",
+    "year": 2009,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "poker-face-lady-gaga",
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "year": 2009,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "right-round-2009",
+    "title": "Right Round",
+    "artist": "Flo Rida feat. Kesha",
     "year": 2009,
     "genre": "Dance-pop",
     "recognition": 5
@@ -1249,34 +6009,41 @@
     "recognition": 5
   },
   {
-    "id": "i-gotta-feeling",
-    "title": "I Gotta Feeling",
-    "artist": "The Black Eyed Peas",
+    "id": "use-somebody-kings-of-leon",
+    "title": "Use Somebody",
+    "artist": "Kings of Leon",
     "year": 2009,
-    "genre": "Dance-pop",
-    "recognition": 5
-  },
-  {
-    "id": "poker-face",
-    "title": "Poker Face",
-    "artist": "Lady Gaga",
-    "year": 2008,
-    "genre": "Dance-pop",
-    "recognition": 5
-  },
-  {
-    "id": "rolling-in-the-deep",
-    "title": "Rolling in the Deep",
-    "artist": "Adele",
-    "year": 2010,
-    "peakYear": 2011,
-    "genre": "Pop",
+    "genre": "Rock",
     "recognition": 5
   },
   {
     "id": "california-gurls",
     "title": "California Gurls",
     "artist": "Katy Perry feat. Snoop Dogg",
+    "year": 2010,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "dynamite-2010",
+    "title": "Dynamite",
+    "artist": "Taio Cruz",
+    "year": 2010,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "hey-soul-sister-train",
+    "title": "Hey, Soul Sister",
+    "artist": "Train",
+    "year": 2010,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "just-the-way-you-are-bruno-mars",
+    "title": "Just the Way You Are",
+    "artist": "Bruno Mars",
     "year": 2010,
     "genre": "Pop",
     "recognition": 5
@@ -1290,6 +6057,23 @@
     "recognition": 5
   },
   {
+    "id": "need-you-now-lady-a",
+    "title": "Need You Now",
+    "artist": "Lady A",
+    "year": 2010,
+    "genre": "Country pop",
+    "recognition": 5
+  },
+  {
+    "id": "rolling-in-the-deep",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "year": 2010,
+    "peakYear": 2011,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
     "id": "teenage-dream",
     "title": "Teenage Dream",
     "artist": "Katy Perry",
@@ -1298,11 +6082,35 @@
     "recognition": 5
   },
   {
-    "id": "somebody-that-i-used-to-know",
-    "title": "Somebody That I Used to Know",
-    "artist": "Gotye feat. Kimbra",
+    "id": "et-katy-perry-feat-kanye-west",
+    "title": "E.T.",
+    "artist": "Katy Perry feat. Kanye West",
     "year": 2011,
-    "genre": "Indie pop",
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "firework-katy-perry",
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "year": 2011,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "give-me-everything-pitbull-feat-ne-yo-afrojack-and-nayer",
+    "title": "Give Me Everything",
+    "artist": "Pitbull feat. Ne-Yo, Afrojack & Nayer",
+    "year": 2011,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "moves-like-jagger",
+    "title": "Moves Like Jagger",
+    "artist": "Maroon 5 feat. Christina Aguilera",
+    "year": 2011,
+    "genre": "Pop",
     "recognition": 5
   },
   {
@@ -1314,11 +6122,19 @@
     "recognition": 5
   },
   {
-    "id": "moves-like-jagger",
-    "title": "Moves Like Jagger",
-    "artist": "Maroon 5 feat. Christina Aguilera",
+    "id": "rolling-in-the-deep-adele",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
     "year": 2011,
     "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "somebody-that-i-used-to-know",
+    "title": "Somebody That I Used to Know",
+    "artist": "Gotye feat. Kimbra",
+    "year": 2011,
+    "genre": "Indie pop",
     "recognition": 5
   },
   {
@@ -1346,11 +6162,51 @@
     "recognition": 5
   },
   {
+    "id": "lights-ellie-goulding",
+    "title": "Lights",
+    "artist": "Ellie Goulding",
+    "year": 2012,
+    "genre": "Synth-pop",
+    "recognition": 5
+  },
+  {
+    "id": "payphone-maroon-5-feat-wiz-khalifa",
+    "title": "Payphone",
+    "artist": "Maroon 5 feat. Wiz Khalifa",
+    "year": 2012,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "somebody-that-i-used-to-know-gotye-feat-kimbra",
+    "title": "Somebody That I Used to Know",
+    "artist": "Gotye feat. Kimbra",
+    "year": 2012,
+    "genre": "Indie pop",
+    "recognition": 5
+  },
+  {
+    "id": "stronger-what-doesnt-kill-you-kelly-clarkson",
+    "title": "Stronger (What Doesn’t Kill You)",
+    "artist": "Kelly Clarkson",
+    "year": 2012,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
     "id": "thrift-shop",
     "title": "Thrift Shop",
     "artist": "Macklemore & Ryan Lewis feat. Wanz",
     "year": 2012,
     "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "we-are-young-fun-feat-janelle-mon-e",
+    "title": "We Are Young",
+    "artist": "fun. feat. Janelle Monáe",
+    "year": 2012,
+    "genre": "Indie pop",
     "recognition": 5
   },
   {
@@ -1362,19 +6218,19 @@
     "recognition": 5
   },
   {
+    "id": "cant-hold-us-macklemore-and-ryan-lewis-feat-ray-dalton",
+    "title": "Can’t Hold Us",
+    "artist": "Macklemore & Ryan Lewis feat. Ray Dalton",
+    "year": 2013,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
     "id": "get-lucky",
     "title": "Get Lucky",
     "artist": "Daft Punk feat. Pharrell Williams",
     "year": 2013,
     "genre": "Disco",
-    "recognition": 5
-  },
-  {
-    "id": "royals",
-    "title": "Royals",
-    "artist": "Lorde",
-    "year": 2013,
-    "genre": "Art pop",
     "recognition": 5
   },
   {
@@ -1387,19 +6243,43 @@
     "recognition": 5
   },
   {
-    "id": "uptown-funk",
-    "title": "Uptown Funk",
-    "artist": "Mark Ronson feat. Bruno Mars",
-    "year": 2014,
-    "genre": "Funk-pop",
+    "id": "harlem-shake-baauer",
+    "title": "Harlem Shake",
+    "artist": "Baauer",
+    "year": 2013,
+    "genre": "Electronic",
+    "recognition": 4
+  },
+  {
+    "id": "radioactive-imagine-dragons",
+    "title": "Radioactive",
+    "artist": "Imagine Dragons",
+    "year": 2013,
+    "genre": "Pop rock",
     "recognition": 5
   },
   {
-    "id": "shake-it-off",
-    "title": "Shake It Off",
-    "artist": "Taylor Swift",
-    "year": 2014,
-    "genre": "Dance-pop",
+    "id": "royals",
+    "title": "Royals",
+    "artist": "Lorde",
+    "year": 2013,
+    "genre": "Art pop",
+    "recognition": 5
+  },
+  {
+    "id": "stay-rihanna-feat-mikky-ekko",
+    "title": "Stay",
+    "artist": "Rihanna feat. Mikky Ekko",
+    "year": 2013,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "thrift-shop-macklemore-and-ryan-lewis-feat-wanz",
+    "title": "Thrift Shop",
+    "artist": "Macklemore & Ryan Lewis feat. Wanz",
+    "year": 2013,
+    "genre": "Hip-hop",
     "recognition": 5
   },
   {
@@ -1411,11 +6291,51 @@
     "recognition": 5
   },
   {
-    "id": "hello",
-    "title": "Hello",
-    "artist": "Adele",
-    "year": 2015,
+    "id": "all-of-me-john-legend",
+    "title": "All of Me",
+    "artist": "John Legend",
+    "year": 2014,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "blank-space",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "year": 2014,
     "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "dark-horse-katy-perry-feat-juicy-j",
+    "title": "Dark Horse",
+    "artist": "Katy Perry feat. Juicy J",
+    "year": 2014,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "fancy-iggy-azalea-feat-charli-xcx",
+    "title": "Fancy",
+    "artist": "Iggy Azalea feat. Charli XCX",
+    "year": 2014,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "rude-magic",
+    "title": "Rude",
+    "artist": "MAGIC!",
+    "year": 2014,
+    "genre": "Reggae fusion",
+    "recognition": 5
+  },
+  {
+    "id": "shake-it-off",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "genre": "Dance-pop",
     "recognition": 5
   },
   {
@@ -1435,11 +6355,43 @@
     "recognition": 5
   },
   {
-    "id": "blank-space",
-    "title": "Blank Space",
-    "artist": "Taylor Swift",
+    "id": "uptown-funk",
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson feat. Bruno Mars",
     "year": 2014,
+    "genre": "Funk-pop",
+    "recognition": 5
+  },
+  {
+    "id": "cant-feel-my-face-the-weeknd",
+    "title": "Can’t Feel My Face",
+    "artist": "The Weeknd",
+    "year": 2015,
     "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "hello",
+    "title": "Hello",
+    "artist": "Adele",
+    "year": 2015,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "see-you-again-wiz-khalifa-feat-charlie-puth",
+    "title": "See You Again",
+    "artist": "Wiz Khalifa feat. Charlie Puth",
+    "year": 2015,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "shut-up-and-dance-walk-the-moon",
+    "title": "Shut Up and Dance",
+    "artist": "Walk the Moon",
+    "year": 2015,
+    "genre": "Pop rock",
     "recognition": 5
   },
   {
@@ -1451,11 +6403,779 @@
     "recognition": 5
   },
   {
+    "id": "sugar-maroon-5",
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "year": 2015,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "thinking-out-loud-ed-sheeran",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "year": 2015,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "trap-queen-fetty-wap",
+    "title": "Trap Queen",
+    "artist": "Fetty Wap",
+    "year": 2015,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "uptown-funk-mark-ronson-feat-bruno-mars",
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson feat. Bruno Mars",
+    "year": 2015,
+    "genre": "Funk-pop",
+    "recognition": 5
+  },
+  {
+    "id": "7-years-lukas-graham",
+    "title": "7 Years",
+    "artist": "Lukas Graham",
+    "year": 2016,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "cant-stop-the-feeling-justin-timberlake",
+    "title": "Can’t Stop the Feeling!",
+    "artist": "Justin Timberlake",
+    "year": 2016,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "cheap-thrills-sia-feat-sean-paul",
+    "title": "Cheap Thrills",
+    "artist": "Sia feat. Sean Paul",
+    "year": 2016,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "closer-the-chainsmokers-feat-halsey",
+    "title": "Closer",
+    "artist": "The Chainsmokers feat. Halsey",
+    "year": 2016,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "love-yourself-justin-bieber",
+    "title": "Love Yourself",
+    "artist": "Justin Bieber",
+    "year": 2016,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "one-dance-drake-feat-wizkid-and-kyla",
+    "title": "One Dance",
+    "artist": "Drake feat. Wizkid & Kyla",
+    "year": 2016,
+    "genre": "Dancehall",
+    "recognition": 5
+  },
+  {
+    "id": "panda-desiigner",
+    "title": "Panda",
+    "artist": "Desiigner",
+    "year": 2016,
+    "genre": "Hip-hop",
+    "recognition": 4
+  },
+  {
+    "id": "sorry-justin-bieber",
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "year": 2016,
+    "genre": "Dancehall-pop",
+    "recognition": 5
+  },
+  {
+    "id": "stressed-out-twenty-one-pilots",
+    "title": "Stressed Out",
+    "artist": "Twenty One Pilots",
+    "year": 2016,
+    "genre": "Alternative",
+    "recognition": 5
+  },
+  {
+    "id": "work-rihanna-feat-drake",
+    "title": "Work",
+    "artist": "Rihanna feat. Drake",
+    "year": 2016,
+    "genre": "Dancehall",
+    "recognition": 5
+  },
+  {
+    "id": "bad-and-boujee-migos-feat-lil-uzi-vert",
+    "title": "Bad and Boujee",
+    "artist": "Migos feat. Lil Uzi Vert",
+    "year": 2017,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "believer-imagine-dragons",
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "year": 2017,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "despacito-luis-fonsi-and-daddy-yankee",
+    "title": "Despacito",
+    "artist": "Luis Fonsi and Daddy Yankee",
+    "year": 2017,
+    "genre": "Latin pop",
+    "recognition": 5
+  },
+  {
+    "id": "humble-kendrick-lamar",
+    "title": "Humble",
+    "artist": "Kendrick Lamar",
+    "year": 2017,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "shape-of-you-ed-sheeran",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "year": 2017,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "something-just-like-this-the-chainsmokers-and-coldplay",
+    "title": "Something Just Like This",
+    "artist": "The Chainsmokers and Coldplay",
+    "year": 2017,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "thats-what-i-like-bruno-mars",
+    "title": "That’s What I Like",
+    "artist": "Bruno Mars",
+    "year": 2017,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "unforgettable-french-montana-feat-swae-lee",
+    "title": "Unforgettable",
+    "artist": "French Montana feat. Swae Lee",
+    "year": 2017,
+    "genre": "Hip-hop",
+    "recognition": 4
+  },
+  {
+    "id": "girls-like-you-maroon-5-feat-cardi-b",
+    "title": "Girls Like You",
+    "artist": "Maroon 5 feat. Cardi B",
+    "year": 2018,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "gods-plan-drake",
+    "title": "God’s Plan",
+    "artist": "Drake",
+    "year": 2018,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "havana-camila-cabello-feat-young-thug",
+    "title": "Havana",
+    "artist": "Camila Cabello feat. Young Thug",
+    "year": 2018,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "in-my-feelings-drake",
+    "title": "In My Feelings",
+    "artist": "Drake",
+    "year": 2018,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "meant-to-be-bebe-rexha-feat-florida-georgia-line",
+    "title": "Meant to Be",
+    "artist": "Bebe Rexha feat. Florida Georgia Line",
+    "year": 2018,
+    "genre": "Country pop",
+    "recognition": 5
+  },
+  {
+    "id": "perfect-ed-sheeran",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "year": 2018,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "psycho-post-malone-feat-ty-dolla-sign",
+    "title": "Psycho",
+    "artist": "Post Malone feat. Ty Dolla Sign",
+    "year": 2018,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "rockstar-post-malone-feat-21-savage",
+    "title": "Rockstar",
+    "artist": "Post Malone feat. 21 Savage",
+    "year": 2018,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "shallow-lady-gaga-and-bradley-cooper",
+    "title": "Shallow",
+    "artist": "Lady Gaga and Bradley Cooper",
+    "year": 2018,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-middle-zedd-maren-morris-and-grey",
+    "title": "The Middle",
+    "artist": "Zedd, Maren Morris & Grey",
+    "year": 2018,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "7-rings-ariana-grande",
+    "title": "7 Rings",
+    "artist": "Ariana Grande",
+    "year": 2019,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "bad-guy-billie-eilish",
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "year": 2019,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "happier-marshmello-and-bastille",
+    "title": "Happier",
+    "artist": "Marshmello and Bastille",
+    "year": 2019,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
     "id": "old-town-road",
     "title": "Old Town Road",
     "artist": "Lil Nas X feat. Billy Ray Cyrus",
     "year": 2019,
     "genre": "Country rap",
+    "recognition": 5
+  },
+  {
+    "id": "sunflower-post-malone-and-swae-lee",
+    "title": "Sunflower",
+    "artist": "Post Malone and Swae Lee",
+    "year": 2019,
+    "genre": "Pop rap",
+    "recognition": 5
+  },
+  {
+    "id": "talk-khalid",
+    "title": "Talk",
+    "artist": "Khalid",
+    "year": 2019,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "without-me-halsey",
+    "title": "Without Me",
+    "artist": "Halsey",
+    "year": 2019,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "wow-post-malone",
+    "title": "Wow.",
+    "artist": "Post Malone",
+    "year": 2019,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "adore-you-harry-styles",
+    "title": "Adore You",
+    "artist": "Harry Styles",
+    "year": 2020,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "blinding-lights-the-weeknd",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "year": 2020,
+    "genre": "Synth-pop",
+    "recognition": 5
+  },
+  {
+    "id": "circles-post-malone",
+    "title": "Circles",
+    "artist": "Post Malone",
+    "year": 2020,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "dont-start-now-dua-lipa",
+    "title": "Don’t Start Now",
+    "artist": "Dua Lipa",
+    "year": 2020,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "life-is-good-future-feat-drake",
+    "title": "Life Is Good",
+    "artist": "Future feat. Drake",
+    "year": 2020,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "memories-maroon-5",
+    "title": "Memories",
+    "artist": "Maroon 5",
+    "year": 2020,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "rockstar-dababy-feat-roddy-ricch",
+    "title": "Rockstar",
+    "artist": "DaBaby feat. Roddy Ricch",
+    "year": 2020,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "say-so-doja-cat",
+    "title": "Say So",
+    "artist": "Doja Cat",
+    "year": 2020,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-bones-maren-morris",
+    "title": "The Bones",
+    "artist": "Maren Morris",
+    "year": 2020,
+    "genre": "Country pop",
+    "recognition": 5
+  },
+  {
+    "id": "the-box-roddy-ricch",
+    "title": "The Box",
+    "artist": "Roddy Ricch",
+    "year": 2020,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "butter-bts",
+    "title": "Butter",
+    "artist": "BTS",
+    "year": 2021,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "drivers-license-olivia-rodrigo",
+    "title": "Drivers License",
+    "artist": "Olivia Rodrigo",
+    "year": 2021,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "good-4-u-olivia-rodrigo",
+    "title": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "year": 2021,
+    "genre": "Pop punk",
+    "recognition": 5
+  },
+  {
+    "id": "kiss-me-more-doja-cat-feat-sza",
+    "title": "Kiss Me More",
+    "artist": "Doja Cat feat. SZA",
+    "year": 2021,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "leave-the-door-open-silk-sonic",
+    "title": "Leave the Door Open",
+    "artist": "Silk Sonic",
+    "year": 2021,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "levitating-dua-lipa",
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "year": 2021,
+    "genre": "Dance-pop",
+    "recognition": 5
+  },
+  {
+    "id": "mood-24kgoldn-feat-iann-dior",
+    "title": "Mood",
+    "artist": "24kGoldn feat. iann dior",
+    "year": 2021,
+    "genre": "Pop rap",
+    "recognition": 5
+  },
+  {
+    "id": "peaches-justin-bieber-feat-daniel-caesar-and-giveon",
+    "title": "Peaches",
+    "artist": "Justin Bieber feat. Daniel Caesar & Giveon",
+    "year": 2021,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "save-your-tears-the-weeknd-and-ariana-grande",
+    "title": "Save Your Tears",
+    "artist": "The Weeknd and Ariana Grande",
+    "year": 2021,
+    "genre": "Synth-pop",
+    "recognition": 5
+  },
+  {
+    "id": "about-damn-time-lizzo",
+    "title": "About Damn Time",
+    "artist": "Lizzo",
+    "year": 2022,
+    "genre": "Funk-pop",
+    "recognition": 5
+  },
+  {
+    "id": "as-it-was-harry-styles",
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "year": 2022,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "bad-habits-ed-sheeran",
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "year": 2022,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "big-energy-latto",
+    "title": "Big Energy",
+    "artist": "Latto",
+    "year": 2022,
+    "genre": "Hip-hop",
+    "recognition": 4
+  },
+  {
+    "id": "easy-on-me-adele",
+    "title": "Easy on Me",
+    "artist": "Adele",
+    "year": 2022,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "first-class-jack-harlow",
+    "title": "First Class",
+    "artist": "Jack Harlow",
+    "year": 2022,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "heat-waves-glass-animals",
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "year": 2022,
+    "genre": "Indie pop",
+    "recognition": 5
+  },
+  {
+    "id": "shivers-ed-sheeran",
+    "title": "Shivers",
+    "artist": "Ed Sheeran",
+    "year": 2022,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "stay-the-kid-laroi-and-justin-bieber",
+    "title": "Stay",
+    "artist": "The Kid Laroi and Justin Bieber",
+    "year": 2022,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "wait-for-u-future-feat-drake-and-tems",
+    "title": "Wait for U",
+    "artist": "Future feat. Drake and Tems",
+    "year": 2022,
+    "genre": "Hip-hop",
+    "recognition": 4
+  },
+  {
+    "id": "anti-hero-taylor-swift",
+    "title": "Anti-Hero",
+    "artist": "Taylor Swift",
+    "year": 2023,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "calm-down-rema-and-selena-gomez",
+    "title": "Calm Down",
+    "artist": "Rema and Selena Gomez",
+    "year": 2023,
+    "genre": "Afrobeats",
+    "recognition": 5
+  },
+  {
+    "id": "creepin-metro-boomin-the-weeknd-and-21-savage",
+    "title": "Creepin’",
+    "artist": "Metro Boomin, The Weeknd & 21 Savage",
+    "year": 2023,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "cruel-summer-taylor-swift",
+    "title": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "year": 2023,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "die-for-you-the-weeknd-and-ariana-grande",
+    "title": "Die for You",
+    "artist": "The Weeknd and Ariana Grande",
+    "year": 2023,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "fast-car-luke-combs",
+    "title": "Fast Car",
+    "artist": "Luke Combs",
+    "year": 2023,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "flowers-miley-cyrus",
+    "title": "Flowers",
+    "artist": "Miley Cyrus",
+    "year": 2023,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "kill-bill-sza",
+    "title": "Kill Bill",
+    "artist": "SZA",
+    "year": 2023,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "last-night-morgan-wallen",
+    "title": "Last Night",
+    "artist": "Morgan Wallen",
+    "year": 2023,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "snooze-sza",
+    "title": "Snooze",
+    "artist": "SZA",
+    "year": 2023,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "a-bar-song-tipsy-shaboozey",
+    "title": "A Bar Song (Tipsy)",
+    "artist": "Shaboozey",
+    "year": 2024,
+    "genre": "Country rap",
+    "recognition": 5
+  },
+  {
+    "id": "beautiful-things-benson-boone",
+    "title": "Beautiful Things",
+    "artist": "Benson Boone",
+    "year": 2024,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "birds-of-a-feather-billie-eilish",
+    "title": "Birds of a Feather",
+    "artist": "Billie Eilish",
+    "year": 2024,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "espresso-sabrina-carpenter",
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "year": 2024,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "i-had-some-help-post-malone-feat-morgan-wallen",
+    "title": "I Had Some Help",
+    "artist": "Post Malone feat. Morgan Wallen",
+    "year": 2024,
+    "genre": "Country pop",
+    "recognition": 5
+  },
+  {
+    "id": "lose-control-teddy-swims",
+    "title": "Lose Control",
+    "artist": "Teddy Swims",
+    "year": 2024,
+    "genre": "Soul",
+    "recognition": 5
+  },
+  {
+    "id": "not-like-us-kendrick-lamar",
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "year": 2024,
+    "genre": "Hip-hop",
+    "recognition": 5
+  },
+  {
+    "id": "please-please-please-sabrina-carpenter",
+    "title": "Please Please Please",
+    "artist": "Sabrina Carpenter",
+    "year": 2024,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "texas-hold-em-beyonc",
+    "title": "Texas Hold ’Em",
+    "artist": "Beyoncé",
+    "year": 2024,
+    "genre": "Country",
+    "recognition": 5
+  },
+  {
+    "id": "too-sweet-hozier",
+    "title": "Too Sweet",
+    "artist": "Hozier",
+    "year": 2024,
+    "genre": "Pop rock",
+    "recognition": 5
+  },
+  {
+    "id": "apt-ros-and-bruno-mars",
+    "title": "APT.",
+    "artist": "Rosé and Bruno Mars",
+    "year": 2025,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "die-with-a-smile-lady-gaga-and-bruno-mars",
+    "title": "Die with a Smile",
+    "artist": "Lady Gaga and Bruno Mars",
+    "year": 2025,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "golden-huntr-x",
+    "title": "Golden",
+    "artist": "HUNTR/X",
+    "year": 2025,
+    "genre": "K-pop",
+    "recognition": 5
+  },
+  {
+    "id": "good-luck-babe-chappell-roan",
+    "title": "Good Luck, Babe!",
+    "artist": "Chappell Roan",
+    "year": 2025,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "luther-kendrick-lamar-and-sza",
+    "title": "Luther",
+    "artist": "Kendrick Lamar and SZA",
+    "year": 2025,
+    "genre": "R&B",
+    "recognition": 5
+  },
+  {
+    "id": "ordinary-alex-warren",
+    "title": "Ordinary",
+    "artist": "Alex Warren",
+    "year": 2025,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "pink-pony-club-chappell-roan",
+    "title": "Pink Pony Club",
+    "artist": "Chappell Roan",
+    "year": 2025,
+    "genre": "Pop",
+    "recognition": 5
+  },
+  {
+    "id": "taste-sabrina-carpenter",
+    "title": "Taste",
+    "artist": "Sabrina Carpenter",
+    "year": 2025,
+    "genre": "Pop",
     "recognition": 5
   }
 ]

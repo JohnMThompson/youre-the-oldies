@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { songs } from '../lib/comparison';
 const nowYear = new Date().getFullYear();
-const minYear = 1950;
+const minYear = 1945;
 const firstCatalogYear = Math.min(...songs.map((song) => song.year));
 const latestCatalogYear = Math.max(...songs.map((song) => song.year));
 ---
@@ -81,7 +81,7 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
   let current: Comparison | undefined;
   const thisYear = new Date().getFullYear();
   const supportedYears: number[] = [];
-  for (let year = 1950; year <= thisYear; year++) {
+  for (let year = 1945; year <= thisYear; year++) {
     const hasMatch = songs.some((song) => song.year >= year - 4 && song.year <= year && createComparison(year, thisYear, song.id));
     if (hasMatch) supportedYears.push(year);
   }
@@ -125,8 +125,8 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
   form.addEventListener('submit', (event) => {
     event.preventDefault();
     grad = Number(input.value);
-    if (!Number.isInteger(grad) || grad < 1950 || grad > thisYear) {
-      input.setCustomValidity(`Enter a year between 1950 and ${thisYear}.`);
+    if (!Number.isInteger(grad) || grad < 1945 || grad > thisYear) {
+      input.setCustomValidity(`Enter a year between 1945 and ${thisYear}.`);
       input.reportValidity();
       return;
     }
@@ -177,7 +177,7 @@ const latestCatalogYear = Math.max(...songs.map((song) => song.year));
 
   const params = new URLSearchParams(window.location.search);
   const sharedGrad = Number(params.get('grad'));
-  if (Number.isInteger(sharedGrad) && sharedGrad >= 1950 && sharedGrad <= thisYear) {
+  if (Number.isInteger(sharedGrad) && sharedGrad >= 1945 && sharedGrad <= thisYear) {
     grad = sharedGrad;
     input.value = String(grad);
     const sharedSong = params.get('song') || undefined;

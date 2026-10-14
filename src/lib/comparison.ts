@@ -53,7 +53,7 @@ export function createComparison(
   excludedIds: string[] = [],
   available: Song[] = songs,
 ): Comparison | undefined {
-  if (!Number.isInteger(graduationYear) || graduationYear < 1950 || graduationYear > currentYear) return undefined;
+  if (!Number.isInteger(graduationYear) || graduationYear < 1945 || graduationYear > currentYear) return undefined;
   const schoolSongs = available.filter((song) => song.year >= graduationYear - 4 && song.year <= graduationYear);
   const schoolSong = schoolSongs.find((song) => song.id === selectedSongId) ??
     [...schoolSongs].sort((a, b) => b.recognition - a.recognition || b.year - a.year || a.id.localeCompare(b.id))[0];
